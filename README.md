@@ -6,6 +6,13 @@ This project provides insights into sales, inventory, and customer feedback thro
 
 ---
 
+## 🚀 Project Overview
+
+This dashboard helps analyze store operations by integrating SQL data into a Python application.  
+It provides visual insights into sales, stock, and customer feedback.
+
+---
+
 ## 🚀 Features
 
 - Sales analytics dashboard
@@ -67,7 +74,17 @@ python main_app.py
 
 ## 📊 Dashboard Preview
 
+![Dashboard Screenshot](screenshots/dashboard.png)
 
+---
+
+## 💡 Key Features
+
+- Sales performance dashboard
+- Inventory tracking
+- SQL database integration
+- Modular Python architecture
+- Easy to expand with new analytics modules
 
 ---
 
@@ -81,6 +98,6 @@ https://github.com/kumarvikasarc-design
 
 ---
 
-## 📄 License
+## ⭐ Support
 
-This project is for learning and demonstration purposes.
+If you like this project, please ⭐ the repository.
