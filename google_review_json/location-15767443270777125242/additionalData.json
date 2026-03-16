@@ -1,0 +1,901 @@
+{
+  "attributes": [{
+    "id": {
+      "attributeType": "LISTING_NAME"
+    },
+    "values": [{
+      "datum": {
+        "listingName": {
+          "text": "Coffee Island | HQ27"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "PHONE_NUMBER"
+    },
+    "values": [{
+      "datum": {
+        "phoneNumber": {
+          "phoneNumber": "088821 51799",
+          "metadata": {
+            "isPreferred": true
+          },
+          "phoneType": "VOICE",
+          "phoneNumberRfc3966": "tel:+91-88821-51799"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "ADDRESS"
+    },
+    "values": [{
+      "datum": {
+        "address": {
+          "postalAddress": {
+            "regionCode": "IN",
+            "languageCode": "en",
+            "postalCode": "122002",
+            "administrativeArea": "Haryana",
+            "locality": "Gurugram",
+            "addressLines": ["HQ27 661", "@, B Block Drive", "Sushant Lok Phase I, Sector 43"]
+          }
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "POINT"
+    },
+    "values": [{
+      "datum": {
+        "point": {
+          "latE7": 284659503,
+          "lngE7": 770740104
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SERVICE_AREA"
+    }
+  }, {
+    "id": {
+      "attributeType": "SIGNUP_REGION"
+    },
+    "values": [{
+      "datum": {
+        "signupRegion": {
+          "regionCode": "IN"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "CATEGORY"
+    },
+    "values": [{
+      "datum": {
+        "category": {
+          "gcid": "gcid:coffee_shop",
+          "metadata": {
+            "isPrimary": true
+          },
+          "localizedName": "Coffee shop"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "WEBSITE"
+    },
+    "values": [{
+      "datum": {
+        "website": {
+          "text": "http://www.coffeeisland.in/"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "OPENING_DATE"
+    },
+    "values": [{
+      "datum": {
+        "openingDate": {
+          "date": {
+            "year": 2025,
+            "month": 1,
+            "day": 29
+          }
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "BUSINESS_EXISTENCE"
+    },
+    "values": [{
+      "datum": {
+        "businessExistence": {
+          "businessState": "OPEN"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "CLOSURE"
+    },
+    "values": [{
+      "datum": {
+        "closure": {
+          "type": "NOT_CLOSED"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "REGULAR_HOURS"
+    },
+    "values": [{
+      "datum": {
+        "regularHours": {
+          "periods": [{
+            "startDay": "SUNDAY",
+            "openTime": {
+              "hours": 8
+            },
+            "endDay": "SUNDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "MONDAY",
+            "openTime": {
+              "hours": 8
+            },
+            "endDay": "MONDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "TUESDAY",
+            "openTime": {
+              "hours": 8
+            },
+            "endDay": "TUESDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "WEDNESDAY",
+            "openTime": {
+              "hours": 8
+            },
+            "endDay": "WEDNESDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "THURSDAY",
+            "openTime": {
+              "hours": 8
+            },
+            "endDay": "THURSDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "FRIDAY",
+            "openTime": {
+              "hours": 8
+            },
+            "endDay": "FRIDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "SATURDAY",
+            "openTime": {
+              "hours": 8
+            },
+            "endDay": "SATURDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }]
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "MERCHANT_DESCRIPTION"
+    },
+    "values": [{
+      "datum": {
+        "merchantDescription": {
+          "text": "No desks, no deadlines—just the best coffee and conversations.\n\n#ComeOnOver to Coffee Island☕"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_live_music"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_wine"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_beer"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_dessert"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_seating"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_liquor"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_lunch"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_onsite_services"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_wheelchair_accessible_entrance"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_wheelchair_accessible_seating"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_parking_lot_paid"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "pay_credit_card"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "welcomes_families"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_high_chairs"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "pay_debit_card"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_brunch"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "accepts_sodexo_meal_voucher"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_bar_onsite"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_vegetarian_only"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_dinner"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "pay_mobile_nfc"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "requires_appointments"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "requires_cash_only"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_curbside_pickup"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_restroom"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_recycling_electronics"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_takeout"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "accepts_meal_coupons"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "pay_mobile_tez"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "allows_dogs_inside"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "accepts_reservations"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "suitable_for_watching_sports"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_breakfast"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_dine_in"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_onsite_parking"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_no_contact_delivery"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_alcohol"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_small_plates"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "welcomes_children"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_live_performances"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_delivery"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "allows_dogs_outside"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_coffee"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_childrens_menu"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "welcomes_lgbtq"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_wheelchair_accessible_parking"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_parking_lot_free"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_cocktails"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_drive_through"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_UNIQUE_ENUM",
+      "scalableAttributeExternalId": "wi_fi"
+    },
+    "values": [{
+      "datum": {
+        "scalableUniqueEnum": {
+          "externalId": "free_wi_fi"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_DEEP_LINK",
+      "scalableAttributeExternalId": "url_instagram"
+    },
+    "values": [{
+      "datum": {
+        "scalableDeepLink": {
+          "uri": "https://www.instagram.com/coffee.island.in/"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_DEEP_LINK",
+      "scalableAttributeExternalId": "url_facebook"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_DEEP_LINK",
+      "scalableAttributeExternalId": "url_twitter"
+    },
+    "values": [{
+      "datum": {
+        "scalableDeepLink": {
+          "uri": "https://x.com/Coffeeisland_IN"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "GEOSTORE_PRICE_INFO"
+    }
+  }, {
+    "id": {
+      "attributeType": "DISALLOW_PHONE_NUMBER_EDITS"
+    },
+    "values": [{
+      "datum": {
+        "kgProperty": {
+          "valueProto": {
+            "@type": "type.googleapis.com/freebase.Value",
+            "type": "TYPE_BOOL",
+            "boolValue": false
+          }
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "EXCEPTIONAL_HOURS"
+    }
+  }, {
+    "id": {
+      "attributeType": "VANITY_DATA"
+    }
+  }, {
+    "id": {
+      "attributeType": "FOOD_ORDERING_MERCHANT_PREFERENCE"
+    }
+  }, {
+    "id": {
+      "attributeType": "ACCEPTS_QUOTE_REQUESTS"
+    }
+  }, {
+    "id": {
+      "attributeType": "CALL_TRACKING"
+    }
+  }, {
+    "id": {
+      "attributeType": "ACCEPTS_SERVICE_REQUESTS"
+    }
+  }, {
+    "id": {
+      "attributeType": "QBC_PRODUCT_TYPE"
+    }
+  }, {
+    "id": {
+      "attributeType": "LABEL"
+    }
+  }, {
+    "id": {
+      "attributeType": "STORE_CODE"
+    },
+    "values": [{
+      "datum": {
+        "storeCode": {
+          "text": "13107004522005747343"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "GOOGLE_ADS_EXTENSION"
+    }
+  }, {
+    "id": {
+      "attributeType": "ASSISTANT_CALLS_SETTING"
+    }
+  }, {
+    "id": {
+      "attributeType": "CHAIN_SELF_IDENTIFICATION"
+    }
+  }, {
+    "id": {
+      "attributeType": "ADMIN_ROLE_CLAIM"
+    }
+  }, {
+    "id": {
+      "attributeType": "MESSAGING_METADATA"
+    }
+  }, {
+    "id": {
+      "attributeType": "GLS_ACCOUNT_STATE"
+    }
+  }, {
+    "id": {
+      "attributeType": "NOREN_QR_CODE_ORDER"
+    }
+  }]
+}

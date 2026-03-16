@@ -1,0 +1,262 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Vaibhav Sabale"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice Cappuccino and staff very Nice",
+    "createTime": "2026-01-10T13:51:13.441073Z",
+    "updateTime": "2026-01-10T13:51:13.441073Z",
+    "reviewReply": {
+      "comment": "Thank you! We\u0027re so happy you had a great coffee experience. Can’t wait to have you back - there’s always more to discover!",
+      "updateTime": "2026-01-13T06:37:03.915556Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSFRYVktURmxQV1ROWFZqWmlWbWt5Vld0cloxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rohit Jannu"
+    },
+    "starRating": "FIVE",
+    "comment": "Shabaz made a perfect latte art",
+    "createTime": "2026-01-08T05:04:40.242279Z",
+    "updateTime": "2026-01-08T05:04:40.242279Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the latte art and your overall experience. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-10T12:26:04.738866Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WT2NrTlFVMk4wYWxGTVFYVllUbTFmT0dKUGJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Shahid Tadvi"
+    },
+    "starRating": "FIVE",
+    "comment": "Really great place to visit, The ambience here is the best",
+    "createTime": "2026-01-07T10:53:45.170352Z",
+    "updateTime": "2026-01-07T10:53:45.170352Z",
+    "reviewReply": {
+      "comment": "Thank you! We’re glad you enjoyed the ambience and had a great visit. Hope to see you again soon.",
+      "updateTime": "2026-01-10T12:25:11.630711Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WVGNYRTRVekJ6ZHpsMmIwOXFNV3g1V21KYVYxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nikhil Basodiya"
+    },
+    "starRating": "FIVE",
+    "comment": "All the staff were really incredible",
+    "createTime": "2026-01-07T10:51:20.127145Z",
+    "updateTime": "2026-01-07T10:51:20.127145Z",
+    "reviewReply": {
+      "comment": "We’re glad you had a great experience with our team. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-10T12:24:31.830261Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paMVpHZzNjMnAxWTJkdVZHUlVibXN3WjA1dVYwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fara P"
+    },
+    "starRating": "ONE",
+    "comment": "Coffee was average ...food not good...we had the chicken toasties ...tasted like a regular street vendor nothing too great...pastry was average",
+    "createTime": "2026-01-05T15:12:19.999695Z",
+    "updateTime": "2026-01-05T15:12:19.999695Z",
+    "reviewReply": {
+      "comment": "Thank you for sharing your feedback. We’re sorry to hear that the food and coffee didn’t meet your expectations. This is not the experience we aim to deliver, and your comments regarding the chicken toasties and pastry have been noted for review.\n\nFor us to look into this properly, please DM us on Instagram @coffee.island.in or write to us at hello@coffeeisland.in, and our team will connect with you directly.",
+      "updateTime": "2026-01-07T07:20:31.310525Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsNlJHTklaeTFaTjFjeFZrVlFhbTFaVDNwb1pXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Saniya Agarwal"
+    },
+    "starRating": "FIVE",
+    "comment": "Good place, great coffee, friendly staff.",
+    "createTime": "2026-01-05T14:40:38.058951Z",
+    "updateTime": "2026-01-05T14:40:38.058951Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the coffee and friendly service. Hope to see you again soon.",
+      "updateTime": "2026-01-07T07:22:07.622854Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xreFNGVlFkWFpqUm1kalMxTkRhVVUyVW1WaVRGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "kirti ughrejia"
+    },
+    "starRating": "FIVE",
+    "comment": "Staff was polite and well behave Rewa has given good services",
+    "createTime": "2026-01-04T10:55:11.266046Z",
+    "updateTime": "2026-01-04T10:55:11.266046Z",
+    "reviewReply": {
+      "comment": "We’re glad you experienced polite, well-mannered service. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-05T09:45:47.203165Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCQ09EWnRXazFWY1ZaSFpFSjBPWGxSWjJONUxVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Neha Verma"
+    },
+    "starRating": "FIVE",
+    "comment": "I thoroughly enjoyed the coffee and the amazing service. The staff was incredibly sweet. Thanks, Rewa!",
+    "createTime": "2026-01-04T10:38:34.618672Z",
+    "updateTime": "2026-01-04T10:38:34.618672Z",
+    "reviewReply": {
+      "comment": "Thank you for the lovely feedback! We’re glad you enjoyed the coffee and experienced such warm, sweet service. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-10T12:23:55.277433Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT21odU5sUXhZMU5JZVRKS2VFeDBVVUY0V21sM05WRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alisha"
+    },
+    "starRating": "FIVE",
+    "comment": "I personally like the coffee taste here.\nAnd would appreciate the service by Ali and Ruha here since i came here with my kid and they were so good with him , coz of the service i had an amazing coffee date with my baby.",
+    "createTime": "2026-01-03T07:01:22.028381Z",
+    "updateTime": "2026-01-03T07:01:22.028381Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the coffee and had a comfortable visit with your little one. It’s wonderful to hear our team helped make it a special coffee date. Looking forward to welcoming you again.",
+      "updateTime": "2026-01-05T09:45:14.890574Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1dlJVNUNValF3VjNGWFNrOXRhMk5TV0ZwNk9IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruman Inamdar"
+    },
+    "starRating": "FIVE",
+    "comment": "Tried the Belgian Dark Hot Chocolate here, and absolutely loved it. Rich, smooth, and perfectly balanced, not overly sweet, just deep chocolate comfort in a cup. One of those drinks you remember and come back for ☕🍫",
+    "createTime": "2026-01-02T14:07:17.659343Z",
+    "updateTime": "2026-01-02T14:07:17.659343Z",
+    "reviewReply": {
+      "comment": "We’re glad you loved the Belgian Dark Hot Chocolate - rich, balanced, and memorable just as it should be. Looking forward to welcoming you back for another cup.",
+      "updateTime": "2026-01-07T07:21:14.293673Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wZmEzZHNhbXBrWWpGNlZUbERXVm8yVmxWYU1IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nabil Tamboli"
+    },
+    "starRating": "FIVE",
+    "comment": "Great coffee, friendly staff, and relaxing music – perfect place to unwind after work.\nShahabaz was a perfect barista.",
+    "createTime": "2025-12-31T17:47:06.350673Z",
+    "updateTime": "2025-12-31T17:47:06.350673Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the coffee, relaxed vibe, and welcoming service. It’s wonderful to hear we could be a perfect spot to unwind after work.",
+      "updateTime": "2026-01-02T04:43:18.817341Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xab2VXUkZSWEIwVTIxWFYzazVhMHBoVTAxVVYwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Moiz Bagwan"
+    },
+    "starRating": "FIVE",
+    "comment": "Shahabaz was a perfect barista\nAbsolutely loved the coffee and cozy vibe here, will definitely be coming back again",
+    "createTime": "2025-12-31T17:46:41.048973Z",
+    "updateTime": "2025-12-31T17:46:41.048973Z",
+    "reviewReply": {
+      "comment": " We’re glad you enjoyed the coffee and cosy vibe. Looking forward to welcoming you back again soon.",
+      "updateTime": "2026-01-02T04:44:05.958701Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxdWJGOUVObFpZTVY5VVpqZDBZVzg1T1dneVlrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Umer Khan"
+    },
+    "starRating": "FIVE",
+    "comment": "Such a lovely café with a calm, inviting atmosphere and genuinely kind staff. The barista took the time to suggest a drink based on my taste, and it turned out to be one of the best cold brews I have had in a long time. This place is ideal for both working quietly and meeting friends.\n\nShahabaz was a perfect barista.",
+    "createTime": "2025-12-31T17:46:04.293198Z",
+    "updateTime": "2025-12-31T17:46:04.293198Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the calm ambience, thoughtful service, and your cold brew. It’s great to hear the space worked well for both work and catching up with friends. We look forward to welcoming you again soon.",
+      "updateTime": "2026-01-02T04:44:41.567456Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4V1VFeGZlR2szWkZSalJYVTNaWEJZWWkxdlduYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Being Suhaan"
+    },
+    "starRating": "FIVE",
+    "comment": "Shabaz Mocha: I went to celebrate my birthday it was a great experience Shahabaj and team made my birthday memorable, I will definitely tell my experience to all muly contact, thank you so much coffee island. Perfect service by Shahabaz",
+    "createTime": "2025-12-31T17:44:18.942461Z",
+    "updateTime": "2025-12-31T17:44:18.942461Z",
+    "reviewReply": {
+      "comment": "Thank you for celebrating your special day with us! We’re delighted to hear you had a memorable birthday experience and enjoyed the service. Wishing you many more great moments, hope to welcome you again soon.",
+      "updateTime": "2026-01-02T04:46:14.534010Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJNU1sSkpaMWRZVkd0RFJHTTVOM1JXZEdOd1ZrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nazia qureshi"
+    },
+    "starRating": "FIVE",
+    "comment": "Liked the ambience of the place and the beverages were top notch.\nThanks to Reva for the outstanding service.\nReally liked the place .\nWould Like to recommend this place to anyone who wants to have a hangout with friends and family.",
+    "createTime": "2025-12-31T13:28:59.614265Z",
+    "updateTime": "2025-12-31T13:28:59.614265Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the ambience, beverages, and overall experience. We truly appreciate the recommendation and look forward to welcoming you again.",
+      "updateTime": "2026-01-02T04:45:31.107983Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOek5IbFdXVE54Y2kxYVFtaDJlV0Z2VWxad1pIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "parija parikh"
+    },
+    "starRating": "FIVE",
+    "comment": "Great coffee and ambience. Reva is very helpful and sweet.\nMust visit",
+    "createTime": "2025-12-31T11:57:07.668364Z",
+    "updateTime": "2025-12-31T11:57:07.668364Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the coffee and ambience and had a great experience with our team. We truly appreciate the recommendation and hope to see you again soon.",
+      "updateTime": "2026-01-02T04:46:54.069420Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKcE9UZERkRkZYZUVkdFIyRnpSakpsVkdKQ1JtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "SADAF KHAN"
+    },
+    "starRating": "FIVE",
+    "comment": "I thoroughly enjoyed the coffee, and the staff were exceptionally courteous and professional. In particular, I would like to commend Shabaz, Ajay, and Atharva for their excellent service.",
+    "createTime": "2025-12-30T14:04:09.080175Z",
+    "updateTime": "2025-12-30T14:04:09.080175Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the coffee and experienced courteous, professional service. Your appreciation means a lot to us, and we look forward to welcoming you again soon.",
+      "updateTime": "2026-01-02T04:47:40.395796Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdVZuUm5jVVUyUTNZNE9GcE1OVUV4VUdwdk9YYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bharati Bhatnagar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-30T12:40:19.570196Z",
+    "updateTime": "2025-12-30T12:40:19.570196Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2026-01-05T09:44:13.742491Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoelpWRlZabnBqVERJeVYzcG9aM05JYjFOVGQyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Umar Jamadar"
+    },
+    "starRating": "FIVE",
+    "comment": "Very nice cafe and ambience good coffee maded by shahabaj",
+    "createTime": "2025-12-30T11:27:01.368701Z",
+    "updateTime": "2025-12-30T11:27:01.368701Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the café, ambience, and the coffee! Always happy to know your visit was a good one. Looking forward to welcoming you back soon for another great cup. ☕",
+      "updateTime": "2025-12-30T11:37:30.631002Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5QlozWkpkVVJNZFdsVVRUSlZjWEJZUldKeE5sRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sharon_Mathur"
+    },
+    "starRating": "FIVE",
+    "comment": "Had a great experience with my sisters here. Great atmosphere to catch up over a good cup of coffee. We were seved very nicely by Rewa.",
+    "createTime": "2025-12-28T11:19:32.157607Z",
+    "updateTime": "2025-12-28T11:19:32.157607Z",
+    "reviewReply": {
+      "comment": "Glad to know you had a lovely time catching up with your sisters! It’s great to hear the atmosphere and coffee made it a memorable visit. Looking forward to welcoming you again soon. ☕",
+      "updateTime": "2025-12-29T10:59:18.091218Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZNGNFWmxYM0JxZEd0RVdYRkhZM00wTUc5bk5tYxAB"
+  }]
+}

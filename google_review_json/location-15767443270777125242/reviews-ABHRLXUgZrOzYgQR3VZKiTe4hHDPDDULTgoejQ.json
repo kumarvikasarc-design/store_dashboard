@@ -1,0 +1,259 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Anushka Sharma"
+    },
+    "starRating": "FIVE",
+    "comment": "I had a genuine experience and was very satisfied with the experience and the taste of my coffee was heavenly thanku for your services.",
+    "createTime": "2025-12-31T17:17:13.579611Z",
+    "updateTime": "2025-12-31T17:17:13.579611Z",
+    "reviewReply": {
+      "comment": "We’re delighted to hear you had a great experience and enjoyed the heavenly taste of your coffee. We truly appreciate your kind words and hope to see you again soon.",
+      "updateTime": "2026-01-02T04:26:52.457267Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poS1JFaDZXazlaV21Sd01WYzJZbWxsYzBOTmMyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ankit Shah"
+    },
+    "starRating": "FIVE",
+    "comment": "Great coffee and food. Very good service by Aman.",
+    "createTime": "2025-12-31T09:53:42.866348Z",
+    "updateTime": "2025-12-31T09:53:42.866348Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the coffee, food, and service. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-02T04:27:32.619132Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toS1ZsaHFkbXBtUVZOWVIyWndhV3RWVEVaaFoyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "kshitij ahuja"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-12-31T05:24:12.338859Z",
+    "updateTime": "2025-12-31T05:24:12.338859Z",
+    "reviewReply": {
+      "comment": "We’re glad you had a good experience and truly appreciate your support. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-02T04:27:57.560584Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaelUxaE1hMVJvTmxCc1N5MXhNV0ZEVFVwaWJFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Arvind"
+    },
+    "starRating": "FIVE",
+    "comment": "Lajawab coffee by Subhash nice place good coffee and my experience was best",
+    "createTime": "2025-12-30T12:37:28.289481Z",
+    "updateTime": "2025-12-30T12:37:28.289481Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the coffee and service. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-02T04:28:25.614039Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xSFNXTlBTa0o2VWxSblMxTlRZVmxXTlhKcWMzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Digvijay Singh"
+    },
+    "starRating": "FIVE",
+    "comment": "Amazing coffee by Subhash my experience was very good",
+    "createTime": "2025-12-30T12:34:51.061766Z",
+    "updateTime": "2025-12-30T12:34:51.061766Z",
+    "reviewReply": {
+      "comment": "We’re delighted to hear you had a great experience and enjoyed your coffee. We truly appreciate your kind words and hope to see you again soon.",
+      "updateTime": "2026-01-02T04:28:51.096993Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSMlNrRnVXVzk2V0Zaak9EVmhXa2hvY1dSU1ZYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pranav Sharma"
+    },
+    "starRating": "FOUR",
+    "comment": "I tried their Gelato Affogato and Peri Peri Toastie. It tasted Good. Aman helped in choosing and provided good service. Overall had a good experience and will visit again soon",
+    "createTime": "2025-12-30T08:03:24.374020Z",
+    "updateTime": "2025-12-30T08:03:24.374020Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the Gelato Affogato and Peri Peri Toastie and had a good overall experience. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-05T09:34:26.971912Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oTGFFVndValpxWVdNeFVGcDJhVzVmVlhGQ2QxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Karan Relhan"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-12-29T07:52:28.030938Z",
+    "updateTime": "2025-12-29T07:52:28.030938Z",
+    "reviewReply": {
+      "comment": "We’re glad you had a good experience and truly appreciate your support. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-02T04:29:08.066454Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sek9WWnVWelI0Y2s5RlpqRk5Wa3MxYkhGSE5rRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lavanya Kapoor"
+    },
+    "starRating": "FIVE",
+    "comment": "Excellent place and service especially by Aman,",
+    "createTime": "2025-12-28T07:43:08.099289Z",
+    "updateTime": "2025-12-28T07:43:08.099289Z",
+    "reviewReply": {
+      "comment": "Glad to know you had a good experience with our team! 👌",
+      "updateTime": "2025-12-29T10:13:27.107573Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOblFXSllOMEpqZFd4NlRHOUNNRzF0T1RoNVQyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Simran Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "great selection—i got the iced vietnamese matcha and it was so good! service was amazing and its such a great place to for wfh",
+    "createTime": "2025-12-27T05:59:39.519975Z",
+    "updateTime": "2025-12-27T05:59:39.519975Z",
+    "reviewReply": {
+      "comment": "Love hearing that! The Iced Vietnamese Matcha is a great pick, and we’re glad the service and WFH-friendly vibe worked for you. Looking forward to seeing you back for more sips and productive hours.",
+      "updateTime": "2025-12-29T10:16:31.105449Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ZM2FYcGFOVXB5Y1VkYVNuaGtNbnA0V1VGdmNGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Suresh Malik"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice place good staff",
+    "createTime": "2025-12-26T10:55:48.839305Z",
+    "updateTime": "2025-12-26T10:55:48.839305Z",
+    "reviewReply": {
+      "comment": "Glad you enjoyed the place and found the team welcoming! Hope to see you again soon.",
+      "updateTime": "2025-12-29T10:30:23.629938Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT201NmFqSnhkazU2TUZaTWFIWmlRamxETTNwcVZYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Somnath Chakraborty"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-24T12:37:15.371843Z",
+    "updateTime": "2025-12-24T12:37:15.371843Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-29T10:08:13.687846Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0S1lqWlhUM2RXVUhCblRuaGhWbVpoVTA1UU5GRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Manjul Raw"
+    },
+    "starRating": "FIVE",
+    "comment": "Good coffee and you have best employee Good behavior, caring and order serve on time",
+    "createTime": "2025-12-24T11:18:05.988383Z",
+    "updateTime": "2025-12-24T11:18:05.988383Z",
+    "reviewReply": {
+      "comment": "Glad to know you enjoyed the coffee and had a smooth experience. Timely service and warm, caring hospitality are always our focus. Looking forward to welcoming you again soon.",
+      "updateTime": "2025-12-29T10:27:10.648488Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oNmNFMTFTbXBLYkUxQ1drODVVbDl6UjFkV2JYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Chandan Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Good staff specially Subhash\nNice Place and good coffee",
+    "createTime": "2025-12-24T11:08:18.197884Z",
+    "updateTime": "2025-12-24T11:08:18.197884Z",
+    "reviewReply": {
+      "comment": "Glad you enjoyed the coffee and the vibe! Great to hear the team made your visit a good one. Looking forward to welcoming you again soon.",
+      "updateTime": "2025-12-29T10:23:19.920568Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGRGNtZEVWVmRvTFhaNVZEQmlhVkZpT1VKTGIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aman jha"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-24T10:54:36.950309Z",
+    "updateTime": "2025-12-24T10:54:36.950309Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-29T10:08:07.117135Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WamJ6aGxOR0pqYlhoc1NUSlBWMlZKTFVRdGVGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Murtaza Anverali"
+    },
+    "starRating": "FIVE",
+    "comment": "🌟 *\"WALKED IN, COFFEE SHOP SLAPPED ME IN THE FACE (in the best way!) 😂* Spot’s got major vibes + flavours galore! Hospitality? Top-tier – felt like fam 💖. Quick service = no waiting for a buzz 🍵. Caught Life Bingo by Misfit here – PERFECT venue! If you need a chill spot with fire coffee and rad events, this is IT 👌\"",
+    "createTime": "2025-12-18T01:00:09.131273Z",
+    "updateTime": "2025-12-18T01:00:09.131273Z",
+    "reviewReply": {
+      "comment": "Love the energy!\nGlad the vibes, flavours, and hospitality hit just right and that the space worked perfectly for events too. Quick service, great coffee, and a welcoming atmosphere is exactly what we aim for. Looking forward to having you back for many more buzz-worthy visits!",
+      "updateTime": "2025-12-23T08:52:10.887174Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BNExYZDJWVkl4ZW1seVIxQXROemxLTFRKSk9XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Techno wash"
+    },
+    "starRating": "FIVE",
+    "comment": "Great experience, as good as in their GK2 outlet, they don’t serve Turkish Coffee in Gurgaon though, which is one of my favourites. Tried their Spanish Bombon, \u0026 in love with it. Try Spanish Bombon here,  18gms of coffee in a 90ml cup with condensed milk. Its a compete coffee experience, from variety of coffees to merchandise they have it all. Island pour over Americano was refreshing. Various food options, Croissant \u0026 walnut brownie were nice. Beautiful cafe with a great view of porch \u0026 overlooking Metro, made experience better.",
+    "createTime": "2025-12-15T04:01:10.142555Z",
+    "updateTime": "2025-12-15T04:01:10.142555Z",
+    "reviewReply": {
+      "comment": "Glad to know you had a great experience and enjoyed exploring so many of our offerings! Wonderful to hear the Spanish Bombon stood out for you it’s truly a bold, immersive cup. Happy the pour-over Americano, food, merchandise, and the café view all came together to make your visit memorable. Looking forward to welcoming you again for more Coffee Island moments. ☕✨",
+      "updateTime": "2025-12-23T10:30:37.464181Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkRU9FRnNURlJ5VFY5d1EybDFPVGg0TmxaVlkyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tarun Bhardwaj"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice joint.",
+    "createTime": "2025-12-11T20:37:54.030179Z",
+    "updateTime": "2025-12-11T20:37:54.030179Z",
+    "reviewReply": {
+      "comment": "Glad you liked the place! Hope to see you again soon for more great coffee moments.",
+      "updateTime": "2025-12-23T11:45:10.747123Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrMGRFaHdVSFIxWDJOS1UydDRVMFJmTmxsS1MyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yamini Gururani"
+    },
+    "starRating": "FIVE",
+    "comment": "Superb new place in Gurugram for coffee and chill!\nLoved every minute here and can’t wait to visit more often.",
+    "createTime": "2025-12-09T13:31:49.926677Z",
+    "updateTime": "2025-12-09T13:31:49.926677Z",
+    "reviewReply": {
+      "comment": "So glad you loved your time here! Happy to be your new go-to spot in Gurugram for great coffee and chill moments. Looking forward to welcoming you back often. ☕✨",
+      "updateTime": "2025-12-23T10:46:31.856854Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT210emJrcFlVRWxZWlVKRFlubG9iV3hmZG1nd2IxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diksha Chutani"
+    },
+    "starRating": "FIVE",
+    "comment": "Amazing small cute space nestled in HQ27 area in Gurgaon is a must vidit cafe eith frnds and family if yiu love burrito balls, Mexican food then this place is definitely for you. Do not miss their rice burrito bowl it’s breathing here. Their deserts are literally literally to die for.",
+    "createTime": "2025-12-06T10:25:28.034622Z",
+    "updateTime": "2025-12-06T10:25:28.034622Z",
+    "reviewReply": {
+      "comment": "Glad to know you enjoyed the cozy space and had such a great time with the food!Looking forward to welcoming you back with friends and family for more delicious moments. ☕ ",
+      "updateTime": "2025-12-23T10:51:09.800707Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psWE1DMDRZWGxKWW1SMFJWRjNlalZKU2psQldIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Manas Vij"
+    },
+    "starRating": "THREE",
+    "comment": "We tried a couple of things. The skewers weren\u0027t anything great but the soup momos were delicious.",
+    "createTime": "2025-12-03T12:05:13.880791Z",
+    "updateTime": "2025-12-03T12:05:13.880791Z",
+    "reviewReply": {
+      "comment": "Hi Manas, thank you for taking the time to leave a review. We noticed the dishes mentioned might belong to another restaurant, since skewers and soup momos are not part of the Coffee Island menu.\n\nWe just wanted to check if this review was intended for a different place. If so, we would really appreciate it if you could update or remove it so your experience is reflected accurately. It helps other guests and also ensures fair feedback for all restaurants.\n\nThank you for your understanding and for helping keep reviews useful for the community.",
+      "updateTime": "2025-12-08T08:03:50.442765Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1UGFXaHJkR2RaVmtKZmVHRnBPVUZ6TkV0VGEyYxAB"
+  }]
+}

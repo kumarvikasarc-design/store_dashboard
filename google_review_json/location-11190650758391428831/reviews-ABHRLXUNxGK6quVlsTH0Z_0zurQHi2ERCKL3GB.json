@@ -1,0 +1,80 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Asim Siidique"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-24T10:15:44.901875Z",
+    "updateTime": "2025-10-24T10:15:44.901875Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-10-27T12:57:16.731669Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzMU5VaEhSM2xuU21abExUQnhZVWQ2YjFGMlExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "tauheed Memon"
+    },
+    "starRating": "FIVE",
+    "comment": "Awesome place,  amazing, cold  coffee",
+    "createTime": "2025-10-24T08:50:05.460261Z",
+    "updateTime": "2025-10-24T08:50:05.460261Z",
+    "reviewReply": {
+      "comment": "So glad you enjoyed both the coffee and the ambiance. That’s exactly the experience we love creating. ☕✨",
+      "updateTime": "2025-10-27T12:58:35.611786Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxU01GRjNNUzFvWjAxb2NVNWlMVWR3WTFCV2FXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "nomaan khan"
+    },
+    "starRating": "FIVE",
+    "comment": "Awesome experience with taste \u0026 service by tohid",
+    "createTime": "2025-10-23T08:20:23.438243Z",
+    "updateTime": "2025-10-23T08:22:12.590421Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-10-27T12:57:47.908589Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oeE1tbHFYelZpTVV0VlVrcG5aVmxCZEdKVlpWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "zubair khan"
+    },
+    "starRating": "FIVE",
+    "comment": "Good Place to Visit , Nice Ambience and huge variety of Coffees ,Must Visit",
+    "createTime": "2025-10-22T07:08:31.118418Z",
+    "updateTime": "2025-10-22T07:08:31.118418Z",
+    "reviewReply": {
+      "comment": "Thank you! We\u0027re so happy you had a great coffee experience. Can’t wait to have you back - there’s always more to discover!",
+      "updateTime": "2025-10-27T12:56:03.525947Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FMlZYcHZRV3B5VlhVeVZVMXJkalJzWVRoVWRYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sajit Kumar"
+    },
+    "starRating": "ONE",
+    "comment": "Guys I had the their house blend cappuccino which is supposed to be the Indian Arabic nd robusta blend but let me tell u they not even close to brands who serve the same blend  like stand by coffee ,Javaphile in bandra or for that matter Third wave in the same price range in the same mall..I just had a sip nd left the table, its very similar to Starbucks which we all know is just a brand nd no quality",
+    "createTime": "2025-10-21T17:53:45.798460Z",
+    "updateTime": "2025-10-21T17:53:45.798460Z",
+    "reviewReply": {
+      "comment": "Hi Sajit,\nWe appreciate you taking the time to share your thoughts. Our House Blend is crafted using 100% Arabica beans, while our Volcano Blend brings together Arabica and Robusta for a stronger profile. We understand every coffee lover has a unique palate, and your feedback helps us continue refining the experience.",
+      "updateTime": "2025-10-28T08:49:58.020583Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taRlYydFFZMVZxWkhwYVRYSmhaMHh3UjFkYWFrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ajay Tiwari"
+    },
+    "starRating": "FIVE",
+    "comment": "Beutiful looking store with huge seating space.\nVariety options of coffee manual brews coffee beans.",
+    "createTime": "2025-10-20T09:12:16.742740Z",
+    "updateTime": "2025-10-20T09:12:16.742740Z",
+    "reviewReply": {
+      "comment": "Hi Ajay,\nWe’re so glad you loved the ambience and the coffee! Creating a space that feels warm and welcoming while serving a great cup is what we strive for. Can’t wait to host you again at Coffee Island!",
+      "updateTime": "2025-10-27T12:51:41.705969Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWmVtUm9jM2MzVkVWSVkxQkhjek5wVVhReWFFRRAB"
+  }]
+}

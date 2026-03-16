@@ -1,0 +1,142 @@
+/* assets/style.css */
+
+/* --- Sidebar compact icon-only style (Option C) --- */
+#sidebar {
+  width: 80px;
+  transition: width 220ms ease;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#sidebar:hover {
+  width: 220px; /* expands on hover */
+}
+
+/* sidebar items */
+.sb-item {
+  width: 100%;
+  color: white;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 8px;
+  border-radius: 8px;
+  margin-bottom: 6px;
+  transition: background-color 180ms ease, transform 180ms ease;
+}
+
+.sb-item:hover {
+  background-color: rgba(255,255,255,0.08);
+  transform: translateX(6px);
+}
+
+/* icon inside sidebar */
+.sb-ic {
+  font-size: 22px;
+  width: 36px;
+  text-align: center;
+}
+
+/* label (hidden in compact mode, visible on expand) */
+#sidebar .sb-label {
+  white-space: nowrap;
+  color: white;
+  font-weight: 600;
+  opacity: 0;
+  transition: opacity 220ms ease, transform 220ms ease;
+  transform: translateX(-8px);
+}
+
+/* when sidebar hovered, show labels */
+#sidebar:hover .sb-label {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* --- KPI card animations --- */
+.kpi-animate {
+  opacity: 0;
+  transform: translateY(6px);
+  animation: fadeInUp 420ms ease forwards;
+  animation-delay: 120ms;
+  will-change: transform, opacity;
+}
+
+@keyframes fadeInUp {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Delay for multiple KPI cards (stagger) */
+.kpi-animate:nth-child(1){ animation-delay: 100ms; }
+.kpi-animate:nth-child(2){ animation-delay: 150ms; }
+.kpi-animate:nth-child(3){ animation-delay: 200ms; }
+.kpi-animate:nth-child(4){ animation-delay: 250ms; }
+
+/* --- DataTable hover elevate --- */
+[data-dash-row] td:hover {
+  transform: translateY(-3px);
+  transition: transform 120ms ease;
+}
+
+/* apply subtle drop shadow to table rows on hover */
+[data-dash-row] td {
+  transition: box-shadow 120ms ease, transform 120ms ease;
+}
+
+/* Modal animation */
+.modal .modal-dialog {
+  transform: translateY(-8px);
+  transition: transform 200ms ease, opacity 200ms ease;
+  opacity: 0;
+}
+
+.modal.show .modal-dialog {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+/* Small responsive tweaks */
+@media (max-width: 768px) {
+  #sidebar:hover { width: 80px; } /* don't expand on mobile */
+  #sidebar .sb-label { display: none; }
+}
+/* Freeze first column look better */
+.dash-table-container .dash-spreadsheet-container .dash-header th:first-child,
+.dash-table-container .dash-spreadsheet-container .dash-cell:first-child {
+    background-color: #f4f4f4 !important;
+    font-weight: 700 !important;
+    border-right: 2px solid #ccc !important;
+}
+
+/* Scrollbar styling */
+.dash-table-container ::-webkit-scrollbar {
+    height: 8px;
+}
+.dash-table-container ::-webkit-scrollbar-track {
+    background: #e1e1e1;
+}
+.dash-table-container ::-webkit-scrollbar-thumb {
+    background: #7a7a7a;
+    border-radius: 4px;
+}
+/* Apply Times New Roman globally */
+* {
+    font-family: "Times New Roman" !important;
+    text-align: left !important;
+}
+
+/* Desktop → Horizontal bars */
+.store-bar-chart .plotly-graph-div .main-svg {
+    transform: rotate(0deg);
+}
+
+/* Mobile → Turn chart vertical */
+@media (max-width: 600px) {
+    .store-bar-chart .plotly-graph-div .main-svg {
+        transform: rotate(90deg);
+        transform-origin: center;
+    }
+}

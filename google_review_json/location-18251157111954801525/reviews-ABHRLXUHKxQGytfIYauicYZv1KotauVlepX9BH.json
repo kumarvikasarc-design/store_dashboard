@@ -1,0 +1,29 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Reshona Pal"
+    },
+    "starRating": "FIVE",
+    "comment": "It was an amazing atmosphere that we were provided with ... Best for few mins of peace ....",
+    "createTime": "2025-09-17T14:58:00.189551Z",
+    "updateTime": "2025-09-17T14:58:00.189551Z",
+    "reviewReply": {
+      "comment": "Big cheers from our crew to you! We’re so happy you enjoyed the coffee and the vibes. Come by again anytime 💛",
+      "updateTime": "2025-09-19T09:12:27.501400Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT25saGMyRkhUekl0UVdsQ1lraHZkemhMUTBkaE1VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tushar Mehta"
+    },
+    "starRating": "FIVE",
+    "comment": "One of the best cafes I have visited in a while. The coffee served is exceptional with unique brews. The Long Pour and Ibrik was a bliss. 10/10",
+    "createTime": "2025-09-15T06:25:53.500789Z",
+    "updateTime": "2025-09-15T06:25:53.500789Z",
+    "reviewReply": {
+      "comment": "Hearing this from coffee lovers like you keeps us brewing our best every day. Hope to see you again soon at Coffee Island!",
+      "updateTime": "2025-09-19T09:11:01.496104Z"
+    },
+    "name": "accounts/100486096577551952970/locations/18251157111954801525/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taelN5MHlVMUo0UkdscVRuTnJkVXR5U0ZwRWEzYxAB"
+  }]
+}

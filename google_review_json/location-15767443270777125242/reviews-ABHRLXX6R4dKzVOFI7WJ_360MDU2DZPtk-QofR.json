@@ -1,0 +1,263 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Himanshu Shokeen"
+    },
+    "starRating": "FIVE",
+    "comment": "Great place for coffee, and special thanks to Farhan for his excellent hospitality.",
+    "createTime": "2025-04-03T13:09:00.583088Z",
+    "updateTime": "2025-04-03T13:09:00.583088Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re thrilled you enjoyed your coffee and the warm service. Can’t wait to have you back for another great experience! ☕✨",
+      "updateTime": "2025-04-04T09:48:54.510307Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJcGZDc2hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rudra pratap"
+    },
+    "starRating": "FIVE",
+    "comment": "Food was delicious",
+    "createTime": "2025-04-02T04:07:51.390553Z",
+    "updateTime": "2025-04-02T04:07:51.390553Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so happy you enjoyed the food. Come back soon for more delicious bites!",
+      "updateTime": "2025-04-02T04:57:21.603510Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJN3ViWlZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rajendarkumar Rajendar"
+    },
+    "starRating": "FIVE",
+    "comment": "Greet coffee",
+    "createTime": "2025-03-31T11:23:54.409443Z",
+    "updateTime": "2025-03-31T11:23:54.409443Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We’re so glad you enjoyed everything—especially the coffee! See you again soon for another great brew! ☕✨",
+      "updateTime": "2025-04-01T10:02:11.515712Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJZ3NtWDhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sukai Yadav"
+    },
+    "starRating": "FIVE",
+    "comment": "Very good food and beverage is very nice great Thanks for Staff",
+    "createTime": "2025-03-31T10:43:14.188930Z",
+    "updateTime": "2025-03-31T10:43:14.188930Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so glad you enjoyed the food and beverages. Big thanks from our team—can’t wait to have you back! ☕🍽️✨",
+      "updateTime": "2025-04-01T10:08:52.687807Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJZ3F5S1FREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dunna yadhava Rao"
+    },
+    "starRating": "FIVE",
+    "comment": "The food is good and service is good .\nStaff is very polite as well.nice place",
+    "createTime": "2025-03-31T10:37:21.137372Z",
+    "updateTime": "2025-03-31T10:37:21.137372Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re happy you enjoyed the food, service, and the warm vibe. Looking forward to seeing you again soon! ☕🍽️✨",
+      "updateTime": "2025-04-01T10:09:44.377045Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJZ3VTNHFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bipin Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Specially recommend black coffee I had a great Americano",
+    "createTime": "2025-03-31T10:30:16.297932Z",
+    "updateTime": "2025-03-31T10:30:16.297932Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 So glad you enjoyed the Americano—black coffee at its best! Can’t wait to brew you another great one soon! ☕✨",
+      "updateTime": "2025-04-01T10:10:28.555333Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJZ3VqSU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bachan Singh"
+    },
+    "starRating": "FIVE",
+    "comment": "Great experience over there payel was very supportive thanks",
+    "createTime": "2025-03-31T10:12:39.995578Z",
+    "updateTime": "2025-03-31T10:12:39.995578Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so glad you had a great experience. Always happy to serve you—see you again soon! ☕✨",
+      "updateTime": "2025-04-01T10:11:23.111841Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJX1BmRU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Karamdatt Tiwari"
+    },
+    "starRating": "FIVE",
+    "comment": "Great service and tasty food, special thanks to payal she is very polite",
+    "createTime": "2025-03-31T10:06:04.591273Z",
+    "updateTime": "2025-03-31T10:06:04.591273Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so glad you enjoyed the food and service. Looking forward to welcoming you back soon for more!",
+      "updateTime": "2025-04-01T10:12:07.669105Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJX1B1VS13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Suhani Devi"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) The Chipotle paneer bhurji toastie was yummy.\n\n(Original)\nThe Chipotle paneer bhurji tostie was yummy",
+    "createTime": "2025-03-31T10:00:29.953224Z",
+    "updateTime": "2025-03-31T10:00:29.953224Z",
+    "reviewReply": {
+      "comment": "Yay! So glad you loved the Chipotle Paneer Bhurji Toastie—flavor-packed and always a hit! 😋☕ See you again soon!",
+      "updateTime": "2025-04-01T10:12:52.732843Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJX1BQWm13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gudiya rawat"
+    },
+    "starRating": "FIVE",
+    "comment": "I just loved coffee island and this outlet is the perfect place to have coffee",
+    "createTime": "2025-03-31T09:58:29.565191Z",
+    "updateTime": "2025-03-31T09:58:29.565191Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so happy Coffee Island has found a place in your heart. Can’t wait to welcome you back for your next perfect cup! ☕✨",
+      "updateTime": "2025-04-01T10:01:24.356403Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJX0pQbjhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Prasenjit Minji"
+    },
+    "starRating": "FIVE",
+    "comment": "I love coming here when I need a me time along with coffee.nice place to grab food also",
+    "createTime": "2025-03-31T08:56:17.235758Z",
+    "updateTime": "2025-03-31T08:56:17.235758Z",
+    "reviewReply": {
+      "comment": "That’s exactly what we love to hear! 😊 Whether it’s me-time or mealtime, we’re always here with great coffee and comfort. See you again soon! ",
+      "updateTime": "2025-04-01T10:00:42.280794Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJX0t6ZThRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ramveer Tiwari"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice Coffy",
+    "createTime": "2025-03-31T08:05:52.812353Z",
+    "updateTime": "2025-03-31T08:05:52.812353Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re glad you enjoyed the coffee and the experience. See you again soon for another perfect cup! ☕✨",
+      "updateTime": "2025-03-31T08:22:31.146472Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdkwyTTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mohan Mandal"
+    },
+    "starRating": "FIVE",
+    "comment": "Great place for coffee lover",
+    "createTime": "2025-03-31T07:59:49.390082Z",
+    "updateTime": "2025-03-31T07:59:49.390082Z",
+    "reviewReply": {
+      "comment": "Thank you! ☕😊 We love being a go-to spot for coffee lovers. Can’t wait to welcome you back!",
+      "updateTime": "2025-03-31T08:21:52.981142Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdkxYMkpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Shiwnarayan Singh"
+    },
+    "starRating": "FIVE",
+    "comment": "Vietnamese shakerato is outstanding.must try coffee island",
+    "createTime": "2025-03-31T07:56:55.232576Z",
+    "updateTime": "2025-03-31T07:56:55.232576Z",
+    "reviewReply": {
+      "comment": "So glad you loved the Vietnamese Shakerato!\nIt’s definitely a must-try. See you again soon at Coffee Island!",
+      "updateTime": "2025-03-31T08:21:10.281105Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdk1XQ01REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rohit Tewatia"
+    },
+    "starRating": "FIVE",
+    "comment": "Food coffee worth of price\nHad  island\u0027s coffee it\u0027s amazing.",
+    "createTime": "2025-03-31T07:50:57.577182Z",
+    "updateTime": "2025-03-31T07:50:57.577182Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so glad you enjoyed the Island’s coffee and found everything worth it. Can’t wait to have you back for more!",
+      "updateTime": "2025-03-31T08:19:26.451736Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdkxHbm1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "pradeep jati"
+    },
+    "starRating": "FIVE",
+    "comment": "Coffee was outstanding i loved the experience",
+    "createTime": "2025-03-31T07:49:10.236816Z",
+    "updateTime": "2025-03-31T07:49:10.236816Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re thrilled you loved the coffee and had a great experience overall. Looking forward to serving you again soon!",
+      "updateTime": "2025-03-31T08:18:05.088781Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdkpHWnR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Satyveer Baghel"
+    },
+    "starRating": "FIVE",
+    "comment": "I had turkey croissant sandwich.the sandwich was so yummy and soft .thank you payel for your suggestion",
+    "createTime": "2025-03-31T07:40:39.429784Z",
+    "updateTime": "2025-03-31T07:40:39.429784Z",
+    "reviewReply": {
+      "comment": "So glad you loved the Turkey Croissant Sandwich! 😊 A soft, flavorful bite always hits the spot. Hope to see you again soon for more!",
+      "updateTime": "2025-03-31T08:17:28.754340Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdkk2NUVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rohan Singh"
+    },
+    "starRating": "FIVE",
+    "comment": "Delicious food",
+    "createTime": "2025-03-31T07:34:16.395781Z",
+    "updateTime": "2025-03-31T07:34:16.395781Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so glad you enjoyed the food—come back soon for more deliciousness!",
+      "updateTime": "2025-03-31T08:14:54.161023Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdklhSG5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ankit Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Freddo cappuccino is the best option for me it\u0027s impressed me.",
+    "createTime": "2025-03-31T07:00:26.423233Z",
+    "updateTime": "2025-03-31T07:00:26.423233Z",
+    "reviewReply": {
+      "comment": "So happy to hear the Freddo Cappuccino won you over! ☕✨ It’s a true European classic—can’t wait to serve you again!",
+      "updateTime": "2025-03-31T08:13:28.858315Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdktEYWZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dj Pahal"
+    },
+    "starRating": "FIVE",
+    "comment": "Mouth watering food. Please try guys",
+    "createTime": "2025-03-31T06:49:28.250374Z",
+    "updateTime": "2025-03-31T06:49:28.250374Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so glad you loved the food. Can’t wait to welcome more food lovers like you—see you soon! ",
+      "updateTime": "2025-03-31T08:12:34.796789Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJM1B2eHlRRRAB"
+  }]
+}

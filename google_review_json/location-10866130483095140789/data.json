@@ -1,0 +1,176 @@
+{
+  "name": "locations/10866130483095140789",
+  "languageCode": "en-GB",
+  "storeCode": "07176169269847348388",
+  "title": "Coffee Island | AMANORA",
+  "phoneNumbers": {
+    "primaryPhone": "092117 29508"
+  },
+  "categories": {
+    "primaryCategory": {
+      "name": "categories/gcid:coffee_shop",
+      "displayName": "Coffee shop",
+      "moreHoursTypes": [{
+        "hoursTypeId": "ACCESS",
+        "displayName": "Access",
+        "localizedDisplayName": "Access"
+      }, {
+        "hoursTypeId": "BREAKFAST",
+        "displayName": "Breakfast",
+        "localizedDisplayName": "Breakfast"
+      }, {
+        "hoursTypeId": "BRUNCH",
+        "displayName": "Brunch",
+        "localizedDisplayName": "Brunch"
+      }, {
+        "hoursTypeId": "DELIVERY",
+        "displayName": "Delivery",
+        "localizedDisplayName": "Delivery"
+      }, {
+        "hoursTypeId": "DINNER",
+        "displayName": "Dinner",
+        "localizedDisplayName": "Dinner"
+      }, {
+        "hoursTypeId": "DRIVE_THROUGH",
+        "displayName": "Drive through",
+        "localizedDisplayName": "Drive-through"
+      }, {
+        "hoursTypeId": "HAPPY_HOUR",
+        "displayName": "Happy hours",
+        "localizedDisplayName": "Happy hours"
+      }, {
+        "hoursTypeId": "KITCHEN",
+        "displayName": "Kitchen",
+        "localizedDisplayName": "Kitchen"
+      }, {
+        "hoursTypeId": "LUNCH",
+        "displayName": "Lunch",
+        "localizedDisplayName": "Lunch"
+      }, {
+        "hoursTypeId": "ONLINE_SERVICE_HOURS",
+        "displayName": "Online service hours",
+        "localizedDisplayName": "Online operating hours"
+      }, {
+        "hoursTypeId": "TAKEOUT",
+        "displayName": "Takeout",
+        "localizedDisplayName": "Takeaway"
+      }, {
+        "hoursTypeId": "SENIOR_HOURS",
+        "displayName": "Senior hours",
+        "localizedDisplayName": "Hours for the elderly"
+      }]
+    }
+  },
+  "storefrontAddress": {
+    "regionCode": "IN",
+    "languageCode": "en",
+    "postalCode": "411028",
+    "administrativeArea": "Maharashtra",
+    "locality": "Mumbai",
+    "addressLines": ["Amanora Mall Pune Kharadi-Hadapsar Bypass, Pune, Maharashtra 411028"]
+  },
+  "websiteUri": "https://coffeeisland.in/",
+  "regularHours": {
+    "periods": [{
+      "openDay": "SUNDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "SUNDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "MONDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "MONDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "TUESDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "TUESDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "WEDNESDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "WEDNESDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "THURSDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "THURSDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "FRIDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "FRIDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "SATURDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "SATURDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }]
+  },
+  "specialHours": {
+  },
+  "serviceArea": {
+    "businessType": "CUSTOMER_AND_BUSINESS_LOCATION",
+    "places": {
+      "placeInfos": [{
+        "placeName": "Magarpatta, Hadapsar, Pune, Maharashtra, India",
+        "placeId": "ChIJTUXTP43BwjsRxNCgCBBrrjg"
+      }]
+    },
+    "regionCode": "IN"
+  },
+  "adWordsLocationExtensions": {
+  },
+  "latlng": {
+    "latitude": 18.5189434,
+    "longitude": 73.9353814
+  },
+  "openInfo": {
+    "status": "OPEN",
+    "canReopen": true,
+    "openingDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 11
+    }
+  },
+  "metadata": {
+    "placeId": "ChIJ0Tq06BLBwjsRBycm9IXyM7o"
+  },
+  "profile": {
+    "description": "No desks, no deadlines—just the best coffee and conversations.\n\n#ComeOnOver to Coffee Island☕"
+  },
+  "relationshipData": {
+    "parentLocation": {
+    }
+  }
+}

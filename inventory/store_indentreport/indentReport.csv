@@ -1,0 +1,14 @@
+Deployment Name,Coffee Island - Amanora Mall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Start Date,01-08-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+End Date,31-08-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Report Generation Date&Time,29-12-2025, 05:07:08 pm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Supplier ,Receiver ,Receiver Kitchen ,Date,Expected Delivery,Indent Number ,Status ,Item Code ,HSN Code ,Item Name ,Category Code ,Category Name ,Super Category Code ,Super Category Name ,Unit ,UnitPrice,Margin Percentage,IndentPrice,Requested Qty ,Tax ,SubTotal ,Amount ,Comment ,Supplied Date ,Supplied Qty ,Tax ,SubTotal ,Amount ,Comment ,Dispatch Number ,Received Date ,Received Qty ,Tax ,SubTotal ,Amount ,Comment ,Directly Issued ,From Store/Kitchen,To Store/Kitchen,Suspicious Qty ,Suspicious Amount ,Reuse Qty ,Reuse Amount ,Wastage Qty ,Wastage Amount ,Item Status 
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Warehouse NCR,Coffee Island - Amanora Mall,-,29-08-2025,29-08-2025,IN2,Received,UNI0000004,,Apron With Ci Logo,CT_80,UNIFORM - APRON,-,UNIFORM,PCS..,300,-,300,12,180,3600,3780,-,29-08-2025,12,180,3600,3780,-,108,10-09-2025,12,180,3600,3780,-,No,-,-,0,0,0,0,0,0,Received
+Warehouse NCR,Coffee Island - Amanora Mall,-,29-08-2025,29-08-2025,IN2,Received,UNI0000015,,Polo T-Shirt With Ci Logo - Large,CT_82,UNIFORM - SHIRT/T SHIRT,-,UNIFORM,PCS,340,-,340,2,34,680,714,-,29-08-2025,2,34,680,714,-,108,10-09-2025,2,34,680,714,-,No,-,-,0,0,0,0,0,0,Received
+Warehouse NCR,Coffee Island - Amanora Mall,-,29-08-2025,29-08-2025,IN2,Received,UNI0000016,,Polo T-Shirt With Ci Logo - XL,CT_82,UNIFORM - SHIRT/T SHIRT,-,UNIFORM,PCS,340,-,340,4,68,1360,1428,-,29-08-2025,5,85,1700,1785,-,108,10-09-2025,5,85,1700,1785,-,No,-,-,0,0,0,0,0,0,Received
+Warehouse NCR,Coffee Island - Amanora Mall,-,29-08-2025,29-08-2025,IN2,Received,UNI0000017,,Polo T-Shirt With Ci Logo - XXL,CT_82,UNIFORM - SHIRT/T SHIRT,-,UNIFORM,PCS,340,-,340,4,68,1360,1428,-,29-08-2025,3,51,1020,1071,-,108,10-09-2025,3,51,1020,1071,-,No,-,-,0,0,0,0,0,0,Received
+Warehouse NCR,Coffee Island - Amanora Mall,-,29-08-2025,29-08-2025,IN2,Received,UNI0000018,,Royal Blue Shirt F/S With Chinese Colour CI- Mens Large,CT_82,UNIFORM - SHIRT/T SHIRT,-,UNIFORM,PCS..,440,-,440,2,44,880,924,-,29-08-2025,2,44,880,924,-,108,10-09-2025,2,44,880,924,-,No,-,-,0,0,0,0,0,0,Received
+Warehouse NCR,Coffee Island - Amanora Mall,-,29-08-2025,29-08-2025,IN2,Received,UNI0000005,,Team Member Ci Cap - Blue,CT_81,UNIFORM - CAP/HEAD GEARS,-,UNIFORM,PCS..,200,-,200,12,120,2400,2520,-,29-08-2025,12,120,2400,2520,-,108,10-09-2025,12,120,2400,2520,-,No,-,-,0,0,0,0,0,0,Received
+,,,,,,,,,,,,,,,,,,Grand Total,514,10280,10794,,,,514,10280,10794,,,,,514,10280,10794,,,,,,0,,0,,0,

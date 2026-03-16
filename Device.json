@@ -1,0 +1,25 @@
+{
+  "DeviceManager": {
+    "version": "2.0",
+    "Device": [
+      {
+        "name": "GKII",
+        "domain": "2405012965000371",
+        "port": "25001",
+        "username": "user",
+        "password": "67ZnZRESxjgS0...",
+        "protocol": "1",
+        "connect": "19"
+      },
+      {
+        "name": "NSP",
+        "domain": "GFLH332W7UCC92OW",
+        "port": "25001",
+        "username": "admin",
+        "password": "Lx3zfQ9znsBJrNk...",
+        "protocol": "1",
+        "connect": "19"
+      }
+    ]
+  }
+}

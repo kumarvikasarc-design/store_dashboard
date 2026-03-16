@@ -1,0 +1,252 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Viraj"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-11T06:56:48.366535Z",
+    "updateTime": "2025-12-11T06:56:48.366535Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T11:55:09.633797Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT25odWVHbG5YMHRqUTFJNWRubEhlSE5DT1MxUk9XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Prem Pathak"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-10T08:28:01.961731Z",
+    "updateTime": "2025-12-10T08:28:01.961731Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T11:55:14.779144Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWmJrZFFZMDVNWnpaYU4xSlFjamRqU1Rod1gxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ashish kuril"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-09T16:02:27.056099Z",
+    "updateTime": "2025-12-09T16:02:27.056099Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T11:55:23.173805Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0M09IVXRZV3BIU0d4WVlXWkJURzVYUzIxR1NtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sheetal Kuril"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-09T15:58:11.563769Z",
+    "updateTime": "2025-12-09T15:58:11.563769Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T11:55:29.147796Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT200M1ZESldRbUpVUlhkWU1FTXdNRmN0WWtwSFZrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Himanshu Rai"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-09T08:11:52.169134Z",
+    "updateTime": "2025-12-09T08:11:52.169134Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T11:55:34.577223Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SU2EzUmhkWEV0TFVWNmJVUlpRM1puWDJaSGJIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rohit Salve"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-09T08:00:48.292783Z",
+    "updateTime": "2025-12-09T08:00:48.292783Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T11:55:40.177859Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT205TWRHMDVSME5vVmxad1NVc3hWMDVWTmt4d2RXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kayyum Sir"
+    },
+    "starRating": "FIVE",
+    "comment": "Very nice place and good quality of food ,and beverage and the staff sheetal is very humble and polite .",
+    "createTime": "2025-12-07T15:50:49.499365Z",
+    "updateTime": "2025-12-07T15:56:04.838072Z",
+    "reviewReply": {
+      "comment": "Glad to know you enjoyed the food, beverages, and overall experience! Creating quality offerings with warm, polite service is always our focus. Looking forward to welcoming you again soon.",
+      "updateTime": "2025-12-23T11:57:35.880432Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSclYycGZhbWxOY25OZlpTMUlNV1JxWWtJeVdIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pooja Hadke"
+    },
+    "starRating": "FIVE",
+    "comment": "Sheetal gave me very good service… she suggested me a coffee which is amazing..",
+    "createTime": "2025-12-06T12:07:03.415980Z",
+    "updateTime": "2025-12-06T12:07:03.415980Z",
+    "reviewReply": {
+      "comment": "Glad to know you enjoyed the coffee and had a great service experience! Thoughtful recommendations and great brews are what we aim for. Looking forward to welcoming you again soon. ☕✨",
+      "updateTime": "2025-12-23T12:04:18.561128Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWk5XaHpUM0JxVGpNeWRVSnBNSE15YUVScFEwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Khan darakhsha"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-06T09:52:18.504289Z",
+    "updateTime": "2025-12-06T09:52:18.504289Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T12:06:58.605912Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsd2EyMXdhVVp0Y2tKVlJEbE9hamxVTlhabk5GRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "sneha gade"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice coffee",
+    "createTime": "2025-12-05T12:58:54.490826Z",
+    "updateTime": "2025-12-05T12:58:54.490826Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T12:07:04.312068Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Od1NGcEpSRlJFV25aWVZuTkxZVTltUkVOUFYwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Afshan Lamture"
+    },
+    "starRating": "FIVE",
+    "comment": "Zoya is a very humble and great full in service",
+    "createTime": "2025-12-05T12:14:44.749490Z",
+    "updateTime": "2025-12-05T12:14:44.749490Z",
+    "reviewReply": {
+      "comment": "Glad to know you had a warm and humble service experience! Creating thoughtful and welcoming moments is always our priority. Looking forward to welcoming you again soon.",
+      "updateTime": "2025-12-23T12:09:12.062237Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wM1pWRXhVRTFOUTFsbWJqaFhYMkpKU1UxSFpuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "shashi patil"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-05T11:46:32.298846Z",
+    "updateTime": "2025-12-05T11:46:32.298846Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T12:07:10.691548Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCbk1VOU9TMFoyWW1SSWVWcDVWRGszYTBzNFJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nawaz Khan"
+    },
+    "starRating": "FIVE",
+    "comment": "Very nice coffe and puff.",
+    "createTime": "2025-12-05T11:44:04.439144Z",
+    "updateTime": "2025-12-05T11:44:04.439144Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T12:07:16.302776Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxYVlXNVFiMmR6ZVdWSE5ISXRVVTluY0ZWNlNtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Payal Amane"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-05T11:42:19.099576Z",
+    "updateTime": "2025-12-05T11:42:19.099576Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.\n",
+      "updateTime": "2025-12-23T12:07:21.016342Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OTk5ubzBTMDFXU2tvNFZWTXRlbmcyZW10b1ZGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Khushbu Sharma"
+    },
+    "starRating": "FIVE",
+    "comment": "Very good place.atmosphear is good and very good coffee..",
+    "createTime": "2025-12-05T11:36:56.337264Z",
+    "updateTime": "2025-12-05T11:36:56.337264Z",
+    "reviewReply": {
+      "comment": "Glad to know you enjoyed the atmosphere and the coffee! Looking forward to welcoming you again soon. ☕✨",
+      "updateTime": "2025-12-23T12:11:24.712692Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poVVoxOXdOblZQVDNKS09Va3pUMUpRU201aVIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "anil gore"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-05T11:35:08.551146Z",
+    "updateTime": "2025-12-05T11:35:08.551146Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T12:07:25.708454Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kweGVsQkdhVVpqWDFFMlFtTnhhRVZHV0RKamNXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Shaikh Zeeshan"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-05T11:31:26.425627Z",
+    "updateTime": "2025-12-05T11:31:26.425627Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T12:07:32.009827Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoUFVVUmhXWGREUlhkRGVtdzJPWFpuTjNoa1kyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rama Sharma"
+    },
+    "starRating": "FIVE",
+    "comment": "Coffee was upto mark.. Islander cold coffee is a must try.\nService was great, staff was very approachable.",
+    "createTime": "2025-12-05T11:10:19.292253Z",
+    "updateTime": "2025-12-05T11:10:19.292253Z",
+    "reviewReply": {
+      "comment": "Glad to know the coffee hit the mark! Happy to hear the Islander Cold Coffee stood out for you and that the team made your visit a pleasant one. Looking forward to welcoming you again soon.",
+      "updateTime": "2025-12-23T12:18:45.433964Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkR0xTMUVaME4zVGkweU9VOXJVVGs0VTBkTVgyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "ANTIMA SHARMA"
+    },
+    "starRating": "FIVE",
+    "comment": "Very good staff and tasty coffee for cappuccino pistachio is very very good flavour...,",
+    "createTime": "2025-12-05T10:36:42.218241Z",
+    "updateTime": "2025-12-05T10:36:42.218241Z",
+    "reviewReply": {
+      "comment": "Glad to know you enjoyed the pistachio cappuccino and found the flavour really good! Happy to hear the team made your visit pleasant as well. Looking forward to welcoming you again soon.",
+      "updateTime": "2025-12-23T12:23:09.835715Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVWVtMTVTa1pQVVdsaVgxZGlVVmgyUVcxclYyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "abhishek lodha"
+    },
+    "starRating": "ONE",
+    "comment": "The coffee at this café was a huge letdown. It tasted burnt and bitter, and it was barely warm by the time it reached my table. For the price, I expected something much fresher and better prepared. Definitely not ordering it again.\nYou must hire a well trained barista who knows how to make coffee",
+    "createTime": "2025-12-04T15:30:03.602122Z",
+    "updateTime": "2025-12-04T15:30:03.602122Z",
+    "reviewReply": {
+      "comment": "Thanks for sharing this in detail. What you’ve described isn’t the experience we aim to deliver, especially on brew quality and temperature. We’ve noted this internally and are reviewing preparation and barista execution at the outlet. If you’re open to it, please DM us your contact details on Instagram @coffee.island.in or write to hello@coffeeisland.in so we can understand this better.",
+      "updateTime": "2025-12-24T06:20:14.248370Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCdFN6VlFZbW93T1d4T1YwTk9WWEkwYjNsVVJWRRAB"
+  }]
+}

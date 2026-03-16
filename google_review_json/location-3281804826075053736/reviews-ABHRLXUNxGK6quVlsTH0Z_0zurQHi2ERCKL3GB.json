@@ -1,0 +1,29 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Dharmendra Thakur"
+    },
+    "starRating": "FIVE",
+    "comment": "Wow what a great place to visit",
+    "createTime": "2025-06-20T04:12:42.881071Z",
+    "updateTime": "2025-06-20T04:12:42.881071Z",
+    "reviewReply": {
+      "comment": "Thank you! Great coffee, great company, and now great ratings too - what more could we ask for?\n",
+      "updateTime": "2025-07-02T05:43:10.059708Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT210clRERmhiak5hZGpadmVGWklTVzV2Ym5CclQzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bimmi Choudhary"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice staff",
+    "createTime": "2025-06-19T14:41:12.063102Z",
+    "updateTime": "2025-06-19T14:41:12.063102Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!\nSee you again for more brews and bites.",
+      "updateTime": "2025-07-02T05:41:17.746228Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oNlpWRnFVa3RVTUhGTGExaDZZbWhQTkRaSlkwRRAB"
+  }]
+}

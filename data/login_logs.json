@@ -1,0 +1,800 @@
+[
+  {
+    "timestamp": "2026-02-11T05:02:54.294999+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-11T05:03:36.013991+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-11T05:03:36.313026+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-11T05:04:00.243927+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-12T04:52:50.149126+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-12T04:53:01.051255+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-13T04:57:13.939556+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-13T04:57:22.227414+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-13T16:36:28.909528+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-13T16:43:54.535141+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-13T16:46:49.375637+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-13T16:47:49.440728+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-13T16:51:49.500702+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-13T16:53:28.378377+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-14T07:34:37.614263+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-14T07:39:50.260559+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-14T12:45:48.052915+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-14T12:55:29.010661+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-14T12:59:07.158004+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-14T12:59:07.914771+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-14T12:59:20.479362+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-15T07:24:27.414896+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-15T07:28:57.394265+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-15T07:33:06.788546+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-15T07:35:33.178296+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-15T07:40:37.754956+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-15T07:41:23.357985+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-15T08:05:39.882735+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-15T08:12:29.905034+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-15T08:12:37.956122+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-15T08:13:22.974782+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-15T08:15:37.511666+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-15T08:15:48.176952+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-16T05:58:41.531798+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-16T05:59:35.347210+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-16T06:16:24.915039+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-16T07:18:24.638198+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-16T07:20:34.060953+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-16T07:21:02.801357+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-16T08:38:37.189115+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-16T08:41:57.106859+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-16T08:42:08.070881+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-16T09:36:41.714144+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-16T09:36:52.228915+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-17T06:03:21.169270+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-17T06:03:30.104055+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-17T06:55:50.193532+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-17T07:07:22.492406+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-17T07:07:48.747824+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-17T07:08:30.522362+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-17T07:10:42.791122+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-17T07:10:52.307636+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-18T08:28:04.070038+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-18T08:28:17.223381+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-19T04:47:41.585429+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-19T04:49:16.668762+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-19T04:49:37.858232+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-19T05:05:55.615373+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-19T05:12:44.513052+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-19T05:25:16.988942+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-19T11:44:50.410670+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-19T11:45:05.549146+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-20T05:34:48.366816+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-20T05:35:32.760401+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-20T05:35:33.004506+00:00",
+    "username": "admin",
+    "success": false,
+    "reason": "bad_password"
+  },
+  {
+    "timestamp": "2026-02-20T05:35:42.021658+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-21T14:04:55.718441+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-21T14:05:08.319283+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-22T07:42:34.011785+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-22T09:43:53.046584+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-22T09:44:08.611602+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-22T12:59:51.009026+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-22T13:53:04.538345+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-22T13:53:16.211170+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-23T04:50:15.147534+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-23T04:50:25.893989+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-23T09:14:07.713006+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-24T04:42:42.744388+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-24T04:43:08.174536+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-24T04:44:38.487622+00:00",
+    "username": "admin",
+    "success": false,
+    "reason": "bad_password"
+  },
+  {
+    "timestamp": "2026-02-24T04:45:17.871184+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-24T05:51:14.599898+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-02-24T07:42:14.698756+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-02-24T07:42:23.704030+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-02T15:46:30.373993+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-02T15:47:13.758847+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-02T18:05:47.656692+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-02T18:56:43.334874+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-03T02:28:36.714423+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-03T02:34:51.086745+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-04T13:42:40.860738+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-04T13:55:39.822759+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-05T11:32:14.333491+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-05T11:51:28.485929+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-06T09:07:35.221749+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-06T17:19:30.664829+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-06T17:28:44.302179+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-07T06:40:25.103045+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-07T06:43:30.568598+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-07T06:44:30.170113+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-08T03:41:27.918600+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-08T03:43:52.221283+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-09T05:56:14.452975+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-09T06:22:21.528469+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-09T06:26:21.495050+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-09T06:34:11.614276+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-09T07:30:39.326191+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-09T07:30:49.430771+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T04:49:22.740702+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-10T04:51:17.533438+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-10T04:59:08.871315+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T06:12:03.168866+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-10T06:12:12.844075+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-11T05:09:09.061439+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-11T05:10:16.691888+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-11T05:24:53.825854+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-11T10:02:06.912736+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-11T10:02:19.650414+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-11T10:40:24.375715+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-11T10:40:33.992075+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-12T05:12:01.893462+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-12T05:12:11.927726+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-12T07:02:18.391137+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-12T07:02:35.108811+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-13T05:12:14.184665+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-13T05:12:22.393902+00:00",
+    "username": "admin",
+    "success": false,
+    "reason": "bad_password"
+  },
+  {
+    "timestamp": "2026-03-13T05:12:32.786417+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-14T06:56:19.784006+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-14T07:14:46.420631+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-15T09:37:05.828480+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-15T09:37:18.989794+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  },
+  {
+    "timestamp": "2026-03-16T05:35:31.945924+00:00",
+    "username": "",
+    "success": false,
+    "reason": "empty_credentials"
+  },
+  {
+    "timestamp": "2026-03-16T05:35:41.785111+00:00",
+    "username": "admin",
+    "success": true,
+    "reason": "ok"
+  }
+]

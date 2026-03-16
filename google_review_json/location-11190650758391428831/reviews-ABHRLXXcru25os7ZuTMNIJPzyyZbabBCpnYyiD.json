@@ -1,0 +1,251 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Anu Salim"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-27T12:23:03.376659Z",
+    "updateTime": "2025-12-27T12:23:23.150543Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-30T12:01:02.003706Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rell6SnhjRlJEYUZORVFtdFdTbmhrY1U1SU9VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gayatri Devi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-27T06:03:15.693806Z",
+    "updateTime": "2025-12-27T06:03:15.693806Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-30T12:00:57.981728Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGSVdsOWZRbkY2YlVZNWNrYzNMVkJKTW1WQ05rRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aditi Hirole"
+    },
+    "starRating": "FIVE",
+    "comment": "Absolutely amazing place! Loved being here. Affordable yet great food🤍🤍🤍🤍",
+    "createTime": "2025-12-26T11:53:20.594157Z",
+    "updateTime": "2025-12-26T11:53:20.594157Z",
+    "reviewReply": {
+      "comment": "We’re so happy you loved it here! Great food that’s affordable and enjoyable is exactly what we aim for. Looking forward to welcoming you back again soon.",
+      "updateTime": "2025-12-30T12:05:47.824157Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGQ00wUlJabDlmUkd4MFUwVlVSRGh6TTB0bE5GRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Srinidhi N"
+    },
+    "starRating": "FIVE",
+    "comment": "It was a delightful experience had yummy food and good time and really nice servers",
+    "createTime": "2025-12-26T10:23:38.483682Z",
+    "updateTime": "2025-12-26T10:23:38.483682Z",
+    "reviewReply": {
+      "comment": "We’re delighted to hear you had such a lovely time! Great food, good moments, and warm service are exactly what we aim for. Looking forward to welcoming you back again soon.",
+      "updateTime": "2025-12-30T12:04:31.583359Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toVU16RlNXVzFPUjNSTk4wbHJMVXhHUlY4elprRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Khushi Yadav"
+    },
+    "starRating": "FIVE",
+    "comment": "Today I tired Java chip killer is a very good.\nAnd the staff sheetal is very polite..\nI came again...",
+    "createTime": "2025-12-25T17:08:11.914534Z",
+    "updateTime": "2025-12-25T17:08:11.914534Z",
+    "reviewReply": {
+      "comment": "We’re so happy you enjoyed the Java Chip Killer and had a great experience with our team! It’s wonderful to know you’re planning to visit again—looking forward to serving you soon. ☕",
+      "updateTime": "2025-12-30T12:03:55.820005Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRMFZWbEVlbUZ1VkVWRWJYRjJabkZOVFVWS09XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "rekha arnaiya"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-25T14:08:21.325321Z",
+    "updateTime": "2025-12-25T14:08:21.325321Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-30T12:00:45.784085Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSMVNVSk1OMEl6VTBSbFVrRjBUVGhTUjI1SWVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Riya Varu"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-25T14:07:59.895863Z",
+    "updateTime": "2025-12-25T14:07:59.895863Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-30T12:00:40.902584Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsd2JsUnhZa055YVZGbWVVMXZkV0p4VFRad2FIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "sonali dandane"
+    },
+    "starRating": "FIVE",
+    "comment": "Tea cake was awesome..",
+    "createTime": "2025-12-25T14:06:27.124764Z",
+    "updateTime": "2025-12-25T14:06:27.124764Z",
+    "reviewReply": {
+      "comment": "So glad you loved the tea cake! It’s one of our favourites too. Hope to see you again soon for another delightful bite and a great cup of coffee. ",
+      "updateTime": "2025-12-30T12:03:18.682539Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ObFFVODBjMFIyUXpWNU4wSnlXVkZNTmpKTFNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anshika Abshu"
+    },
+    "starRating": "THREE",
+    "comment": "Food was Nice",
+    "createTime": "2025-12-24T09:09:39.079363Z",
+    "updateTime": "2025-12-24T09:09:39.079363Z",
+    "reviewReply": {
+      "comment": "Thank you for sharing your feedback. We’re glad you visited us and are always working to improve. We hope your next visit feels even better.",
+      "updateTime": "2025-12-30T12:02:05.690290Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psR1NrZGpVWEJXVFVOcFdHOUZPR2t5T0hGalVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Abhishek Wakle"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-24T09:09:28.315228Z",
+    "updateTime": "2025-12-24T09:09:28.315228Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-30T12:00:21.917660Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNeGRtZG1hRGwxVVhaUVdETnhXbFk0U1ROeVZHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Krati kuril"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-24T08:23:34.807156Z",
+    "updateTime": "2025-12-24T08:23:34.807156Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-30T12:00:19.075182Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNeFVqRkhjSFZETkdadWVVRTRXQzFmTFZobVZYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lalti Yadav"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-24T07:38:27.354745Z",
+    "updateTime": "2025-12-24T07:38:27.354745Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-30T12:00:15.746061Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCMVlXVk1hSEZOYmxjME5WVlFlbGRvVUZWV1RXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rahul Ambanai"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-24T07:32:20.489208Z",
+    "updateTime": "2025-12-24T07:32:20.489208Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-30T12:00:12.791448Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSTllYUmtjVkJOYVZOd1RFOHljVWx4YjJoUWJYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sufiyan khan"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-24T07:31:44.487541Z",
+    "updateTime": "2025-12-24T07:31:44.487541Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-12-30T12:00:09.971452Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0V1EwWlBWekZpT1ZsTlkwOU1NM1Z1WjJwS1VYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vijay singh Yadav"
+    },
+    "starRating": "FIVE",
+    "comment": "Amazing cafe loved their coffee snacks everything was perfect. Best placed to hang out",
+    "createTime": "2025-12-24T07:23:28.472095Z",
+    "updateTime": "2025-12-24T07:23:28.472095Z",
+    "reviewReply": {
+      "comment": "We’re thrilled to hear you loved everything—from the coffee to the snacks! So happy we could be your go-to hangout spot. Looking forward to welcoming you back again soon. ",
+      "updateTime": "2025-12-30T12:00:01.603543Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCd1kxQnZVV1JJVUdwR1NXWlFkVFEzTUdGeGNFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alvina Sk"
+    },
+    "starRating": "FIVE",
+    "comment": "Had a coffee over here and it\u0027s taste amazing loved ghr vibe the atmosphere and the service enjoyed a lot. Best thing I have tried is java chip killar it was just a killar drink... Must visited place highly Statisfied...",
+    "createTime": "2025-12-22T11:25:13.378992Z",
+    "updateTime": "2025-12-22T11:25:13.378992Z",
+    "reviewReply": {
+      "comment": "Glad to know you loved the coffee, vibe, and service! The Java Chip Killer is definitely a crowd favourite, happy it stood out for you. Looking forward to welcoming you again soon for more great coffee moments.",
+      "updateTime": "2025-12-23T11:50:24.530343Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taNVUwSXhjSFl6TTNRNE9HRTNWM0p0Tmt4ZmMyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Veikho Asanii"
+    },
+    "starRating": "FIVE",
+    "comment": "In nutshell cute and pleasant. Recently I drop in. It was worth the visit. From decor to service, it was great. I had tried Cappuccino and Chamomile classic tea. I had a great experience.  I would love to visit again.",
+    "createTime": "2025-12-11T15:01:54.571292Z",
+    "updateTime": "2025-12-11T15:01:54.571292Z",
+    "reviewReply": {
+      "comment": "Glad to know you had a pleasant visit and enjoyed both the cappuccino and chamomile tea! Happy to hear the décor and service made it worthwhile. Looking forward to welcoming you again soon.",
+      "updateTime": "2025-12-23T11:52:06.622126Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWNGRsTkxOMWRDTVZoYU1reHBZVVowVEdvMWVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kalpesh Waghela"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-11T08:41:44.507640Z",
+    "updateTime": "2025-12-11T08:41:44.507640Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T11:52:21.025581Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kNVUzRlhaVkpwVUdwTFUwczVVMGQyTmxOUmJrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vishnupriya Karthikeyan (Laxmi)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-11T08:06:04.805416Z",
+    "updateTime": "2025-12-11T08:06:04.805416Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T11:54:50.997451Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WcldVcHBjbm95U0RoMlZVWkdNbnB1VlVKSFQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Priya Tomar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-11T07:09:50.974417Z",
+    "updateTime": "2025-12-11T07:09:50.974417Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-23T11:55:02.602203Z"
+    },
+    "name": "accounts/100486096577551952970/locations/11190650758391428831/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xBeWFVZERiVU01VURGMWQzTkdZVEJRV1RoU1EzYxAB"
+  }]
+}

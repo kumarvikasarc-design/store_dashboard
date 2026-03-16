@@ -1,0 +1,12 @@
+Deployment Name,Coffee Island Eros Churchgate - Mumbai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Start Date,01-08-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+End Date,31-08-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Report Generation Date&Time,29-12-2025, 05:20:46 pm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Supplier ,Receiver ,Receiver Kitchen ,Date,Expected Delivery,Indent Number ,Status ,Item Code ,HSN Code ,Item Name ,Category Code ,Category Name ,Super Category Code ,Super Category Name ,Unit ,UnitPrice,Margin Percentage,IndentPrice,Requested Qty ,Tax ,SubTotal ,Amount ,Comment ,Supplied Date ,Supplied Qty ,Tax ,SubTotal ,Amount ,Comment ,Dispatch Number ,Received Date ,Received Qty ,Tax ,SubTotal ,Amount ,Comment ,Directly Issued ,From Store/Kitchen,To Store/Kitchen,Suspicious Qty ,Suspicious Amount ,Reuse Qty ,Reuse Amount ,Wastage Qty ,Wastage Amount ,Item Status 
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Warehouse NCR,Coffee Island Eros Churchgate - Mumbai,-,29-08-2025,29-08-2025,IN1,Supplied,UNI0000004,,Apron With Ci Logo,CT_80,UNIFORM - APRON,-,UNIFORM,PCS..,300,-,300,4,60,1200,1260,-,29-08-2025,4,60,1200,1260,-,107,-,0,-,0,0,-,No,-,-,0,0,0,0,0,0,Supplied
+Warehouse NCR,Coffee Island Eros Churchgate - Mumbai,-,29-08-2025,29-08-2025,IN1,Supplied,UNI0000015,,Polo T-Shirt With Ci Logo - Large,CT_82,UNIFORM - SHIRT/T SHIRT,-,UNIFORM,PCS,340,-,340,2,34,680,714,-,29-08-2025,2,34,680,714,-,107,-,0,-,0,0,-,No,-,-,0,0,0,0,0,0,Supplied
+Warehouse NCR,Coffee Island Eros Churchgate - Mumbai,-,29-08-2025,29-08-2025,IN1,Supplied,UNI0000019,,Royal Blue Shirt F/S With Chinese Colour CI- Mens XL,CT_82,UNIFORM - SHIRT/T SHIRT,-,UNIFORM,PCS..,440,-,440,2,44,880,924,-,29-08-2025,2,44,880,924,-,107,-,0,-,0,0,-,No,-,-,0,0,0,0,0,0,Supplied
+Warehouse NCR,Coffee Island Eros Churchgate - Mumbai,-,29-08-2025,29-08-2025,IN1,Supplied,UNI0000005,,Team Member Ci Cap - Blue,CT_81,UNIFORM - CAP/HEAD GEARS,-,UNIFORM,PCS..,200,-,200,4,40,800,840,-,29-08-2025,4,40,800,840,-,107,-,0,-,0,0,-,No,-,-,0,0,0,0,0,0,Supplied
+,,,,,,,,,,,,,,,,,,Grand Total,178,3560,3738,,,,178,3560,3738,,,,,0,0,0,,,,,,0,,0,,0,

@@ -1,0 +1,103 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "singer asif"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-18T06:43:23.094628Z",
+    "updateTime": "2025-10-18T06:43:23.094628Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.\n",
+      "updateTime": "2025-10-22T05:35:30.836412Z"
+    },
+    "name": "accounts/100486096577551952970/locations/14073247821268226998/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wV1h6bHJSV1ptZHpReGJXZ3lRalpYVldNNFZYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sakshi Goyal"
+    },
+    "starRating": "FIVE",
+    "comment": "A must visit for coffee lovers..🤗",
+    "createTime": "2025-10-18T06:39:35.329545Z",
+    "updateTime": "2025-10-18T06:39:35.329545Z",
+    "reviewReply": {
+      "comment": "Thank you! So glad you loved the European coffee experience right where you\u0027re at. We’ll keep the brews bold and the vibes just right, see you again soon!",
+      "updateTime": "2025-10-22T05:35:18.335033Z"
+    },
+    "name": "accounts/100486096577551952970/locations/14073247821268226998/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oVFRUWlljMWhsVjFaS1dHSjNZVE0yZFVONlVGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aryan"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-17T13:47:29.836877Z",
+    "updateTime": "2025-10-17T13:47:29.836877Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-10-22T05:35:00.809551Z"
+    },
+    "name": "accounts/100486096577551952970/locations/14073247821268226998/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGVWQwOHpWRVJ5TTIwNWN5MUxRWEZtZEdOamEwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Om Prakash Sahu"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-17T13:38:51.317305Z",
+    "updateTime": "2025-10-17T13:38:51.317305Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-10-22T05:34:43.540105Z"
+    },
+    "name": "accounts/100486096577551952970/locations/14073247821268226998/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GWmFHdzNkMlZpWW5jeGJWRkhTazVGTW1SeWRWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Satish Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Good",
+    "createTime": "2025-10-17T13:37:41.531386Z",
+    "updateTime": "2025-10-17T13:37:41.531386Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-10-22T05:34:38.301091Z"
+    },
+    "name": "accounts/100486096577551952970/locations/14073247821268226998/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twb1dqSk9SemhTTlV4cFZXVlRUR1ZyWVRBeVluYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Harry Singh"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-17T11:27:49.980528Z",
+    "updateTime": "2025-10-17T11:27:49.980528Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2025-10-22T05:34:30.809757Z"
+    },
+    "name": "accounts/100486096577551952970/locations/14073247821268226998/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTk56WkdkRjlYV1dWMk1tNXlhSFJMUTFkeU9WRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aman Chaudhary"
+    },
+    "starRating": "FIVE",
+    "comment": "Great overall experience! Loved it",
+    "createTime": "2025-10-16T13:26:37.483233Z",
+    "updateTime": "2025-10-16T13:26:37.483233Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-10-17T04:55:37.733388Z"
+    },
+    "name": "accounts/100486096577551952970/locations/14073247821268226998/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwUlZHcGlkVGxGUlZOSFdFSjJjek5qWkZsNGFFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hemaksshe Tuli"
+    },
+    "starRating": "FIVE",
+    "comment": "Lovely staff! Great food! Immaculate vibes🥰",
+    "createTime": "2025-10-16T13:23:54.376050Z",
+    "updateTime": "2025-10-16T13:23:54.376050Z",
+    "reviewReply": {
+      "comment": "Our baristas will be all smiles reading this thank you!",
+      "updateTime": "2025-10-22T05:34:14.910925Z"
+    },
+    "name": "accounts/100486096577551952970/locations/14073247821268226998/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWlppMXBTMnh1YVVadWFreFpPR0pYYWpodlRWRRAB"
+  }]
+}

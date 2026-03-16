@@ -1,0 +1,53 @@
+/* =========================
+   GLOBAL FOOTER
+========================= */
+.global-footer {
+    position: fixed;
+    bottom: 12px;
+    right: 20px;
+
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    background: transparent;     /* ✅ transparent background */
+    padding: 0;                  /* no box */
+    border-radius: 0;
+
+    font-size: 16px;
+    color: #FACC15;              /* ✅ yellow text (Tailwind yellow-400) */
+    opacity: 0.95;
+
+    z-index: 9999;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+/* logo */
+.footer-logo {
+    height: 20px;
+    width: auto;
+}
+
+/* text */
+.footer-text {
+    color: #FACC15;              /* ✅ force yellow */
+    white-space: nowrap;
+    font-weight: 500;
+}
+
+/* =========================
+   AUTO-HIDE ON SCROLL
+========================= */
+.global-footer.hide {
+    transform: translateY(40px);
+    opacity: 0;
+}
+
+/* =========================
+   DESKTOP ONLY
+========================= */
+@media (max-width: 1024px) {
+    .global-footer {
+        display: none;
+    }
+}

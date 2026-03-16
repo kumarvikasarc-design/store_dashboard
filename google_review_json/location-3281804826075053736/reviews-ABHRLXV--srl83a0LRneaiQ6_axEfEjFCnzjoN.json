@@ -1,0 +1,260 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Srikant Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Different vibes , staff are very polite .",
+    "createTime": "2026-01-27T14:26:15.713559Z",
+    "updateTime": "2026-01-27T14:26:15.713559Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the vibe and found our staff polite. Hope to see you again soon.",
+      "updateTime": "2026-02-05T05:45:13.786591Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BMlkyUldla1JQUTNwc2FHcERaRWxRUzFoSFpFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mithlesh Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice ambience with good cup of coffee... highly recommended",
+    "createTime": "2026-01-27T13:14:14.194682Z",
+    "updateTime": "2026-01-27T13:14:14.194682Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the ambience and a good cup of coffee. We truly appreciate the recommendation and hope to see you again soon.",
+      "updateTime": "2026-02-05T05:46:16.522563Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SelFqZFFUMUZJVVhacFlWUlZaWEJ3U3kxelEyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Divya Sawarn"
+    },
+    "starRating": "ONE",
+    "createTime": "2026-01-21T10:56:30.711509Z",
+    "updateTime": "2026-01-21T10:56:30.711509Z",
+    "reviewReply": {
+      "comment": "Hi,\nThank you for taking the time to share your feedback. We’re truly sorry to hear that your experience didn’t meet expectations. We hope you’ll consider giving us another try. We’d love the chance to make it right and offer you the experience Coffee Island is known for.\nPlease DM us your contact details on Instagram at @coffee.island.in or email us at hello@coffeeisland.in so we can connect directly.",
+      "updateTime": "2026-01-26T15:58:47.983269Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjdGJrdFBabWt6YjFCNFZraDFlRVphTW05dFZGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Himanshu Chauhan"
+    },
+    "starRating": "FIVE",
+    "comment": "love the cappuccino and staff was very polite",
+    "createTime": "2026-01-21T06:20:05.162246Z",
+    "updateTime": "2026-01-21T06:20:05.162246Z",
+    "reviewReply": {
+      "comment": "Thank you! We’re glad you loved the cappuccino and found our staff polite. Hope to see you again soon.",
+      "updateTime": "2026-01-26T15:57:58.153123Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjM2FsUjJWRlZhVERaWFNVaFNkRTFrY1VsTloyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rohit Kushwaha"
+    },
+    "starRating": "FIVE",
+    "comment": "Lovely food and nice people of service there was on man his name Durgesh he very helpful",
+    "createTime": "2026-01-17T16:30:30.215371Z",
+    "updateTime": "2026-01-17T16:30:30.215371Z",
+    "reviewReply": {
+      "comment": "Thank you for the lovely feedback! We’re glad you enjoyed the food and found our team helpful. Looking forward to welcoming you again.",
+      "updateTime": "2026-01-19T07:47:44.219887Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWR1dsUjRWMHBCVWpobVNVTmxWbVpaYVRWRWJYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kamal Pal"
+    },
+    "starRating": "FIVE",
+    "comment": "Cozy cafe love the vibe",
+    "createTime": "2026-01-16T08:10:51.888046Z",
+    "updateTime": "2026-01-16T08:10:51.888046Z",
+    "reviewReply": {
+      "comment": "Thank you! We’re glad you loved the cozy vibe. Hope to see you again soon.",
+      "updateTime": "2026-01-19T07:49:10.433228Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1SVIwTlBVbkpvT1hjek5raHdWa0pUVWpsVVRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaji Singh"
+    },
+    "starRating": "FIVE",
+    "comment": "I love the cappuccino here and pourover",
+    "createTime": "2026-01-16T07:00:14.345203Z",
+    "updateTime": "2026-01-16T07:00:14.345203Z",
+    "reviewReply": {
+      "comment": "Thank you! We’re glad you loved the cappuccino and pour-over. Hope to see you again soon.",
+      "updateTime": "2026-01-19T07:48:30.553144Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOT05EWmlMV05zY1ROUU5rbENXbGxUWHpodlExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vikas Vikas rawat"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-15T06:38:40.235787Z",
+    "updateTime": "2026-01-15T06:38:40.235787Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2026-01-15T08:02:23.702535Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oaWVXZzVaMjl4UlVKNlZIRm9NbHBmWDBWUlFuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aman Yadav"
+    },
+    "starRating": "FIVE",
+    "comment": "Osm coffee and staff both",
+    "createTime": "2026-01-15T05:27:00.517472Z",
+    "updateTime": "2026-01-15T05:27:00.517472Z",
+    "reviewReply": {
+      "comment": "Thank you! We’re glad you loved the coffee and our team. Looking forward to welcoming you again.",
+      "updateTime": "2026-01-15T08:05:55.318691Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVmNWUm5OVkZWTW1aUlJWZDJNWFpHZG1sM00xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Upender Singh Rathor"
+    },
+    "starRating": "FIVE",
+    "comment": "Love the coffee\nBobastic peach paradise",
+    "createTime": "2026-01-15T04:55:17.884417Z",
+    "updateTime": "2026-01-15T04:55:17.884417Z",
+    "reviewReply": {
+      "comment": "Thank you! We’re glad you loved Bobastic Peach Paradise. Hope to serve you again soon.",
+      "updateTime": "2026-01-15T08:04:39.628043Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT214ZloyazNNVkZuWjNkb1EwOVRNWFU1V1hOYVZFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vikas kushwaha"
+    },
+    "starRating": "FIVE",
+    "comment": "Awesome coffee taste.",
+    "createTime": "2026-01-14T15:29:08.104575Z",
+    "updateTime": "2026-01-14T15:29:08.104575Z",
+    "reviewReply": {
+      "comment": "Thank you! We’re glad you loved the coffee taste. Hope to see you again soon.",
+      "updateTime": "2026-01-15T08:03:46.772781Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oNFNYcEZWVjlyVDBOd1UyVnRaSHBhVmtkdVVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aasif Khan"
+    },
+    "starRating": "FIVE",
+    "comment": "Lots of varieties of beans and nice ambiance and knowledgeable staff... highly recommended",
+    "createTime": "2026-01-14T15:08:16.791606Z",
+    "updateTime": "2026-01-14T15:08:16.791606Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the variety of beans, ambience, and knowledgeable service. We truly appreciate the recommendation and hope to see you again soon.",
+      "updateTime": "2026-01-15T08:03:03.196626Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT205VGNXODRhak4xZG5sWFkyWnpWMHhVT1hGV2EyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ajay Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice place for morning coffee n snacks 😍",
+    "createTime": "2026-01-14T04:38:21.800125Z",
+    "updateTime": "2026-01-14T04:38:21.800125Z",
+    "reviewReply": {
+      "comment": "Thank you! We’re glad you enjoyed your morning coffee and snacks. Hope to see you again soon.",
+      "updateTime": "2026-01-14T06:22:59.209675Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNM2FXaHFSSHBuTVhSNGFYSnJjVlk1U0VGbWVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ajeet Sagar"
+    },
+    "starRating": "FIVE",
+    "comment": "Good coffee ☕️",
+    "createTime": "2026-01-14T04:15:17.330215Z",
+    "updateTime": "2026-01-14T04:15:17.330215Z",
+    "reviewReply": {
+      "comment": "Thank you! We’re glad you liked the coffee. Hope to welcome you again soon.",
+      "updateTime": "2026-01-14T06:22:25.114845Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWRlJqWmZhRmh6YVU5a05FOUpNbk0xYTBsV1IxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MD Afghan Ansari"
+    },
+    "starRating": "FIVE",
+    "comment": "Coffee taste is awesome and staff was very knowledgeable and humble... Highly recommended",
+    "createTime": "2026-01-13T12:15:07.300781Z",
+    "updateTime": "2026-01-13T12:15:07.300781Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the coffee and found our team knowledgeable and welcoming. We truly appreciate the recommendation and look forward to welcoming you again soon.",
+      "updateTime": "2026-01-14T06:21:03.313648Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sVk9XZ3pjRzVYVEVkVFRUUTFkRUZuY1ZNeldsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mallik Jolly"
+    },
+    "starRating": "FIVE",
+    "comment": "A cup of latte just not gave me pleasure but the cafe decoration and staff behaviour made me an invitation with a sover manner ..I loved it ..",
+    "createTime": "2026-01-12T14:08:49.064799Z",
+    "updateTime": "2026-01-12T14:08:49.064799Z",
+    "reviewReply": {
+      "comment": "Thank you for sharing this lovely experience! We’re glad you enjoyed not just the latte, but also the cafe’s ambience and warm hospitality. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-13T04:58:22.961766Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kWWJtUkRWMlI0VEVzNVpVZGZlbEEzVFY5aWJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Md Nurjaman"
+    },
+    "starRating": "FIVE",
+    "comment": "Love the coffee",
+    "createTime": "2026-01-12T09:51:16.737179Z",
+    "updateTime": "2026-01-12T09:51:16.737179Z",
+    "reviewReply": {
+      "comment": "Thank you! We\u0027re so happy you had a great coffee experience. Can’t wait to have you back - there’s always more to discover!",
+      "updateTime": "2026-01-13T04:57:19.796888Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4algxbHRVSFUxVVdGeWJHaElSalJxVkROU1YxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kamal Danish"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-12T08:41:05.067455Z",
+    "updateTime": "2026-01-12T08:41:05.067455Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2026-01-13T04:55:57.485198Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tveFRUWjVOR3hGYWtnNU1td3pWbE0yT1RGVVJXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "ANANYA SHUKLA"
+    },
+    "starRating": "FIVE",
+    "comment": "Coffe is tooo good . Suraj did a great job!!! The place is quite good👌🏻",
+    "createTime": "2026-01-10T16:15:43.586158Z",
+    "updateTime": "2026-01-10T16:15:43.586158Z",
+    "reviewReply": {
+      "comment": "We’re glad you enjoyed the coffee and had a great experience. Looking forward to welcoming you again soon.",
+      "updateTime": "2026-01-13T04:55:25.463765Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoNVJHWXpPVmcxYlhZM1lVMURhMFEyTFhCQ1luYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bikash Roy"
+    },
+    "starRating": "FIVE",
+    "comment": "paradise milkshake is a must try",
+    "createTime": "2026-01-10T15:52:33.692182Z",
+    "updateTime": "2026-01-10T15:52:33.692182Z",
+    "reviewReply": {
+      "comment": "Thank you for the recommendation! We’re glad you enjoyed the Paradise Milkshake. Hope to see you again soon.",
+      "updateTime": "2026-01-13T04:54:42.479031Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poWFF6SmFVemx4Tm5kTlJEZ3dibmRRV1hKSVpIYxAB"
+  }]
+}

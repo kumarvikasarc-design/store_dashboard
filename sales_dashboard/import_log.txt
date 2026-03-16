@@ -1,0 +1,182 @@
+[2026-02-03 15:28:21] 🚀 Starting bulk sales import
+[2026-02-03 15:28:21] ❌ FAILED 6950edd1e0b64d3170f7e6f0-Enterprise_Daily_Sales_Sourcewise_Report(2025.04.01--2025.04.30).csv | invalid input syntax for type integer: "5.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "5.00"
+
+[2026-02-03 15:28:21] ❌ FAILED 6950edd1e0b64d3170f7e6f1-Enterprise_Daily_Sales_Sourcewise_Report(2025.05.01--2025.05.31).csv | invalid input syntax for type integer: "6.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "6.00"
+
+[2026-02-03 15:28:21] ❌ FAILED 6950edd1e0b64d3170f7e6f2-Enterprise_Daily_Sales_Sourcewise_Report(2025.06.01--2025.06.30).csv | invalid input syntax for type integer: "518.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "518.00"
+
+[2026-02-03 15:28:21] ❌ FAILED 6950edd1e0b64d3170f7e6f3-Enterprise_Daily_Sales_Sourcewise_Report(2025.07.01--2025.07.31).csv | invalid input syntax for type integer: "185.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "185.00"
+
+[2026-02-03 15:28:21] ❌ FAILED 6950edd1e0b64d3170f7e6f4-Enterprise_Daily_Sales_Sourcewise_Report(2025.08.01--2025.08.31).csv | invalid input syntax for type integer: "173.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "173.00"
+
+[2026-02-03 15:28:21] ❌ FAILED 6950edd1e0b64d3170f7e6f5-Enterprise_Daily_Sales_Sourcewise_Report(2025.09.01--2025.09.30).csv | invalid input syntax for type integer: "211.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "211.00"
+
+[2026-02-03 15:28:21] ❌ FAILED 6950edd2e0b64d3170f7e6f6-Enterprise_Daily_Sales_Sourcewise_Report(2025.10.01--2025.10.31).csv | invalid input syntax for type integer: "335.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "335.00"
+
+[2026-02-03 15:28:21] ❌ FAILED 6950edd2e0b64d3170f7e6f7-Enterprise_Daily_Sales_Sourcewise_Report(2025.11.01--2025.11.30).csv | invalid input syntax for type integer: "5.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "5.00"
+
+[2026-02-03 15:28:21] ❌ FAILED 6950eddee0b64d3170f7e705-Enterprise_Daily_Sales_Sourcewise_Report(2025.05.01--2025.05.31).csv | Header validation failed
+[2026-02-03 15:28:21] ❌ FAILED 6950eddee0b64d3170f7e706-Enterprise_Daily_Sales_Sourcewise_Report(2025.06.01--2025.06.30).csv | Header validation failed
+[2026-02-03 15:28:21] ❌ FAILED 6950eddee0b64d3170f7e707-Enterprise_Daily_Sales_Sourcewise_Report(2025.07.01--2025.07.31).csv | Header validation failed
+[2026-02-03 15:28:21] ❌ FAILED 6950eddee0b64d3170f7e708-Enterprise_Daily_Sales_Sourcewise_Report(2025.08.01--2025.08.31).csv | Header validation failed
+[2026-02-03 15:28:21] ❌ FAILED 6950eddee0b64d3170f7e709-Enterprise_Daily_Sales_Sourcewise_Report(2025.09.01--2025.09.30).csv | Header validation failed
+[2026-02-03 15:28:21] ❌ FAILED 6950eddee0b64d3170f7e70a-Enterprise_Daily_Sales_Sourcewise_Report(2025.10.01--2025.10.31).csv | Header validation failed
+[2026-02-03 15:28:21] ❌ FAILED 6950eddee0b64d3170f7e70b-Enterprise_Daily_Sales_Sourcewise_Report(2025.11.01--2025.11.30).csv | Header validation failed
+[2026-02-03 15:28:22] ❌ FAILED 695b88835cba54578258a0a7-Enterprise_Daily_Sales_Sourcewise_Report(2025.12.01--2025.12.31).csv | invalid input syntax for type integer: "28.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "28.00"
+
+[2026-02-03 15:28:22] ❌ FAILED 695b90755046965d9dec1178-Enterprise_Daily_Sales_Sourcewise_Report(2025.12.01--2025.12.31).csv | Header validation failed
+[2026-02-03 15:28:22] ❌ FAILED 6980436582c7ef2564bf8fb7-Enterprise_Daily_Sales_Sourcewise_Report(2026.01.01--2026.01.31).csv | invalid input syntax for type integer: "12.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "12.00"
+
+[2026-02-03 15:28:22] ❌ FAILED 6980436f100e7c2546b7175f-Enterprise_Daily_Sales_Sourcewise_Report(2026.01.01--2026.01.31).csv | Header validation failed
+[2026-02-03 15:28:22] ❌ FAILED Daily_Sales_Sourcewise_Report(2026-02-01--2026-02-01).csv | Header validation failed
+[2026-02-03 15:28:22] ❌ FAILED Daily_Sales_Sourcewise_Report(2026-02-02--2026-02-02) (1).csv | Header validation failed
+[2026-02-03 15:28:22] ❌ FAILED Daily_Sales_Sourcewise_Report(2026-02-02--2026-02-02).csv | Header validation failed
+[2026-02-03 15:28:22] 🏁 Import finished
+[2026-02-03 15:46:26] 🚀 Starting bulk sales import
+[2026-02-03 15:46:26] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f0-Enterprise_Daily_Sales_Sourcewise_Report(2025.04.01--2025.04.30).csv
+[2026-02-03 15:46:26] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f1-Enterprise_Daily_Sales_Sourcewise_Report(2025.05.01--2025.05.31).csv
+[2026-02-03 15:46:26] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f2-Enterprise_Daily_Sales_Sourcewise_Report(2025.06.01--2025.06.30).csv
+[2026-02-03 15:46:26] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f3-Enterprise_Daily_Sales_Sourcewise_Report(2025.07.01--2025.07.31).csv
+[2026-02-03 15:46:26] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f4-Enterprise_Daily_Sales_Sourcewise_Report(2025.08.01--2025.08.31).csv
+[2026-02-03 15:46:26] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f5-Enterprise_Daily_Sales_Sourcewise_Report(2025.09.01--2025.09.30).csv
+[2026-02-03 15:46:26] ⏭ Skipping already processed file: 6950edd2e0b64d3170f7e6f6-Enterprise_Daily_Sales_Sourcewise_Report(2025.10.01--2025.10.31).csv
+[2026-02-03 15:46:26] ⏭ Skipping already processed file: 6950edd2e0b64d3170f7e6f7-Enterprise_Daily_Sales_Sourcewise_Report(2025.11.01--2025.11.30).csv
+[2026-02-03 15:46:27] ❌ FAILED 6950eddee0b64d3170f7e705-Enterprise_Daily_Sales_Sourcewise_Report(2025.05.01--2025.05.31).csv | invalid input syntax for type integer: "519.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "519.00"
+
+[2026-02-03 15:46:27] ❌ FAILED 6950eddee0b64d3170f7e706-Enterprise_Daily_Sales_Sourcewise_Report(2025.06.01--2025.06.30).csv | invalid input syntax for type integer: "445.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "445.00"
+
+[2026-02-03 15:46:27] ❌ FAILED 6950eddee0b64d3170f7e707-Enterprise_Daily_Sales_Sourcewise_Report(2025.07.01--2025.07.31).csv | invalid input syntax for type integer: "419.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "419.00"
+
+[2026-02-03 15:46:27] ❌ FAILED 6950eddee0b64d3170f7e708-Enterprise_Daily_Sales_Sourcewise_Report(2025.08.01--2025.08.31).csv | invalid input syntax for type integer: "464.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "464.00"
+
+[2026-02-03 15:46:27] ❌ FAILED 6950eddee0b64d3170f7e709-Enterprise_Daily_Sales_Sourcewise_Report(2025.09.01--2025.09.30).csv | invalid input syntax for type integer: "324.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "324.00"
+
+[2026-02-03 15:46:27] ❌ FAILED 6950eddee0b64d3170f7e70a-Enterprise_Daily_Sales_Sourcewise_Report(2025.10.01--2025.10.31).csv | invalid input syntax for type integer: "390.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "390.00"
+
+[2026-02-03 15:46:27] ❌ FAILED 6950eddee0b64d3170f7e70b-Enterprise_Daily_Sales_Sourcewise_Report(2025.11.01--2025.11.30).csv | invalid input syntax for type integer: "360.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "360.00"
+
+[2026-02-03 15:46:27] ⏭ Skipping already processed file: 695b88835cba54578258a0a7-Enterprise_Daily_Sales_Sourcewise_Report(2025.12.01--2025.12.31).csv
+[2026-02-03 15:46:27] ❌ FAILED 695b90755046965d9dec1178-Enterprise_Daily_Sales_Sourcewise_Report(2025.12.01--2025.12.31).csv | invalid input syntax for type integer: "388.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "388.00"
+
+[2026-02-03 15:46:27] ⏭ Skipping already processed file: 6980436582c7ef2564bf8fb7-Enterprise_Daily_Sales_Sourcewise_Report(2026.01.01--2026.01.31).csv
+[2026-02-03 15:46:27] ❌ FAILED 6980436f100e7c2546b7175f-Enterprise_Daily_Sales_Sourcewise_Report(2026.01.01--2026.01.31).csv | invalid input syntax for type integer: "317.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "317.00"
+
+[2026-02-03 15:46:27] ❌ FAILED Daily_Sales_Sourcewise_Report(2026-02-01--2026-02-01).csv | missing data for column "area"
+CONTEXT:  COPY dsr_sales, line 2: ""
+
+[2026-02-03 15:46:27] ❌ FAILED Daily_Sales_Sourcewise_Report(2026-02-02--2026-02-02) (1).csv | missing data for column "area"
+CONTEXT:  COPY dsr_sales, line 2: ""
+
+[2026-02-03 15:46:27] ❌ FAILED Daily_Sales_Sourcewise_Report(2026-02-02--2026-02-02).csv | missing data for column "area"
+CONTEXT:  COPY dsr_sales, line 2: ""
+
+[2026-02-03 15:46:27] 🏁 Import finished
+[2026-02-03 15:48:09] 🚀 Starting bulk sales import
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f0-Enterprise_Daily_Sales_Sourcewise_Report(2025.04.01--2025.04.30).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f1-Enterprise_Daily_Sales_Sourcewise_Report(2025.05.01--2025.05.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f2-Enterprise_Daily_Sales_Sourcewise_Report(2025.06.01--2025.06.30).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f3-Enterprise_Daily_Sales_Sourcewise_Report(2025.07.01--2025.07.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f4-Enterprise_Daily_Sales_Sourcewise_Report(2025.08.01--2025.08.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950edd1e0b64d3170f7e6f5-Enterprise_Daily_Sales_Sourcewise_Report(2025.09.01--2025.09.30).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950edd2e0b64d3170f7e6f6-Enterprise_Daily_Sales_Sourcewise_Report(2025.10.01--2025.10.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950edd2e0b64d3170f7e6f7-Enterprise_Daily_Sales_Sourcewise_Report(2025.11.01--2025.11.30).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950eddee0b64d3170f7e705-Enterprise_Daily_Sales_Sourcewise_Report(2025.05.01--2025.05.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950eddee0b64d3170f7e706-Enterprise_Daily_Sales_Sourcewise_Report(2025.06.01--2025.06.30).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950eddee0b64d3170f7e707-Enterprise_Daily_Sales_Sourcewise_Report(2025.07.01--2025.07.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950eddee0b64d3170f7e708-Enterprise_Daily_Sales_Sourcewise_Report(2025.08.01--2025.08.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950eddee0b64d3170f7e709-Enterprise_Daily_Sales_Sourcewise_Report(2025.09.01--2025.09.30).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950eddee0b64d3170f7e70a-Enterprise_Daily_Sales_Sourcewise_Report(2025.10.01--2025.10.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6950eddee0b64d3170f7e70b-Enterprise_Daily_Sales_Sourcewise_Report(2025.11.01--2025.11.30).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 695b88835cba54578258a0a7-Enterprise_Daily_Sales_Sourcewise_Report(2025.12.01--2025.12.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 695b90755046965d9dec1178-Enterprise_Daily_Sales_Sourcewise_Report(2025.12.01--2025.12.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6980436582c7ef2564bf8fb7-Enterprise_Daily_Sales_Sourcewise_Report(2026.01.01--2026.01.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: 6980436f100e7c2546b7175f-Enterprise_Daily_Sales_Sourcewise_Report(2026.01.01--2026.01.31).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: Daily_Sales_Sourcewise_Report(2026-02-01--2026-02-01).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: Daily_Sales_Sourcewise_Report(2026-02-02--2026-02-02) (1).csv
+[2026-02-03 15:48:09] ⏭ Skipping already processed file: Daily_Sales_Sourcewise_Report(2026-02-02--2026-02-02).csv
+[2026-02-03 15:48:09] 🏁 Import finished
+[2026-02-03 17:07:50] 🚀 Starting bulk sales import
+[2026-02-03 17:07:50] ❌ FAILED 6950edd1e0b64d3170f7e6f0-Enterprise_Daily_Sales_Sourcewise_Report(2025.04.01--2025.04.30).csv | missing data for column "net_sale"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island HQ-27,2025-04-09,POS,5,1,0,407.14,0.00,0.00,407.14,20.36,0,20.36,427.50,0.50..."
+
+[2026-02-03 17:07:50] ❌ FAILED 6950edd1e0b64d3170f7e6f1-Enterprise_Daily_Sales_Sourcewise_Report(2025.05.01--2025.05.31).csv | missing data for column "data_date"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island Beyond GK II,2025-05-12,POS,6,2,0,1295.24,388.57,0,0,0,0,0,0,0.00,906.67,45...."
+
+[2026-02-03 17:07:50] ❌ FAILED 6950edd1e0b64d3170f7e6f2-Enterprise_Daily_Sales_Sourcewise_Report(2025.06.01--2025.06.30).csv | missing data for column "data_date"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island Beyond GK II,2025-06-03,POS,518,11,0,76199.78,76199.78,0,0,0,0,0,0,0,0.00,0...."
+
+[2026-02-03 17:07:50] ❌ FAILED 6950edd1e0b64d3170f7e6f3-Enterprise_Daily_Sales_Sourcewise_Report(2025.07.01--2025.07.31).csv | missing data for column "gross_amount"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island Beyond GK II,2025-07-01,POS,185,53,0,25148.22,0.00,0,0,0,0,0,0,0.00,25148.22..."
+
+[2026-02-03 17:07:51] ❌ FAILED 6950edd1e0b64d3170f7e6f4-Enterprise_Daily_Sales_Sourcewise_Report(2025.08.01--2025.08.31).csv | missing data for column "gross_amount"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island Beyond GK II,2025-08-01,POS,173,64,0,28045.99,954.45,0,0,0,0,0,0,0.00,27091...."
+
+[2026-02-03 17:07:51] ❌ FAILED 6950edd1e0b64d3170f7e6f5-Enterprise_Daily_Sales_Sourcewise_Report(2025.09.01--2025.09.30).csv | missing data for column "gross_amount"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island Beyond GK II,2025-09-01,POS,211,64,0,31520.03,156.00,0,0,0,0,0,0.00,31364.03..."
+
+[2026-02-03 17:07:51] ❌ FAILED 6950edd2e0b64d3170f7e6f6-Enterprise_Daily_Sales_Sourcewise_Report(2025.10.01--2025.10.31).csv | missing data for column "gross_amount"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island Beyond GK II,2025-10-01,POS,335,94,0,54363.60,1268.98,0,0,0,0,0,0,0.00,53094..."
+
+[2026-02-03 17:07:51] ❌ FAILED 6950edd2e0b64d3170f7e6f7-Enterprise_Daily_Sales_Sourcewise_Report(2025.11.01--2025.11.30).csv | missing data for column "gross_amount"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island Beyond GK II,2025-11-01,Mobile App,5,2,0,527.00,100.00,10.00,0,0,0,0,0,10.00..."
+
+[2026-02-03 17:07:51] ❌ FAILED 6950eddee0b64d3170f7e705-Enterprise_Daily_Sales_Sourcewise_Report(2025.05.01--2025.05.31).csv | invalid input syntax for type integer: "519.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "519.00"
+
+[2026-02-03 17:07:51] ❌ FAILED 6950eddee0b64d3170f7e706-Enterprise_Daily_Sales_Sourcewise_Report(2025.06.01--2025.06.30).csv | invalid input syntax for type integer: "445.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "445.00"
+
+[2026-02-03 17:07:51] ❌ FAILED 6950eddee0b64d3170f7e707-Enterprise_Daily_Sales_Sourcewise_Report(2025.07.01--2025.07.31).csv | invalid input syntax for type integer: "419.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "419.00"
+
+[2026-02-03 17:07:51] ❌ FAILED 6950eddee0b64d3170f7e708-Enterprise_Daily_Sales_Sourcewise_Report(2025.08.01--2025.08.31).csv | invalid input syntax for type integer: "464.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "464.00"
+
+[2026-02-03 17:07:51] ❌ FAILED 6950eddee0b64d3170f7e709-Enterprise_Daily_Sales_Sourcewise_Report(2025.09.01--2025.09.30).csv | invalid input syntax for type integer: "324.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "324.00"
+
+[2026-02-03 17:07:51] ❌ FAILED 6950eddee0b64d3170f7e70a-Enterprise_Daily_Sales_Sourcewise_Report(2025.10.01--2025.10.31).csv | invalid input syntax for type integer: "390.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "390.00"
+
+[2026-02-03 17:07:51] ❌ FAILED 6950eddee0b64d3170f7e70b-Enterprise_Daily_Sales_Sourcewise_Report(2025.11.01--2025.11.30).csv | invalid input syntax for type integer: "360.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "360.00"
+
+[2026-02-03 17:07:52] ❌ FAILED 695b88835cba54578258a0a7-Enterprise_Daily_Sales_Sourcewise_Report(2025.12.01--2025.12.31).csv | missing data for column "created_at"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island Beyond GK II,2025-12-01,Zomato,28,19,0,8360.00,3760.00,380.00,0,0,0,0,0,0,0,..."
+
+[2026-02-03 17:07:52] ❌ FAILED 695b90755046965d9dec1178-Enterprise_Daily_Sales_Sourcewise_Report(2025.12.01--2025.12.31).csv | invalid input syntax for type integer: "388.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "388.00"
+
+[2026-02-03 17:07:52] ❌ FAILED 6980436582c7ef2564bf8fb7-Enterprise_Daily_Sales_Sourcewise_Report(2026.01.01--2026.01.31).csv | missing data for column "created_at"
+CONTEXT:  COPY dsr_sales, line 2: "-,-,North,Coffee Island Beyond GK II,2026-01-01,Swiggy,12,5,0,3744.00,1649.86,100.00,0,0,0,0,0,0,100..."
+
+[2026-02-03 17:07:52] ❌ FAILED 6980436f100e7c2546b7175f-Enterprise_Daily_Sales_Sourcewise_Report(2026.01.01--2026.01.31).csv | invalid input syntax for type integer: "317.00"
+CONTEXT:  COPY dsr_sales, line 2, column no_of_items: "317.00"
+
+[2026-02-03 17:07:52] ❌ FAILED Daily_Sales_Sourcewise_Report(2026-02-01--2026-02-01).csv | invalid input syntax for type date: "Date"
+CONTEXT:  COPY dsr_sales, line 2, column sale_date: "Date"
+
+[2026-02-03 17:07:52] ✅ Imported Daily_Sales_Sourcewise_Report(2026-02-02--2026-02-02) (1).csv | rows=0
+[2026-02-03 17:07:52] ❌ FAILED Daily_Sales_Sourcewise_Report(2026-02-02--2026-02-02).csv | invalid input syntax for type date: "Date"
+CONTEXT:  COPY dsr_sales, line 2, column sale_date: "Date"
+
+[2026-02-03 17:07:52] 🏁 Import finished

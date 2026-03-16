@@ -1,0 +1,42 @@
+[
+  {
+    "store_code": "CI-AMANORA",
+    "business_name": "Coffee Island | AMANORA",
+    "location_id": "10866130483095140789"
+  },
+  {
+    "store_code": "CI-KURLA",
+    "business_name": "Coffee Island | Phoenix Marketcity | Kurla",
+    "location_id": "11190650758391428831"
+  },
+  {
+    "store_code": "CI-GK2",
+    "business_name": "Coffee Island Beyond | GK 2",
+    "location_id": "13380444637775966918"
+  },
+  {
+    "store_code": "CI-NSP",
+    "business_name": "Coffee Island | NSP",
+    "location_id": "14073247821268226998"
+  },
+  {
+    "store_code": "CI-HQ27",
+    "business_name": "Coffee Island | HQ27",
+    "location_id": "15767443270777125242"
+  },
+  {
+    "store_code": "CI-TRIBECA",
+    "business_name": "Coffee Island | TRIBECA",
+    "location_id": "18251157111954801525"
+  },
+  {
+    "store_code": "CI-AIPL",
+    "business_name": "Coffee Island | AIPL",
+    "location_id": "3281804826075053736"
+  },
+  {
+    "store_code": "CI-EROS",
+    "business_name": "Coffee Island | Eros Cinema Churchgate",
+    "location_id": "6119222168702984294"
+  }
+]

@@ -1,0 +1,35 @@
+/* Compact dropdown height */
+.Select-control {
+    height: 28px !important;
+    min-height: 32px !important;
+    font-size: 0.85rem;
+}
+
+.Select-placeholder,
+.Select-value-label {
+    line-height: 30px !important;
+}
+
+/* Dropdown options */
+.VirtualizedSelectOption {
+    font-size: 0.80rem;
+    padding: 6px 10px;
+}
+
+/* Multi select pills */
+.Select--multi .Select-value {
+    font-size: 0.3rem;
+    padding: 2px 6px;
+}
+
+/* Refresh button */
+.filter-refresh-btn {
+    height: 32px;
+    font-size: 0.85rem;
+    padding: 0;
+}
+
+/* Reduce vertical gaps */
+.row.g-2 {
+    --bs-gutter-y: 0.4rem;
+}

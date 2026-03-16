@@ -1,0 +1,159 @@
+/* Base for laptops */
+html {
+    font-size: 14px;
+}
+
+/* Large laptops */
+@media (min-width: 1366px) {
+    html { font-size: 13px; }
+}
+
+/* Desktop monitors */
+@media (min-width: 1600px) {
+    html { font-size: 12px; }
+}
+
+/* Full HD / TV */
+@media (min-width: 1920px) {
+    html { font-size: 9px; }
+}
+
+
+/* Prevent stretch on ultra-wide screens */
+body {
+    max-width: 1920px;
+    margin: auto;
+}
+
+
+/* Base table tuning */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Table header */
+thead th {
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 6px 8px;
+    white-space: nowrap;
+}
+
+/* Table body cells */
+tbody td {
+    font-size: 0.80rem;
+    padding: 6px 8px;
+    line-height: 1.3;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+/* Zebra rows */
+tbody tr:nth-child(even) {
+    background-color: rgba(0,0,0,0.03);
+}
+.card-title {
+    font-size: 1.1rem;
+}
+.table td {
+    font-size: 0.95rem;
+}
+/* Dropdown container */
+.Select-control {
+    min-height: 34px !important;
+    height: 34px !important;
+    font-size: 0.9rem;
+}
+
+/* Selected value */
+.Select-value-label {
+    line-height: 32px !important;
+    font-size: 0.9rem;
+}
+
+/* Dropdown options */
+.VirtualizedSelectOption {
+    font-size: 0.9rem;
+    padding: 6px 10px;
+}
+
+/* Multi-value pills */
+.Select--multi .Select-value {
+    font-size: 0.8rem;
+    padding: 2px 6px;
+}
+
+/* ===============================
+   KPI SYSTEM — GLOBAL (FINAL)
+   =============================== */
+
+:root {
+    --kpi-title-size: 0.72rem;
+    --kpi-value-size: 1.25rem;
+    --kpi-sub-size: 0.68rem;
+
+    --kpi-padding-y: 6px;
+    --kpi-padding-x: 10px;
+    --kpi-radius: 6px;
+}
+
+/* KPI Card */
+.kpi-card {
+    padding: var(--kpi-padding-y) var(--kpi-padding-x);
+    border-radius: var(--kpi-radius);
+}
+
+/* KPI Title */
+.kpi-title {
+    font-size: var(--kpi-title-size);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    opacity: 0.75;
+    margin-bottom: 4px;
+}
+
+/* KPI Value */
+.kpi-value {
+    font-size: var(--kpi-value-size);
+    font-weight: 600;
+    line-height: 1.15;
+}
+
+/* KPI Sub text */
+.kpi-sub {
+    font-size: var(--kpi-sub-size);
+    opacity: 0.6;
+}
+
+@media (min-width: 1600px) {
+    :root {
+        --kpi-value-size: 1.15rem;
+    }
+}
+
+@media (min-width: 1920px) {
+    :root {
+        --kpi-value-size: 1.05rem;
+    }
+}
+
+@media (max-width: 768px) {
+    :root {
+        --kpi-value-size: 1.1rem;
+        --kpi-title-size: 0.7rem;
+    }
+    table {
+        font-size: var(--table-font-size);
+    }
+    .card, .dbc-card {
+        padding: 8px !important;
+    }
+
+    /* Stack filters */
+    .filter-row {
+        flex-direction: column;
+    }
+}

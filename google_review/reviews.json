@@ -1,0 +1,238 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Prem Waghmode"
+    },
+    "starRating": "FOUR",
+    "comment": "Tried Cappuccino, it is smooth, and customer service is great\nThanks Rohit.",
+    "createTime": "2025-12-16T15:55:10.501116Z",
+    "updateTime": "2025-12-16T15:55:10.501116Z",
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT25weFlrdzFkRW90Wm5CVmMxTjVRMDVOVjFKV1UwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MERAL"
+    },
+    "starRating": "TWO",
+    "comment": "Disappointing experience at very first visit. The atmosphere was hot and suffocating as the AC were not working at all or not working properly. Service was slow, with coffee and spaghetti arriving separately within 20 minutes of distance. I asked for drinking water, which was never provided. The cold coffee was watery and so thin, generally cold coffee texture should be thick like in other cafes. I ordered two different flavour cold coffee but both were not good. And the high prices were unjustified.",
+    "createTime": "2025-12-14T19:22:10.724792Z",
+    "updateTime": "2025-12-14T19:22:10.724792Z",
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVMUxUWnhPRTB0UkhWNWEwVlJMVlE1TVZRNVVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pratik Nazirkar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-14T07:31:02.941684Z",
+    "updateTime": "2025-12-14T07:31:02.941684Z",
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poc1RVOU1XbWxCYzJjM1VVZHBkWG8xYUdaaVdIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mohit Joshi"
+    },
+    "starRating": "TWO",
+    "comment": "Ordered an iced americano. Sorry, the flavor was very decaf - which I really dint order.\nBrownie tasted a bit stale.\nThe ambience is good.",
+    "createTime": "2025-12-07T10:00:19.379054Z",
+    "updateTime": "2025-12-07T10:00:19.379054Z",
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oRlFsWk5Za2sxWDNaUFduSlJaVlJhU2xGeWFIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "logan afridi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-01T10:54:11.994499Z",
+    "updateTime": "2025-12-01T10:54:11.994499Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-12-03T05:02:35.178051Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT214amMwOVlObXhQZVdFMVpGa3hNSEpwY1hkS01GRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "priyanka dhangar"
+    },
+    "starRating": "ONE",
+    "comment": "The food was not worth the quality was too less.the bowl was not even half filled and they took 40 min to serve\nYou do not get what they have shown in the picture",
+    "createTime": "2025-11-29T10:54:07.471210Z",
+    "updateTime": "2025-11-29T10:54:07.471210Z",
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT201NVgwSmtXRGN0WWkxUmJXUTVjVWhZUTJacVIyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Amit Sutar"
+    },
+    "starRating": "FIVE",
+    "comment": "Very good Service and Best Coffee Served\nStaff is Very Friendly\nThanks Bhakti for Great Coffee",
+    "createTime": "2025-11-28T08:31:11.220823Z",
+    "updateTime": "2025-11-28T08:31:11.220823Z",
+    "reviewReply": {
+      "comment": "Glad to know you enjoyed the coffee and had a warm service experience! We always aim to serve great brews with friendly hospitality. Looking forward to welcoming you again soon. ☕✨",
+      "updateTime": "2025-12-01T07:04:16.690622Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCeVYycFBSRTFDWkUxSWMyTnJVekZsUjNSWk1HYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Srushti More"
+    },
+    "starRating": "FIVE",
+    "comment": "Good matcha good staff good vibes",
+    "createTime": "2025-11-26T16:37:15.587255Z",
+    "updateTime": "2025-11-26T16:37:15.587255Z",
+    "reviewReply": {
+      "comment": "Glad to know you enjoyed the matcha, the vibe, and the experience with the team! Looking forward to welcoming you again soon. ☕",
+      "updateTime": "2025-12-01T07:03:00.811648Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwVmNXTTRkVGhJY0c5T1NqbDVRbll3YjJWWFJYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marilyn"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-11-23T22:31:03.611230Z",
+    "updateTime": "2025-11-23T22:31:03.611230Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-11-24T07:38:11.100604Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sb1NVcEtjakpzTVZGRGNHWmlWVE5CYzJoM1dYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aditi Desai"
+    },
+    "starRating": "ONE",
+    "comment": "Absolutely the worst visit I’ve had at any café. The food was bad, the beverages were even worse, and the so-called “bobastic coffechino” I ordered was downright terrible — easily the worst drink I’ve ever had.\nTo make things worse, they didn’t even bother clearing the table before we sat down. The service was horrendous from start to finish, and the staff took ages to take our order. By the time they finally did, I already regretted choosing this place. Sweet crunch nut mix is only filled with coconut absolutely disgusting\nSave your time, save your money — Coffee Island is a complete disappointment. Not recommended at all.",
+    "createTime": "2025-11-23T12:39:48.595982Z",
+    "updateTime": "2025-11-23T12:39:48.595982Z",
+    "reviewReply": {
+      "comment": "Hi,\nThank you for taking the time to share your feedback. We’re truly sorry to hear that your experience didn’t meet expectations. We hope you’ll consider giving us another try. We’d love the chance to make it right and offer you the experience Coffee Island is known for.\nPlease DM us your contact details on Instagram at @coffee.island.in or email us at hello@coffeeisland.in so we can connect directly.",
+      "updateTime": "2025-11-24T07:41:47.949113Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aTFlUSnpjMkZqV0dGeGNFbFVVRWt4TVZSSFpHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Shubham"
+    },
+    "starRating": "FIVE",
+    "comment": "Rewa was a grt help.All the staff was really good",
+    "createTime": "2025-11-23T08:06:38.021009Z",
+    "updateTime": "2025-11-23T08:06:38.021009Z",
+    "reviewReply": {
+      "comment": "So happy to hear that! 😊☕ Glad you had a great time! See you again soon! ✨",
+      "updateTime": "2025-11-24T07:40:21.642643Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psTFdtRXhUa2hhTjBsbWNuTnhSVmM0V1hSM1MzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jitesh Allewar"
+    },
+    "starRating": "FIVE",
+    "comment": "Since the store opened, we’ve been regular customers at Coffee Island, Amanora Mall. I would especially like to mention Bhakti — she is very helpful and always makes the best coffee for us",
+    "createTime": "2025-11-20T05:31:06.810424Z",
+    "updateTime": "2025-11-20T05:31:06.810424Z",
+    "reviewReply": {
+      "comment": "It’s wonderful to know you’ve been regular visitors since the start! We’re delighted that the coffee and experience continue to make your visits enjoyable. Always a pleasure to brew your favourites, and looking forward to welcoming you again soon. ☕✨",
+      "updateTime": "2025-11-24T07:42:33.950951Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjMVVuSkpNelJyTXpnelVVRlFUbkZqTkVORGVWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Varun Chandak"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-11-15T13:26:41.576536Z",
+    "updateTime": "2025-11-15T13:26:41.576536Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 4 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-11-24T07:38:28.457548Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KMkxTMXRRMlZ2U0RReFgyRlBiamhIZVRKQ1JtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sushil kumar kushwaha"
+    },
+    "starRating": "FOUR",
+    "comment": "Coffee Island has an espresso bar located in Amanora Mall, Hadapsar, Pune.\nThe Cafe has varieties of hot \u0026 cold coffee, shakes and mocktails.\nThe cappuccino was smooth and creamy. Pastries were fresh and tasty.\nMy experience at Coffee Island was truly delightful and memorable. The café offers a perfect combination of beautiful ambiance, delicious food, and warm hospitality !!!",
+    "createTime": "2025-11-13T17:55:05.362211Z",
+    "updateTime": "2025-11-13T17:55:05.362211Z",
+    "reviewReply": {
+      "comment": "We’re delighted to know you enjoyed your visit! It’s wonderful to hear that the coffee, food, ambience, and overall experience left a memorable impression. Thank you for sharing such thoughtful feedback and we look forward to welcoming you again for more Coffee Island moments. ☕✨",
+      "updateTime": "2025-11-18T05:27:11.188841Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4U1ZtSjBTakV3UTJwS1ZHdEtTVkoyYzA1Vk1uYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yash Bhandari"
+    },
+    "starRating": "FIVE",
+    "comment": "If you’re planning a cafe WFH, this is a great place! Rohit, anuj everyone in the staff are amazing.",
+    "createTime": "2025-11-09T08:21:07.064700Z",
+    "updateTime": "2025-11-09T08:21:07.064700Z",
+    "reviewReply": {
+      "comment": "Great to know you enjoyed working from our space! We’re glad the coffee, ambience, and team made it a comfortable experience. Looking forward to hosting more of your work-and-coffee sessions. ☕",
+      "updateTime": "2025-11-18T05:22:06.885385Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wRVF6SXlMVGN5VkZkV1REUmhZMFJGZEVrNVgwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Shrikant Daware"
+    },
+    "starRating": "FIVE",
+    "comment": "Lovely ambience ♥️ great coffee and great suggestions and service by bhakti and yuvraj!😄",
+    "createTime": "2025-11-08T06:57:05.848092Z",
+    "updateTime": "2025-11-08T06:57:05.848092Z",
+    "reviewReply": {
+      "comment": "We’re delighted to know you enjoyed the ambience, coffee, and overall experience! It’s always great to hear our team made your visit even better. Looking forward to serving you again soon for another perfect cup! ☕♥️",
+      "updateTime": "2025-11-11T11:53:00.340375Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tndFIweExYM2h0VEhCTFJITjZiMlZzYkc5SGJVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raj Prasad"
+    },
+    "starRating": "FIVE",
+    "comment": "Coffee as very good and very very good service for welth --- rohit",
+    "createTime": "2025-11-07T18:03:15.871427Z",
+    "updateTime": "2025-11-07T18:03:15.871427Z",
+    "reviewReply": {
+      "comment": "We’re happy to know you enjoyed the coffee and service! Your kind words mean a lot to the team, and we are looking forward to welcoming you again soon. ☕",
+      "updateTime": "2025-11-11T11:51:56.841672Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wTE1qQk1RMHh3UkhBMFRXZzVOMUJUUlVacU1HYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mangesh Mestry"
+    },
+    "starRating": "FIVE",
+    "comment": "Coffee was great.",
+    "createTime": "2025-11-07T18:00:35.815124Z",
+    "updateTime": "2025-11-07T18:00:35.815124Z",
+    "reviewReply": {
+      "comment": "Big cheers from our crew to you! We’re so happy you enjoyed the coffee. Come by again anytime 💛",
+      "updateTime": "2025-11-11T11:50:49.269338Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWlZteE5WbTVYVFhoUlRsa3laWFpFUlZCeFVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sandeep Singh"
+    },
+    "starRating": "FIVE",
+    "comment": "Great experience with coffee",
+    "createTime": "2025-11-04T06:03:54.571708Z",
+    "updateTime": "2025-11-04T06:03:54.571708Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-11-11T05:31:59.065037Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCaVJGTlVXVFpFVjJwUVJXNHRlamRhT1c1YVJrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "KRUSHNA GUJAR"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-11-03T17:30:27.652660Z",
+    "updateTime": "2025-11-03T17:30:27.652660Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2025-11-11T05:31:49.223662Z"
+    },
+    "name": "accounts/100486096577551952970/locations/10866130483095140789/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsYVdUQjVVRWxvYkhSeWFFUldTbmxYYzFkQlpuYxAB"
+  }]
+}

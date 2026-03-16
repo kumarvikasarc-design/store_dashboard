@@ -1,0 +1,425 @@
+{
+  "attributes": [{
+    "id": {
+      "attributeType": "LISTING_NAME"
+    },
+    "values": [{
+      "datum": {
+        "listingName": {
+          "text": "Coffee Island | NSP"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "PHONE_NUMBER"
+    },
+    "values": [{
+      "datum": {
+        "phoneNumber": {
+          "phoneNumber": "092117 29503",
+          "metadata": {
+            "isPreferred": true
+          },
+          "phoneType": "VOICE",
+          "phoneNumberRfc3966": "tel:+91-92117-29503"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "ADDRESS"
+    },
+    "values": [{
+      "datum": {
+        "address": {
+          "postalAddress": {
+            "regionCode": "IN",
+            "languageCode": "en",
+            "postalCode": "110034",
+            "administrativeArea": "Delhi",
+            "locality": "New Delhi",
+            "addressLines": ["Shop’s Number G - 29,30,31,32, 33 \u0026 34, Ground Floor, PP Towers, Plot No. ", "C-1,2 \u0026 3", "Netaji Subash Place, Pitampura,"]
+          }
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "POINT"
+    },
+    "values": [{
+      "datum": {
+        "point": {
+          "latE7": 286935199,
+          "lngE7": 771509123
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SERVICE_AREA"
+    },
+    "values": [{
+      "datum": {
+        "serviceArea": {
+          "namedPlace": {
+            "placeId": "ChIJP59hsNUDDTkRAvuC8ixACCI",
+            "placeName": "Pitampura, Delhi, 110034, India"
+          }
+        }
+      }
+    }, {
+      "datum": {
+        "serviceArea": {
+          "namedPlace": {
+            "placeId": "ChIJtWFDRDMCDTkR7nZiq6ne8g4",
+            "placeName": "Netaji Subhash Place, Shakurpur, Delhi, 110034, India"
+          }
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SIGNUP_REGION"
+    },
+    "values": [{
+      "datum": {
+        "signupRegion": {
+          "regionCode": "IN"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "CATEGORY"
+    },
+    "values": [{
+      "datum": {
+        "category": {
+          "gcid": "gcid:coffee_shop",
+          "metadata": {
+            "isPrimary": true
+          },
+          "localizedName": "Coffee shop"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "WEBSITE"
+    },
+    "values": [{
+      "datum": {
+        "website": {
+          "text": "https://coffeeisland.in/"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "OPENING_DATE"
+    },
+    "values": [{
+      "datum": {
+        "openingDate": {
+          "date": {
+            "year": 2025,
+            "month": 10,
+            "day": 15
+          }
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "BUSINESS_EXISTENCE"
+    },
+    "values": [{
+      "datum": {
+        "businessExistence": {
+          "businessState": "OPEN"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "CLOSURE"
+    },
+    "values": [{
+      "datum": {
+        "closure": {
+          "type": "NOT_CLOSED"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "REGULAR_HOURS"
+    },
+    "values": [{
+      "datum": {
+        "regularHours": {
+          "periods": [{
+            "startDay": "SUNDAY",
+            "openTime": {
+            },
+            "endDay": "SUNDAY",
+            "closeTime": {
+              "hours": 24
+            }
+          }, {
+            "startDay": "MONDAY",
+            "openTime": {
+            },
+            "endDay": "MONDAY",
+            "closeTime": {
+              "hours": 24
+            }
+          }, {
+            "startDay": "TUESDAY",
+            "openTime": {
+            },
+            "endDay": "TUESDAY",
+            "closeTime": {
+              "hours": 24
+            }
+          }, {
+            "startDay": "WEDNESDAY",
+            "openTime": {
+            },
+            "endDay": "WEDNESDAY",
+            "closeTime": {
+              "hours": 24
+            }
+          }, {
+            "startDay": "THURSDAY",
+            "openTime": {
+            },
+            "endDay": "THURSDAY",
+            "closeTime": {
+              "hours": 24
+            }
+          }, {
+            "startDay": "FRIDAY",
+            "openTime": {
+            },
+            "endDay": "FRIDAY",
+            "closeTime": {
+              "hours": 24
+            }
+          }, {
+            "startDay": "SATURDAY",
+            "openTime": {
+            },
+            "endDay": "SATURDAY",
+            "closeTime": {
+              "hours": 24
+            }
+          }]
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "MERCHANT_DESCRIPTION"
+    },
+    "values": [{
+      "datum": {
+        "merchantDescription": {
+          "text": "No desks, no deadlines-just the best coffee and conversations.\n\n#ComeOnOver to Coffee Island☕"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_drive_through"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_onsite_services"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_vegetarian_only"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_curbside_pickup"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_takeout"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_breakfast"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_dine_in"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_no_contact_delivery"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_small_plates"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "welcomes_children"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_delivery"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_coffee"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_DEEP_LINK",
+      "scalableAttributeExternalId": "url_instagram"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_DEEP_LINK",
+      "scalableAttributeExternalId": "url_twitter"
+    }
+  }, {
+    "id": {
+      "attributeType": "GEOSTORE_PRICE_INFO"
+    }
+  }, {
+    "id": {
+      "attributeType": "EXCEPTIONAL_HOURS"
+    }
+  }, {
+    "id": {
+      "attributeType": "VANITY_DATA"
+    }
+  }, {
+    "id": {
+      "attributeType": "FOOD_ORDERING_MERCHANT_PREFERENCE"
+    }
+  }, {
+    "id": {
+      "attributeType": "ACCEPTS_QUOTE_REQUESTS"
+    }
+  }, {
+    "id": {
+      "attributeType": "DISALLOW_PHONE_NUMBER_EDITS"
+    }
+  }, {
+    "id": {
+      "attributeType": "CALL_TRACKING"
+    }
+  }, {
+    "id": {
+      "attributeType": "ACCEPTS_SERVICE_REQUESTS"
+    }
+  }, {
+    "id": {
+      "attributeType": "QBC_PRODUCT_TYPE"
+    }
+  }, {
+    "id": {
+      "attributeType": "LABEL"
+    }
+  }, {
+    "id": {
+      "attributeType": "STORE_CODE"
+    },
+    "values": [{
+      "datum": {
+        "storeCode": {
+          "text": "05631576842202886390"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "GOOGLE_ADS_EXTENSION"
+    }
+  }, {
+    "id": {
+      "attributeType": "ASSISTANT_CALLS_SETTING"
+    }
+  }, {
+    "id": {
+      "attributeType": "CHAIN_SELF_IDENTIFICATION"
+    }
+  }, {
+    "id": {
+      "attributeType": "ADMIN_ROLE_CLAIM"
+    }
+  }, {
+    "id": {
+      "attributeType": "MESSAGING_METADATA"
+    }
+  }, {
+    "id": {
+      "attributeType": "GLS_ACCOUNT_STATE"
+    }
+  }, {
+    "id": {
+      "attributeType": "NOREN_QR_CODE_ORDER"
+    }
+  }]
+}

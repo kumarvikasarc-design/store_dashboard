@@ -1,0 +1,189 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Rajni Poojary"
+    },
+    "starRating": "FIVE",
+    "comment": "Good",
+    "createTime": "2026-03-15T14:06:15.126327Z",
+    "updateTime": "2026-03-15T14:06:15.126327Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twT1ZXOWlWa2RXWWtOa00xRkllbmhQVTJ0bk4wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anjani"
+    },
+    "starRating": "FIVE",
+    "comment": "recently visitethis cafe and it was a delightful experience. The atmosphere is warm with soft lighting, perfect for working or relaxing. Also the server Ritika was friendly and super attentive , and made sure we had everything we needed. Highly recommend!",
+    "createTime": "2026-03-14T12:26:33.400463Z",
+    "updateTime": "2026-03-14T12:26:33.400463Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwNFV5MW9PVnBCWkhKVVUzZFhVV3hrYkMxRFEwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sakshi Kuware"
+    },
+    "starRating": "FIVE",
+    "comment": "Had a nice time here. The Paprika Chicken Melt was amazing and Ritika served me well.\nWill visit again!",
+    "createTime": "2026-03-14T09:04:12.171613Z",
+    "updateTime": "2026-03-14T09:04:12.171613Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NNWJrOVRUM1F0UzNVd2IxQmlURk5UVUhSR05uYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Avanee Ranadive"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-13T16:40:16.156005Z",
+    "updateTime": "2026-03-13T16:40:16.156005Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twVlIzRklVblpuVGkxMk5qWTFhRkpJVFVsSGRYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Prasad Rane"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-12T15:50:24.655465Z",
+    "updateTime": "2026-03-12T15:50:24.655465Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWdGFGQjRha2hrVTJjMlRIVkhlbTVWUVZoTE9VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Palm Village CHS"
+    },
+    "starRating": "FIVE",
+    "comment": "Best coffee I had. I have been here four times in last one week. Thanks for best service to Ritika",
+    "createTime": "2026-03-12T09:07:05.302553Z",
+    "updateTime": "2026-03-12T09:07:05.302553Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjNVZDMHpZV3huTkhGdlR6VnllbkZrTkVSbGVVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mita shetty"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-11T15:23:23.980169Z",
+    "updateTime": "2026-03-11T15:23:23.980169Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tacVYzRmpRMHMyYURKcmEwOU1XbTVTZEVOMVRXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tejas Bhoir"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-11T15:20:23.215667Z",
+    "updateTime": "2026-03-11T15:20:23.215667Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oeWJHNDBjbVo1Y2tWSVJEa3hjamQ2UTNSSWNGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "laxmi nair"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-11T14:01:21.270695Z",
+    "updateTime": "2026-03-11T14:01:21.270695Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1SGFrUnpZM0J1ZFdka1QxaHNhbEZKTkc5MloxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Divyanshu Kannaujiya"
+    },
+    "starRating": "FIVE",
+    "comment": "I\u0027ve visited coffee island it was amazing experience with welcoming staff\ntheir cold coffee was incredible in taste and\nHummus pita plate was too good 😋\nSpecially thanks to siddharth for making my day ☺️",
+    "createTime": "2026-03-10T15:22:46.549830Z",
+    "updateTime": "2026-03-10T15:22:46.549830Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tneVZrSjRXREZFWkV4ZlJrNWpPVzVEUW1oRlRGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaurav Shinde"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice abince and atmosphere good relaxing vibe coffee is so good food also thank you miss Gauri Mam you suggest me coffee and food next time I will visit with my family",
+    "createTime": "2026-03-10T11:23:07.182514Z",
+    "updateTime": "2026-03-10T11:23:07.182514Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkaGNEWm1UMVJRVmpFM1RFY3hSWEp3TTNoaWJGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Thai Thai"
+    },
+    "starRating": "FIVE",
+    "comment": "The café has a nice and comfortable atmosphere. The food and beverages are good, and the service is quick and friendly. Overall, it’s a great place to relax and enjoy 😊",
+    "createTime": "2026-03-10T11:07:47.361086Z",
+    "updateTime": "2026-03-10T11:07:47.361086Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT201WWJHdHhZazB0V0haamVscGtjMkZqYnpZMGFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javed Khan"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice ambition very well mannerd staff",
+    "createTime": "2026-03-10T10:58:10.596592Z",
+    "updateTime": "2026-03-10T10:58:10.596592Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkNFlWQjFlV2MzTjNsUlkwUjFjbmhGU2s4MVlXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "ujjwal ahirwar"
+    },
+    "starRating": "FIVE",
+    "comment": "I visited the coffee island the coffee was too good they recommend me the orange bumbble coffee the perfect combination of orange juice and coffee the was also good thanks ritika for your recommendation",
+    "createTime": "2026-03-10T10:54:30.009871Z",
+    "updateTime": "2026-03-10T10:54:30.009871Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twYWJ6SmlPV0owTFc5U2JWQTNkamQ0VEhGWFluYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ashwini Sanap"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice cafe. I love cafe environment and food. The cafe staff ritika is very helpful and she made her 2 pistachio capachino very 🙂👍🏽👍🏽👍🏽👍🏽👍🏽👍🏽👍🏽👍🏽.",
+    "createTime": "2026-03-10T09:35:20.908839Z",
+    "updateTime": "2026-03-10T09:35:20.908839Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4Mk1ua3RTbEUzY0ZCblpXOVhYMGMyUlZOSE0xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "sonali goga"
+    },
+    "starRating": "FIVE",
+    "comment": "“I recently tried the Java Chip Killer coffee and really liked it. Ritika, the staff there, was very kind and welcoming.”",
+    "createTime": "2026-03-10T08:59:22.534088Z",
+    "updateTime": "2026-03-10T08:59:22.534088Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkbk5uWXlSRmx1UmpGRlRFTnRiVEJFVFVGa1NWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Manju Saroj"
+    },
+    "starRating": "FIVE",
+    "comment": "My experience with bombastic coffichino flavour is good and service given by ritika is so overwhelmed.",
+    "createTime": "2026-03-10T08:52:55.496242Z",
+    "updateTime": "2026-03-10T08:52:55.496242Z",
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrMVRXVjRVVEJOV25ReGRtSklTV1ZqVlZRd1NVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sakshi ahire"
+    },
+    "starRating": "FIVE",
+    "comment": "Great experience at coffee island beyond.\n\nThe ambience is nice and the service is quick.And there staff is very friendly😊\n\nSpecial appreciation for Ritika, she was so good with us also all coustomer. She was polite, attentive, friendly and made the visit even better.\n\nTried the iced latte it was delicious.i will definitely visit again.best experience.",
+    "createTime": "2026-03-08T15:10:56.114538Z",
+    "updateTime": "2026-03-08T15:10:56.114538Z",
+    "reviewReply": {
+      "comment": "Great to hear the coffee, ambience, and service left such a strong impression. We appreciate you taking the time to share this and hope to see you again soon.",
+      "updateTime": "2026-03-09T08:02:02.833960Z"
+    },
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sU1QzZFpOSE5yYlc1MlpGbE9NVWRMYWxscFdXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "manisha jangid"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-08T13:55:35.595213Z",
+    "updateTime": "2026-03-08T13:55:35.595213Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2026-03-09T08:00:14.651256Z"
+    },
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3eUxUZEVTR3hGYUhkQlRVeGtWbmt6ZUc1SWFIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rohit Batra"
+    },
+    "starRating": "FIVE",
+    "comment": "Great Coffee.. Great Ambience.. Good Service..\nSpecially the Proffee!",
+    "createTime": "2026-03-08T13:42:48.385616Z",
+    "updateTime": "2026-03-08T13:42:48.385616Z",
+    "reviewReply": {
+      "comment": "Glad you enjoyed the coffee and the vibe. Happy to know the Proffee hit the mark. See you again soon.",
+      "updateTime": "2026-03-09T10:07:54.542030Z"
+    },
+    "name": "accounts/100486096577551952970/locations/7132653567992557892/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OcFRETnFhRXg2VjNWelpqZFNiRVpLVXpRMVVtYxAB"
+  }]
+}

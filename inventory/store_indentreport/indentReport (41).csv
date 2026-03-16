@@ -1,0 +1,11 @@
+Deployment Name,Coffee Island Phoenix Market City - Mumbai
+Start Date,01-08-2025
+End Date,31-08-2025
+Report Generation Date&Time,31/12/2025, 01:11:07 pm
+
+Supplier ,Receiver ,Receiver Kitchen ,Date,Expected Delivery,Indent Number ,Status ,Item Code ,HSN Code ,Item Name ,Category Code ,Category Name ,Super Category Code ,Super Category Name ,Unit ,UnitPrice,Margin Percentage,IndentPrice,Requested Qty ,Tax ,SubTotal ,Amount ,Comment ,Supplied Date ,Supplied Qty ,Tax ,SubTotal ,Amount ,Comment ,Dispatch Number ,Received Date ,Received Qty ,Tax ,SubTotal ,Amount ,Comment ,Directly Issued ,From Store/Kitchen,To Store/Kitchen,Suspicious Qty ,Suspicious Amount ,Reuse Qty ,Reuse Amount ,Wastage Qty ,Wastage Amount ,Item Status ,
+
+Warehouse NCR,Coffee Island Phoenix Market City - Mumbai,-,29-08-2025,29-08-2025,IN1,Received,UNI0000004,,Apron With Ci Logo,CT_80,UNIFORM - APRON,-,UNIFORM,PCS..,300,-,300,2,30,600,630,-,29-08-2025,2,30,600,630,-,105,16-10-2025,2,30,600,630,-,No,-,-,0,0.00,0,0,0,0,Received,
+Warehouse NCR,Coffee Island Phoenix Market City - Mumbai,-,29-08-2025,29-08-2025,IN1,Received,UNI0000015,,Polo T-Shirt With Ci Logo - Large,CT_82,UNIFORM - SHIRT/T SHIRT,-,UNIFORM,PCS,340,-,340,2,34,680,714,-,29-08-2025,2,34,680,714,-,105,16-10-2025,2,34,680,714,-,No,-,-,0,0.00,0,0,0,0,Received,
+Warehouse NCR,Coffee Island Phoenix Market City - Mumbai,-,29-08-2025,29-08-2025,IN1,Received,UNI0000005,,Team Member Ci Cap - Blue,CT_81,UNIFORM - CAP/HEAD GEARS,-,UNIFORM,PCS..,200,-,200,2,20,400,420,-,29-08-2025,2,20,400,420,-,105,16-10-2025,2,20,400,420,-,No,-,-,0,0.00,0,0,0,0,Received,
+,,,,,,,,,,,,,,,,,,Grand Total,84,1680,1764,,,,84,1680,1764,,,,,84,1680,1764,,,,,,0,,0,,0,

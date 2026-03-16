@@ -1,0 +1,184 @@
+{
+  "name": "locations/13380444637775966918",
+  "languageCode": "en-GB",
+  "storeCode": "16711798017380352084",
+  "title": "Coffee Island Beyond | GK 2",
+  "phoneNumbers": {
+    "primaryPhone": "092113 78004"
+  },
+  "categories": {
+    "primaryCategory": {
+      "name": "categories/gcid:coffee_shop",
+      "displayName": "Coffee shop",
+      "moreHoursTypes": [{
+        "hoursTypeId": "ACCESS",
+        "displayName": "Access",
+        "localizedDisplayName": "Access"
+      }, {
+        "hoursTypeId": "BREAKFAST",
+        "displayName": "Breakfast",
+        "localizedDisplayName": "Breakfast"
+      }, {
+        "hoursTypeId": "BRUNCH",
+        "displayName": "Brunch",
+        "localizedDisplayName": "Brunch"
+      }, {
+        "hoursTypeId": "DELIVERY",
+        "displayName": "Delivery",
+        "localizedDisplayName": "Delivery"
+      }, {
+        "hoursTypeId": "DINNER",
+        "displayName": "Dinner",
+        "localizedDisplayName": "Dinner"
+      }, {
+        "hoursTypeId": "DRIVE_THROUGH",
+        "displayName": "Drive through",
+        "localizedDisplayName": "Drive-through"
+      }, {
+        "hoursTypeId": "HAPPY_HOUR",
+        "displayName": "Happy hours",
+        "localizedDisplayName": "Happy hours"
+      }, {
+        "hoursTypeId": "KITCHEN",
+        "displayName": "Kitchen",
+        "localizedDisplayName": "Kitchen"
+      }, {
+        "hoursTypeId": "LUNCH",
+        "displayName": "Lunch",
+        "localizedDisplayName": "Lunch"
+      }, {
+        "hoursTypeId": "ONLINE_SERVICE_HOURS",
+        "displayName": "Online service hours",
+        "localizedDisplayName": "Online operating hours"
+      }, {
+        "hoursTypeId": "TAKEOUT",
+        "displayName": "Takeout",
+        "localizedDisplayName": "Takeaway"
+      }, {
+        "hoursTypeId": "SENIOR_HOURS",
+        "displayName": "Senior hours",
+        "localizedDisplayName": "Hours for the elderly"
+      }]
+    }
+  },
+  "storefrontAddress": {
+    "regionCode": "IN",
+    "languageCode": "en",
+    "postalCode": "110048",
+    "administrativeArea": "Delhi",
+    "locality": "New Delhi, South East Delhi",
+    "addressLines": ["Ground Floor, M-63, M Block Market, Greater Kailash 2,"]
+  },
+  "websiteUri": "https://coffeeisland.in/",
+  "regularHours": {
+    "periods": [{
+      "openDay": "SUNDAY",
+      "openTime": {
+      },
+      "closeDay": "SUNDAY",
+      "closeTime": {
+        "hours": 24
+      }
+    }, {
+      "openDay": "MONDAY",
+      "openTime": {
+      },
+      "closeDay": "MONDAY",
+      "closeTime": {
+        "hours": 24
+      }
+    }, {
+      "openDay": "TUESDAY",
+      "openTime": {
+      },
+      "closeDay": "TUESDAY",
+      "closeTime": {
+        "hours": 24
+      }
+    }, {
+      "openDay": "WEDNESDAY",
+      "openTime": {
+      },
+      "closeDay": "WEDNESDAY",
+      "closeTime": {
+        "hours": 24
+      }
+    }, {
+      "openDay": "THURSDAY",
+      "openTime": {
+      },
+      "closeDay": "THURSDAY",
+      "closeTime": {
+        "hours": 24
+      }
+    }, {
+      "openDay": "FRIDAY",
+      "openTime": {
+      },
+      "closeDay": "FRIDAY",
+      "closeTime": {
+        "hours": 24
+      }
+    }, {
+      "openDay": "SATURDAY",
+      "openTime": {
+      },
+      "closeDay": "SATURDAY",
+      "closeTime": {
+        "hours": 24
+      }
+    }]
+  },
+  "specialHours": {
+  },
+  "serviceArea": {
+    "businessType": "CUSTOMER_AND_BUSINESS_LOCATION",
+    "places": {
+      "placeInfos": [{
+        "placeName": "Chittaranjan Park, New Delhi, Delhi, India",
+        "placeId": "ChIJ4Q3EHNfjDDkRFgtoKMIr3BY"
+      }, {
+        "placeName": "Alaknanda Market, New Delhi, Delhi 110019, India",
+        "placeId": "ChIJBfqfoWXhDDkR_Z0VjthJ5Vc"
+      }, {
+        "placeName": "Greater Kailash I, New Delhi, Delhi 110048, India",
+        "placeId": "ChIJ03jUFUjiDDkRhSctafVyM1U"
+      }, {
+        "placeName": "Greater Kailash II, Greater Kailash, New Delhi, Delhi, India",
+        "placeId": "ChIJe69aAX7hDDkRvNhZ4MrxEaI"
+      }, {
+        "placeName": "Kalkaji, New Delhi, Delhi, India",
+        "placeId": "ChIJhfDO3NvjDDkRN6Kz8eY_M5k"
+      }, {
+        "placeName": "Savitri Nagar, Delhi, 110002, India",
+        "placeId": "ChIJUfaKFDv9DDkRfG2y6JVeQgc"
+      }]
+    },
+    "regionCode": "IN"
+  },
+  "adWordsLocationExtensions": {
+  },
+  "latlng": {
+    "latitude": 28.5334011,
+    "longitude": 77.2440659
+  },
+  "openInfo": {
+    "status": "OPEN",
+    "canReopen": true,
+    "openingDate": {
+      "year": 2025,
+      "month": 6,
+      "day": 4
+    }
+  },
+  "metadata": {
+    "placeId": "ChIJNyXtUwDjDDkRtbIX33295CM"
+  },
+  "profile": {
+    "description": "No desks, no deadlines—just the best coffee and conversations.\n\n#ComeOnOver to Coffee Island☕"
+  },
+  "relationshipData": {
+    "parentLocation": {
+    }
+  }
+}

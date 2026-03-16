@@ -1,0 +1,29 @@
+/* Hide default Dash spinner */
+._dash-loading-spinner {
+    display: none !important;
+}
+
+/* Inject logo spinner INTO dcc.Loading */
+._dash-loading::after {
+    content: "";
+    width: 120px;
+    height: 120px;
+
+    background-image: url("/assets/logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+    animation: spin 1.2s linear infinite;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Spin animation */
+@keyframes spin {
+    from { transform: translate(-50%, -50%) rotate(0deg); }
+    to   { transform: translate(-50%, -50%) rotate(360deg); }
+}

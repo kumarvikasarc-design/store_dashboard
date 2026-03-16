@@ -1,0 +1,213 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mohammad Javad Parvar"
+    },
+    "starRating": "FIVE",
+    "comment": "The food and services are very good\nI like hospitality of servers and baristas💐",
+    "createTime": "2026-03-13T05:51:36.028729Z",
+    "updateTime": "2026-03-13T05:51:36.028729Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaMVYzcEVXRzFSY0V4ZlJtRk9UMlJTZVdweU0yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Shivam Koli"
+    },
+    "starRating": "FIVE",
+    "comment": "Everything was good every drink every food was great and staff was very good I met there shivani she was so nice....",
+    "createTime": "2026-03-11T18:42:03.332393Z",
+    "updateTime": "2026-03-11T18:42:03.332393Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKS1JucFpSV1JGYVZweWFraFdYMGh1TW1sd1pXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kanhaiya Yadav"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-11T08:52:22.631426Z",
+    "updateTime": "2026-03-11T08:52:22.631426Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aVGVYRjBOVlppYkhoT1dqWTFkMGMzZFdGWlRXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "MD Zulfakkar"
+    },
+    "starRating": "FIVE",
+    "comment": "Amazing coffee. Thank you udit and Yasmin",
+    "createTime": "2026-03-11T05:59:36.448889Z",
+    "updateTime": "2026-03-11T05:59:36.448889Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xcE5XWTVZV1JyWHpKTlIwSmlhMDh4YWpkaFRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Heera"
+    },
+    "starRating": "FIVE",
+    "comment": "Cold coffee and java chip killer was excellent and mojitos and food is super awesome we loved the food and service was very good no wait for table and staff was very good and especially shivani was very helpful for us she helps us for what we order..",
+    "createTime": "2026-03-11T05:45:20.341935Z",
+    "updateTime": "2026-03-11T05:45:20.341935Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKeFdVZGxXa1pIVVZkYU1tSkVaRnBKUzFGaU5IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ganga Ram"
+    },
+    "starRating": "FIVE",
+    "comment": "Everything and every food we ordered was excellent and Shivani is very nice there.",
+    "createTime": "2026-03-11T05:36:55.499573Z",
+    "updateTime": "2026-03-11T05:36:55.499573Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxc00zbHBiMDlrUzB0SE9IZ3RMV0pWTTNWemEwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vinod Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "We had a great breakfast at coffee island gk2 and we met shivani she is very kind.",
+    "createTime": "2026-03-10T16:45:13.902239Z",
+    "updateTime": "2026-03-10T16:45:13.902239Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkNVUzRTFUUzFJT1c0d1FubG9iVm95TkZOeFdtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Babli Kumari"
+    },
+    "starRating": "FIVE",
+    "comment": "Shivani is very helpful for us.",
+    "createTime": "2026-03-10T16:41:03.233853Z",
+    "updateTime": "2026-03-10T16:41:03.233853Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psSWFHeEVkSGxSUVV3MGQydEhjVlZ6TUU1aFoxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vinod Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "We met Shivani at coffee island gk2 she is very kind and helpful.",
+    "createTime": "2026-03-10T16:36:42.718256Z",
+    "updateTime": "2026-03-10T16:36:42.718256Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFdGVFdFNiMmRDYlVWbVQyRmphSEpLYWw5blNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nisha Vishwakarma"
+    },
+    "starRating": "FIVE",
+    "comment": "One of the best in gk 2",
+    "createTime": "2026-03-10T09:00:34.889983Z",
+    "updateTime": "2026-03-10T09:00:34.889983Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRNE9IRlFObWMzYUdWcFEzRnRSa0Y0Y1ZOTVoyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monster Singh"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice coffee great service",
+    "createTime": "2026-03-09T14:24:44.143602Z",
+    "updateTime": "2026-03-09T14:24:44.143602Z",
+    "reviewReply": {
+      "comment": "Great to hear the coffee and service hit the mark. Hope to see you again soon.",
+      "updateTime": "2026-03-10T06:08:09.019946Z"
+    },
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GQlFYZHlkbFp0UWs5UFpqSnVkakl6WDNaWU5HYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "munnakhan"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice coffee",
+    "createTime": "2026-03-07T06:17:23.314109Z",
+    "updateTime": "2026-03-07T06:17:23.314109Z",
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sZlFqZ3dMVVV5WDB4a1oxYzRkVTlXWWpGQ05XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Parminder Singh"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-28T17:14:13.120447Z",
+    "updateTime": "2026-02-28T17:14:13.120447Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2026-03-09T12:08:18.403480Z"
+    },
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdldqZzVPVEZXUkUwNVEyUm1kSG94WVZNNWExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "vishal singh official"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-11T00:08:34.291997Z",
+    "updateTime": "2026-02-11T00:08:34.291997Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2026-02-25T06:17:00.558505Z"
+    },
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xscE1sODNOMlZzUTFaV1MzaFlNQzFqVXpVME5sRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "shoaib akhtar"
+    },
+    "starRating": "FIVE",
+    "comment": "Best",
+    "createTime": "2026-02-08T02:59:12.997605Z",
+    "updateTime": "2026-02-08T02:59:12.997605Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2026-02-25T06:17:07.079194Z"
+    },
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnNVQwSm5kMmszVTFoQ1EyVmpaSGx1ZERsTlYzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lavanya Bhatt"
+    },
+    "starRating": "FIVE",
+    "comment": "Good for sitting and working, or for having team meetings. Capacity is of around 20-30 people max.\nThe staff is good. The food is tasty, authentic. I tried margarita pizza and pasta, plain cold coffee and java chip cold coffee. 10/10 for all. Reasonable rates (acc to service and taste).",
+    "createTime": "2026-02-03T09:46:28.684472Z",
+    "updateTime": "2026-02-03T09:46:28.684472Z",
+    "reviewReply": {
+      "comment": "We’re glad you found us a great spot for working and team catch-ups. Happy to hear the Margherita flatbreads, pasta, and cold coffees hit the mark for you. Looking forward to hosting you and your team again soon.",
+      "updateTime": "2026-02-25T06:21:34.669723Z"
+    },
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOWFZVSXpSa2gzV0ZaclNUUXRRbkl6Vm5wNVJrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Loic Bygodt"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-02-01T03:33:40.181871Z",
+    "updateTime": "2026-02-01T03:33:40.181871Z",
+    "reviewReply": {
+      "comment": "Thank you for visiting! We look forward to serving you again and making it even better next time.",
+      "updateTime": "2026-02-25T06:20:40.827677Z"
+    },
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GU1EwZHFSMVpuV2tob1VrdFNlR05yTFV0MmQwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ankit Gupta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-27T13:40:10.042186Z",
+    "updateTime": "2026-01-27T13:40:10.042186Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2026-02-25T06:17:14.804034Z"
+    },
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Kd04xcFVMWEJNY0c1UWNIWnFXVzV6TVdWYWQyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bhoomika Sharma"
+    },
+    "starRating": "FOUR",
+    "comment": "Awesome experience. All staff members are nice and polite. Soecial mention to Mr Udit Kumar.",
+    "createTime": "2026-01-27T11:16:25.567536Z",
+    "updateTime": "2026-01-27T11:16:25.567536Z",
+    "reviewReply": {
+      "comment": "So happy to hear that! 😊☕ Glad you had a great time! See you again soon! ✨",
+      "updateTime": "2026-02-25T06:17:55.323041Z"
+    },
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swelltSlhkVlZZU0dKclkydzNOVlowUkc1NVgyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Midhun MJ"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-25T16:03:45.600248Z",
+    "updateTime": "2026-01-25T16:03:45.600248Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.\n",
+      "updateTime": "2026-01-27T09:01:13.161096Z"
+    },
+    "name": "accounts/100486096577551952970/locations/13380444637775966918/reviews/Ci9DQUlRQUNvZENodHljRjlvT205M01ITnVlVjlPYWpCd1REa3RlRmRPYjFONVdIYxAB"
+  }]
+}

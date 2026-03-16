@@ -1,0 +1,374 @@
+{
+  "attributes": [{
+    "id": {
+      "attributeType": "LISTING_NAME"
+    },
+    "values": [{
+      "datum": {
+        "listingName": {
+          "text": "Coffee Island | Phoenix Marketcity | Kurla"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "PHONE_NUMBER"
+    },
+    "values": [{
+      "datum": {
+        "phoneNumber": {
+          "phoneNumber": "092117 29504",
+          "metadata": {
+            "isPreferred": true
+          },
+          "phoneType": "VOICE",
+          "phoneNumberRfc3966": "tel:+91-92117-29504"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "ADDRESS"
+    },
+    "values": [{
+      "datum": {
+        "address": {
+          "postalAddress": {
+            "regionCode": "IN",
+            "languageCode": "en",
+            "postalCode": "400070",
+            "administrativeArea": "Maharashtra",
+            "locality": "Greater Mumbai",
+            "addressLines": ["OPR G-10K on Ground Floor, Phoenix Market City Mall, L.B.S.", "Marg, Kurla (West), Greater Mumbai Ward-L, Greater Mumbai, Maharashtra,"]
+          }
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "POINT"
+    },
+    "values": [{
+      "datum": {
+        "point": {
+          "latE7": 190865033,
+          "lngE7": 728884232
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SERVICE_AREA"
+    },
+    "values": [{
+      "datum": {
+        "serviceArea": {
+          "namedPlace": {
+            "placeId": "ChIJlT0pw43I5zsR7ZuEiPpsOuI",
+            "placeName": "Kurla West, Mumbai, Maharashtra, India"
+          }
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SIGNUP_REGION"
+    },
+    "values": [{
+      "datum": {
+        "signupRegion": {
+          "regionCode": "IN"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "CATEGORY"
+    },
+    "values": [{
+      "datum": {
+        "category": {
+          "gcid": "gcid:coffee_shop",
+          "metadata": {
+            "isPrimary": true
+          },
+          "localizedName": "Coffee shop"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "WEBSITE"
+    },
+    "values": [{
+      "datum": {
+        "website": {
+          "text": "https://coffeeisland.in/"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "BUSINESS_EXISTENCE"
+    },
+    "values": [{
+      "datum": {
+        "businessExistence": {
+          "businessState": "OPEN"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "CLOSURE"
+    },
+    "values": [{
+      "datum": {
+        "closure": {
+          "type": "NOT_CLOSED"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "REGULAR_HOURS"
+    },
+    "values": [{
+      "datum": {
+        "regularHours": {
+          "periods": [{
+            "startDay": "SUNDAY",
+            "openTime": {
+              "hours": 11
+            },
+            "endDay": "SUNDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "MONDAY",
+            "openTime": {
+              "hours": 11
+            },
+            "endDay": "MONDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "TUESDAY",
+            "openTime": {
+              "hours": 11
+            },
+            "endDay": "TUESDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "WEDNESDAY",
+            "openTime": {
+              "hours": 11
+            },
+            "endDay": "WEDNESDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "THURSDAY",
+            "openTime": {
+              "hours": 11
+            },
+            "endDay": "THURSDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "FRIDAY",
+            "openTime": {
+              "hours": 11
+            },
+            "endDay": "FRIDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }, {
+            "startDay": "SATURDAY",
+            "openTime": {
+              "hours": 11
+            },
+            "endDay": "SATURDAY",
+            "closeTime": {
+              "hours": 23
+            }
+          }]
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "MERCHANT_DESCRIPTION"
+    },
+    "values": [{
+      "datum": {
+        "merchantDescription": {
+          "text": "No desks, no deadlines-just the best coffee and conversations.\n\n#ComeOnOver to Coffee Island☕"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "RELATED_BUSINESS",
+      "relationId": {
+        "type": "INDEPENDENT_ESTABLISHMENT_IN"
+      }
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_onsite_services"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_vegetarian_only"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_takeout"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_dine_in"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "welcomes_children"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "has_delivery"
+    },
+    "values": [{
+      "datum": {
+        "scalableBoolean": {
+          "value": true
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_BOOLEAN",
+      "scalableAttributeExternalId": "serves_coffee"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_DEEP_LINK",
+      "scalableAttributeExternalId": "url_instagram"
+    }
+  }, {
+    "id": {
+      "attributeType": "SCALABLE_DEEP_LINK",
+      "scalableAttributeExternalId": "url_twitter"
+    }
+  }, {
+    "id": {
+      "attributeType": "GEOSTORE_PRICE_INFO"
+    }
+  }, {
+    "id": {
+      "attributeType": "OPENING_DATE"
+    }
+  }, {
+    "id": {
+      "attributeType": "EXCEPTIONAL_HOURS"
+    }
+  }, {
+    "id": {
+      "attributeType": "VANITY_DATA"
+    }
+  }, {
+    "id": {
+      "attributeType": "FOOD_ORDERING_MERCHANT_PREFERENCE"
+    }
+  }, {
+    "id": {
+      "attributeType": "ACCEPTS_QUOTE_REQUESTS"
+    }
+  }, {
+    "id": {
+      "attributeType": "DISALLOW_PHONE_NUMBER_EDITS"
+    }
+  }, {
+    "id": {
+      "attributeType": "CALL_TRACKING"
+    }
+  }, {
+    "id": {
+      "attributeType": "ACCEPTS_SERVICE_REQUESTS"
+    }
+  }, {
+    "id": {
+      "attributeType": "QBC_PRODUCT_TYPE"
+    }
+  }, {
+    "id": {
+      "attributeType": "LABEL"
+    }
+  }, {
+    "id": {
+      "attributeType": "STORE_CODE"
+    },
+    "values": [{
+      "datum": {
+        "storeCode": {
+          "text": "15917464138693367037"
+        }
+      }
+    }]
+  }, {
+    "id": {
+      "attributeType": "GOOGLE_ADS_EXTENSION"
+    }
+  }, {
+    "id": {
+      "attributeType": "ASSISTANT_CALLS_SETTING"
+    }
+  }, {
+    "id": {
+      "attributeType": "CHAIN_SELF_IDENTIFICATION"
+    }
+  }, {
+    "id": {
+      "attributeType": "ADMIN_ROLE_CLAIM"
+    }
+  }, {
+    "id": {
+      "attributeType": "MESSAGING_METADATA"
+    }
+  }, {
+    "id": {
+      "attributeType": "GLS_ACCOUNT_STATE"
+    }
+  }, {
+    "id": {
+      "attributeType": "NOREN_QR_CODE_ORDER"
+    }
+  }]
+}

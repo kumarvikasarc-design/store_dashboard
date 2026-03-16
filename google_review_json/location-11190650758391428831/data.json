@@ -1,0 +1,171 @@
+{
+  "name": "locations/11190650758391428831",
+  "languageCode": "en-GB",
+  "storeCode": "15917464138693367037",
+  "title": "Coffee Island | Phoenix Marketcity | Kurla",
+  "phoneNumbers": {
+    "primaryPhone": "092117 29504"
+  },
+  "categories": {
+    "primaryCategory": {
+      "name": "categories/gcid:coffee_shop",
+      "displayName": "Coffee shop",
+      "moreHoursTypes": [{
+        "hoursTypeId": "ACCESS",
+        "displayName": "Access",
+        "localizedDisplayName": "Access"
+      }, {
+        "hoursTypeId": "BREAKFAST",
+        "displayName": "Breakfast",
+        "localizedDisplayName": "Breakfast"
+      }, {
+        "hoursTypeId": "BRUNCH",
+        "displayName": "Brunch",
+        "localizedDisplayName": "Brunch"
+      }, {
+        "hoursTypeId": "DELIVERY",
+        "displayName": "Delivery",
+        "localizedDisplayName": "Delivery"
+      }, {
+        "hoursTypeId": "DINNER",
+        "displayName": "Dinner",
+        "localizedDisplayName": "Dinner"
+      }, {
+        "hoursTypeId": "DRIVE_THROUGH",
+        "displayName": "Drive through",
+        "localizedDisplayName": "Drive-through"
+      }, {
+        "hoursTypeId": "HAPPY_HOUR",
+        "displayName": "Happy hours",
+        "localizedDisplayName": "Happy hours"
+      }, {
+        "hoursTypeId": "KITCHEN",
+        "displayName": "Kitchen",
+        "localizedDisplayName": "Kitchen"
+      }, {
+        "hoursTypeId": "LUNCH",
+        "displayName": "Lunch",
+        "localizedDisplayName": "Lunch"
+      }, {
+        "hoursTypeId": "ONLINE_SERVICE_HOURS",
+        "displayName": "Online service hours",
+        "localizedDisplayName": "Online operating hours"
+      }, {
+        "hoursTypeId": "TAKEOUT",
+        "displayName": "Takeout",
+        "localizedDisplayName": "Takeaway"
+      }, {
+        "hoursTypeId": "SENIOR_HOURS",
+        "displayName": "Senior hours",
+        "localizedDisplayName": "Hours for the elderly"
+      }]
+    }
+  },
+  "storefrontAddress": {
+    "regionCode": "IN",
+    "languageCode": "en",
+    "postalCode": "400070",
+    "administrativeArea": "Maharashtra",
+    "locality": "Greater Mumbai",
+    "addressLines": ["OPR G-10K on Ground Floor, Phoenix Market City Mall, L.B.S.", "Marg, Kurla (West), Greater Mumbai Ward-L, Greater Mumbai, Maharashtra,"]
+  },
+  "websiteUri": "https://coffeeisland.in/",
+  "regularHours": {
+    "periods": [{
+      "openDay": "SUNDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "SUNDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "MONDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "MONDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "TUESDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "TUESDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "WEDNESDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "WEDNESDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "THURSDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "THURSDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "FRIDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "FRIDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "SATURDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "SATURDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }]
+  },
+  "specialHours": {
+  },
+  "serviceArea": {
+    "businessType": "CUSTOMER_AND_BUSINESS_LOCATION",
+    "places": {
+      "placeInfos": [{
+        "placeName": "Kurla West, Mumbai, Maharashtra, India",
+        "placeId": "ChIJlT0pw43I5zsR7ZuEiPpsOuI"
+      }]
+    },
+    "regionCode": "IN"
+  },
+  "adWordsLocationExtensions": {
+  },
+  "latlng": {
+    "latitude": 19.0865033,
+    "longitude": 72.8884232
+  },
+  "openInfo": {
+    "status": "OPEN",
+    "canReopen": true
+  },
+  "metadata": {
+    "placeId": "ChIJjX7U5TDJ5zsRejBpoEq-lDg"
+  },
+  "profile": {
+    "description": "No desks, no deadlines-just the best coffee and conversations.\n\n#ComeOnOver to Coffee Island☕"
+  },
+  "relationshipData": {
+    "parentLocation": {
+    }
+  }
+}

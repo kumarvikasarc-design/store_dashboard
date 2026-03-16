@@ -1,0 +1,163 @@
+{
+  "name": "locations/3281804826075053736",
+  "languageCode": "en-GB",
+  "storeCode": "17852215935074573233",
+  "title": "Coffee Island | AIPL",
+  "phoneNumbers": {
+    "primaryPhone": "092113 79005"
+  },
+  "categories": {
+    "primaryCategory": {
+      "name": "categories/gcid:coffee_shop",
+      "displayName": "Coffee shop",
+      "moreHoursTypes": [{
+        "hoursTypeId": "ACCESS",
+        "displayName": "Access",
+        "localizedDisplayName": "Access"
+      }, {
+        "hoursTypeId": "BREAKFAST",
+        "displayName": "Breakfast",
+        "localizedDisplayName": "Breakfast"
+      }, {
+        "hoursTypeId": "BRUNCH",
+        "displayName": "Brunch",
+        "localizedDisplayName": "Brunch"
+      }, {
+        "hoursTypeId": "DELIVERY",
+        "displayName": "Delivery",
+        "localizedDisplayName": "Delivery"
+      }, {
+        "hoursTypeId": "DINNER",
+        "displayName": "Dinner",
+        "localizedDisplayName": "Dinner"
+      }, {
+        "hoursTypeId": "DRIVE_THROUGH",
+        "displayName": "Drive through",
+        "localizedDisplayName": "Drive-through"
+      }, {
+        "hoursTypeId": "HAPPY_HOUR",
+        "displayName": "Happy hours",
+        "localizedDisplayName": "Happy hours"
+      }, {
+        "hoursTypeId": "KITCHEN",
+        "displayName": "Kitchen",
+        "localizedDisplayName": "Kitchen"
+      }, {
+        "hoursTypeId": "LUNCH",
+        "displayName": "Lunch",
+        "localizedDisplayName": "Lunch"
+      }, {
+        "hoursTypeId": "ONLINE_SERVICE_HOURS",
+        "displayName": "Online service hours",
+        "localizedDisplayName": "Online operating hours"
+      }, {
+        "hoursTypeId": "TAKEOUT",
+        "displayName": "Takeout",
+        "localizedDisplayName": "Takeaway"
+      }, {
+        "hoursTypeId": "SENIOR_HOURS",
+        "displayName": "Senior hours",
+        "localizedDisplayName": "Hours for the elderly"
+      }]
+    }
+  },
+  "storefrontAddress": {
+    "regionCode": "IN",
+    "languageCode": "en",
+    "postalCode": "122001",
+    "administrativeArea": "Haryana",
+    "locality": "Gurugram",
+    "addressLines": ["Shop No 110 \u0026 111, Ground Floor, AIPL Joy Central", "Sector 65"]
+  },
+  "websiteUri": "https://coffeeisland.in/",
+  "regularHours": {
+    "periods": [{
+      "openDay": "SUNDAY",
+      "openTime": {
+        "hours": 8
+      },
+      "closeDay": "SUNDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "MONDAY",
+      "openTime": {
+        "hours": 8
+      },
+      "closeDay": "MONDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "TUESDAY",
+      "openTime": {
+        "hours": 8
+      },
+      "closeDay": "TUESDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "WEDNESDAY",
+      "openTime": {
+        "hours": 8
+      },
+      "closeDay": "WEDNESDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "THURSDAY",
+      "openTime": {
+        "hours": 8
+      },
+      "closeDay": "THURSDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "FRIDAY",
+      "openTime": {
+        "hours": 8
+      },
+      "closeDay": "FRIDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "SATURDAY",
+      "openTime": {
+        "hours": 8
+      },
+      "closeDay": "SATURDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }]
+  },
+  "specialHours": {
+  },
+  "serviceArea": {
+  },
+  "adWordsLocationExtensions": {
+  },
+  "latlng": {
+    "latitude": 28.4048333,
+    "longitude": 77.0605387
+  },
+  "openInfo": {
+    "status": "OPEN",
+    "canReopen": true
+  },
+  "metadata": {
+    "placeId": "ChIJKRRUUvcjDTkRE2eyZQuqGAE"
+  },
+  "profile": {
+    "description": "No desks, no deadlines—just the best coffee and conversations.\n\n#ComeOnOver to Coffee Island☕"
+  },
+  "relationshipData": {
+    "parentLocation": {
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Md Shafique Alam"
+    },
+    "starRating": "FIVE",
+    "comment": "Breakfast combo is good option for morning",
+    "createTime": "2025-11-30T06:03:33.384812Z",
+    "updateTime": "2025-11-30T06:03:33.384812Z",
+    "reviewReply": {
+      "comment": "Glad the breakfast combo worked well for your morning!See you again for your next coffee morning. ☕",
+      "updateTime": "2025-12-03T05:15:01.172136Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOWGJtMURSVU5PYTFGdk0xcGlOV05yVUZOVFRtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ravi kashyap"
+    },
+    "starRating": "FIVE",
+    "comment": "Peri peri toastie is great .good food",
+    "createTime": "2025-11-30T05:59:54.511336Z",
+    "updateTime": "2025-11-30T05:59:54.511336Z",
+    "reviewReply": {
+      "comment": "Glad to know you enjoyed the Peri Peri Toastie! Always happy when our food hits the spot. Looking forward to having you back for more flavours. ☕",
+      "updateTime": "2025-12-01T12:12:22.804488Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KVFkwRldlRlZRYlVKMFRpMHRibUp4Y1hOMk5VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pratham Kashey"
+    },
+    "starRating": "FIVE",
+    "comment": "Good job Akash 👏",
+    "createTime": "2025-11-23T07:44:18.937120Z",
+    "updateTime": "2025-11-23T07:44:18.937120Z",
+    "reviewReply": {
+      "comment": "Glad to know you had a good experience with our team! 👌",
+      "updateTime": "2025-11-26T05:46:57.919115Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ScVRtSmlZbFV4WlUxMlRXZHNaR1JQVXpCUlpXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anshu Pal"
+    },
+    "starRating": "FIVE",
+    "comment": "Wonderful coffee and food",
+    "createTime": "2025-11-23T03:35:58.363727Z",
+    "updateTime": "2025-11-23T03:35:58.363727Z",
+    "reviewReply": {
+      "comment": "So glad you enjoyed both the coffee and the food. That’s exactly the experience we love creating. ☕✨",
+      "updateTime": "2025-11-26T05:47:26.687933Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OS1FrMDRlRTFqU1RCQloxaDRWa2wwUmtsUVlXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rajput King"
+    },
+    "starRating": "FIVE",
+    "comment": "Love their coffee",
+    "createTime": "2025-11-23T03:06:49.843102Z",
+    "updateTime": "2025-11-23T03:06:49.843102Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.\n",
+      "updateTime": "2025-11-26T05:46:33.598030Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNdE4zRjBORU53YW5kMFMyODFNRVZzTjBwalRGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ravish kumar Yadav"
+    },
+    "starRating": "FIVE",
+    "comment": "Roasted tomato croissant sandwich is amazing tasty",
+    "createTime": "2025-11-23T03:02:18.315028Z",
+    "updateTime": "2025-11-23T03:02:18.315028Z",
+    "reviewReply": {
+      "comment": "Glad to know you loved the Roasted Tomato Croissant Sandwich and it’s definitely a flavourful favourite! Looking forward to serving you again soon. ☕✨",
+      "updateTime": "2025-11-26T05:56:39.961321Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsVlJsZEVhRzh5Y0hGVk1tazJiVlV5VldWd1VXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "MOOMINE MOLLA"
+    },
+    "starRating": "FIVE",
+    "comment": "Wonderful coffee",
+    "createTime": "2025-11-21T06:27:32.608026Z",
+    "updateTime": "2025-11-21T06:27:32.608026Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.\n",
+      "updateTime": "2025-11-26T05:46:23.441438Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBM1EzVmpOMFo0V1ZGUlFsbFhlbkpTYUVGRGJVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Canjsn JJna"
+    },
+    "starRating": "FIVE",
+    "comment": "Place for good coffee",
+    "createTime": "2025-11-21T04:43:56.564976Z",
+    "updateTime": "2025-11-21T04:43:56.564976Z",
+    "reviewReply": {
+      "comment": "Thank you! We\u0027re so happy you had a great coffee experience. Can’t wait to have you back - there’s always more to discover!",
+      "updateTime": "2025-11-26T05:46:09.350813Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5d2J6UTBOV2g0UzNoS1NFaEtRbWxpYmtVM2VIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vineeta Dawra"
+    },
+    "starRating": "FIVE",
+    "comment": "Amazing variety and merchandise",
+    "createTime": "2025-11-18T13:02:13.396927Z",
+    "updateTime": "2025-11-18T13:02:13.396927Z",
+    "reviewReply": {
+      "comment": "Great to know you liked our merchandise! Looking forward to having you back. ☕✨",
+      "updateTime": "2025-11-26T05:55:12.766665Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCNGNHTklMVXAxWkRWbGJWRkhVazlsWVhSU01sRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tarini Gupta"
+    },
+    "starRating": "FIVE",
+    "comment": "The ambience and coffee is good! I have tried their Spanish Bonbon and Mocha, the coffee beans are strong. Just the right amount for me. The staff is friendly too. This is a good place to come with your family or with your friends. They also sell merchandise - Muge, hoodies, and coffee beans.",
+    "createTime": "2025-11-17T00:42:04.426049Z",
+    "updateTime": "2025-11-17T00:42:04.426049Z",
+    "reviewReply": {
+      "comment": "Glad you enjoyed the coffee, ambience, and overall experience! Hope to see you again soon for more Coffee Island moments. ☕✨",
+      "updateTime": "2025-11-26T05:52:39.619282Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT210RlJVNDNValpXWTFsaExYWmpiRUZNVlU1dVVVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ajay Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Good experience with coffee",
+    "createTime": "2025-11-16T04:14:36.874115Z",
+    "updateTime": "2025-11-16T04:14:36.874115Z",
+    "reviewReply": {
+      "comment": "Thank you! We\u0027re so happy you had a great coffee experience. Can’t wait to have you back - there’s always more to discover!",
+      "updateTime": "2025-11-26T05:45:44.793948Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4ak5sOTZaVkpFYTNOM1NYWnRkM2RLZURObE9WRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tamanna Tamanna"
+    },
+    "starRating": "FIVE",
+    "comment": "Breakfast combo is really good option for breakfast.",
+    "createTime": "2025-11-15T04:28:52.558591Z",
+    "updateTime": "2025-11-15T04:28:52.558591Z",
+    "reviewReply": {
+      "comment": "Glad you enjoyed the breakfast combo! It’s a great way to start the day with good flavours and a good mood. Looking forward to serving you again soon. ☕✨",
+      "updateTime": "2025-11-26T05:48:00.987663Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsQlowSjBiWFYxWTJwT2R6Vk1NMlp1TkVFMmFFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nishit Khandelwal"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-11-12T16:22:14.820962Z",
+    "updateTime": "2025-11-12T16:22:14.820962Z",
+    "reviewReply": {
+      "comment": "Thanks for the 4-star review! We appreciate it and hope to serve you an even better experience next time.",
+      "updateTime": "2025-11-13T05:30:07.865972Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTFJ6QXhPVGRhYm14RlJFaEhYMlJvUzFSUldXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kaushic Khanna"
+    },
+    "starRating": "FIVE",
+    "comment": "Very nice ambience. Amazing coffee…\nVery friendly staff…. Specially Subhash and Ravi…",
+    "createTime": "2025-11-11T16:11:53.210102Z",
+    "updateTime": "2025-11-11T16:11:53.210102Z",
+    "reviewReply": {
+      "comment": "We’re so glad you enjoyed the ambience, coffee, and the warm service from the team! It’s always a pleasure to create a welcoming experience for our guests. Looking forward to seeing you again soon! ☕✨",
+      "updateTime": "2025-11-12T11:07:59.283953Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VdGJqRkZiV3BVWkRWTk0wUnVObGxpVW5GaE1FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ankit Jatav"
+    },
+    "starRating": "FIVE",
+    "comment": "Good job akash and payel 👍",
+    "createTime": "2025-11-11T05:03:22.473731Z",
+    "updateTime": "2025-11-11T05:03:22.473731Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.\n",
+      "updateTime": "2025-11-12T11:04:08.430215Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xaFduUTRjV0o2ZFRseWRVRXROMVprUm14cmJFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ankit group status"
+    },
+    "starRating": "FIVE",
+    "comment": "Good job team akash and payel",
+    "createTime": "2025-11-08T10:39:04.742798Z",
+    "updateTime": "2025-11-08T10:39:04.742798Z",
+    "reviewReply": {
+      "comment": "We’re delighted to know you had a great experience with the team! Your kind words mean a lot – looking forward to serving you again soon. ☕✨",
+      "updateTime": "2025-11-12T11:00:52.279021Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJeVNHZDJRVmxSUmpaU1EwaG9ibWhvWTJsWWJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Narayan gurjar"
+    },
+    "starRating": "FIVE",
+    "comment": "Cappuccino was very nice make by akash👍",
+    "createTime": "2025-11-08T07:59:44.103325Z",
+    "updateTime": "2025-11-08T07:59:44.103325Z",
+    "reviewReply": {
+      "comment": "Glad you enjoyed the cappuccino! Always happy to serve a perfectly brewed cup – hope to see you again soon at Coffee Island. ☕✨",
+      "updateTime": "2025-11-12T10:59:34.827186Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJNU5rTlhhRWRzYVdkRUxYUmFiR2hsYTNnd1UyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ram Sagar"
+    },
+    "starRating": "FIVE",
+    "comment": "Lovely coffee i had..it was very nice place",
+    "createTime": "2025-11-08T05:36:51.904776Z",
+    "updateTime": "2025-11-08T05:36:51.904776Z",
+    "reviewReply": {
+      "comment": "We’re so glad you loved the coffee and the place! Always a pleasure to have you with us – hope to see you again soon for another great brew. ☕",
+      "updateTime": "2025-11-12T10:58:04.104234Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWldraDBhalIxY0doRFIyVnlaRXM0VmpSeVIzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Akhalesh Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Good job akash and payel I love the coffee",
+    "createTime": "2025-11-05T08:17:45.231220Z",
+    "updateTime": "2025-11-05T08:17:45.231220Z",
+    "reviewReply": {
+      "comment": "We’re delighted to know you had a great experience with the team! Your kind words mean a lot - looking forward to serving you again soon. ☕✨",
+      "updateTime": "2025-11-12T10:54:48.630388Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KMGNsZHJMVGxpWjI5RU5sTktlRTlGWVZoV1ZWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Latesh Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice food coffee was great by akash and payel",
+    "createTime": "2025-11-05T05:00:08.610588Z",
+    "updateTime": "2025-11-05T05:00:08.610588Z",
+    "reviewReply": {
+      "comment": "We’re delighted to know you had a great experience with the team! Your kind words mean a lot – looking forward to serving you again soon. ☕✨",
+      "updateTime": "2025-11-12T10:54:40.406999Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twbVpUbGphMmd5U1hCbU5HMDBkMWxaYTBreU5uYxAB"
+  }]
+}

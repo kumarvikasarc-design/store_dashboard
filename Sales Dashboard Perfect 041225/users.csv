@@ -1,0 +1,2 @@
+username,password_hash,role,is_active
+admin,1d19b6ca88a655bbc6261c49e1d2603ec0df1bf31f9d4c87f357a636da2461ae,admin,True

@@ -1,0 +1,12 @@
+Deployment Name,Coffee Island Beyond GK II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Start Date,01-05-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+End Date,31-05-2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Report Generation Date&Time,29-12-2025, 05:16:48 pm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Supplier ,Receiver ,Receiver Kitchen ,Date,Expected Delivery,Indent Number ,Status ,Item Code ,HSN Code ,Item Name ,Category Code ,Category Name ,Super Category Code ,Super Category Name ,Unit ,UnitPrice,Margin Percentage,IndentPrice,Requested Qty ,Tax ,SubTotal ,Amount ,Comment ,Supplied Date ,Supplied Qty ,Tax ,SubTotal ,Amount ,Comment ,Dispatch Number ,Received Date ,Received Qty ,Tax ,SubTotal ,Amount ,Comment ,Directly Issued ,From Store/Kitchen,To Store/Kitchen,Suspicious Qty ,Suspicious Amount ,Reuse Qty ,Reuse Amount ,Wastage Qty ,Wastage Amount ,Item Status 
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Warehouse NCR,Coffee Island Beyond GK II,-,23-05-2025,25-05-2025,IN1,Received,UNI0000004,,Apron With Ci Logo,CT_80,UNIFORM - APRON,-,UNIFORM,NOS,300,-,300,8,120,2400,2520,-,26-05-2025,8,120,2400,2520,-,24,01-06-2025,8,120,2400,2520,-,No,-,-,0,0,0,0,0,0,Received
+Warehouse NCR,Coffee Island Beyond GK II,-,23-05-2025,25-05-2025,IN1,Received,UNI0000007,,Polo T-Shirt With Ci Logo - Medium,CT_82,UNIFORM - SHIRT/T SHIRT,-,UNIFORM,NOS,340,-,340,12,204,4080,4284,-,26-05-2025,12,204,4080,4284,-,24,01-06-2025,12,204,4080,4284,-,No,-,-,0,0,0,0,0,0,Received
+Warehouse NCR,Coffee Island Beyond GK II,-,23-05-2025,25-05-2025,IN1,Received,UNI0000010,,Royal Blue Shirt F/S With Chinese Colour CI- Mens Medium,CT_82,UNIFORM - SHIRT/T SHIRT,-,UNIFORM,NOS,440,-,440,4,88,1760,1848,-,26-05-2025,4,88,1760,1848,-,24,01-06-2025,4,88,1760,1848,-,No,-,-,0,0,0,0,0,0,Received
+Warehouse NCR,Coffee Island Beyond GK II,-,23-05-2025,25-05-2025,IN1,Received,UNI0000005,,Team Member Ci Cap - Blue,CT_81,UNIFORM - CAP/HEAD GEARS,-,UNIFORM,NOS,200,-,200,16,160,3200,3360,-,26-05-2025,16,160,3200,3360,-,24,01-06-2025,16,160,3200,3360,-,No,-,-,0,0,0,0,0,0,Received
+,,,,,,,,,,,,,,,,,,Grand Total,572,11440,12012,,,,572,11440,12012,,,,,572,11440,12012,,,,,,0,,0,,0,

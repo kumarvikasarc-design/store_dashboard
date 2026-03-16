@@ -1,0 +1,16 @@
+{
+  "restaurants": [
+    {
+      "name": "Coffee Island Connaught Place",
+      "url": "https://www.zomato.com/ncr/coffee-island-sushant-lok-gurgaon/reviews"
+    }
+  ],
+  "output_dir": "exports/",
+  "selectors": {
+    "review_block": "sc-1hez2tp-0",
+    "username": "sc-1hez2tp-1",
+    "rating": "sc-1hez2tp-2",
+    "comment": "sc-1hez2tp-3",
+    "date": "sc-1hez2tp-4"
+  }
+}

@@ -1,0 +1,41 @@
+/* Sidebar title hover (Coffee Island) */
+#sidebar a:hover h3 {
+    text-decoration: underline;
+    opacity: 0.9;
+}
+
+/* Sidebar base */
+#sidebar {
+    transition: transform 0.35s ease;
+    will-change: transform;
+    box-shadow: 2px 0 8px rgba(0,0,0,0.2);
+}
+
+/* Sidebar hidden (JS-controlled) */
+#sidebar.hide {
+    transform: translateX(-260px);
+}
+
+/* Page content transition */
+#page-content {
+    transition: margin-left 0.35s ease;
+    will-change: margin-left;
+}
+
+/* Page expanded when sidebar hidden */
+#page-content.collapsed {
+    margin-left: 20px !important;
+}
+
+/* 📱 Mobile default: sidebar hidden */
+@media (max-width: 1024px) {
+    #sidebar {
+        transform: translateX(-260px);
+    }
+
+    /* allow toggle to override media rule */
+    #sidebar:not(.hide) {
+        transform: translateX(0);
+    }
+}
+

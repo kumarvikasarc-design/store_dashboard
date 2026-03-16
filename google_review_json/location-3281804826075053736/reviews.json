@@ -1,0 +1,232 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Om Yaduvanshi"
+    },
+    "starRating": "FIVE",
+    "comment": "Fabulous",
+    "createTime": "2026-03-15T13:34:12.586865Z",
+    "updateTime": "2026-03-15T13:34:12.586865Z",
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zeFkwRnNPVFZyU1hwMldIZzBURVF3YXpWTlYxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sarita Prajapati"
+    },
+    "starRating": "FIVE",
+    "comment": "Staff bahaviour is very well and polite",
+    "createTime": "2026-03-15T11:19:03.576309Z",
+    "updateTime": "2026-03-15T11:19:03.576309Z",
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25odGJWSnBWWEpOYmxCNVFUbE9hRjh5WDBZd2RsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vishal Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Good vibes",
+    "createTime": "2026-03-14T06:44:40.331145Z",
+    "updateTime": "2026-03-14T06:44:40.331145Z",
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4RlVGOUVkbEpLUkVaRlVFOUhORFZ1ZEhweFZtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "RAHUL KUMAR"
+    },
+    "starRating": "FIVE",
+    "comment": "Good staff and awasome food",
+    "createTime": "2026-03-13T12:26:25.068693Z",
+    "updateTime": "2026-03-13T12:26:25.068693Z",
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taVFlXRkpkMmgwVjI5MU4xOWxUSEl6UVUxeFdYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sonu Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Coffee was great",
+    "createTime": "2026-03-13T10:49:03.821024Z",
+    "updateTime": "2026-03-13T10:49:03.821024Z",
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SMk5HTnlhMUJXV0dnNWFUZGtYMXBvVkhNd1YwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dheeraj Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Islander cold coffee is just superb",
+    "createTime": "2026-03-13T07:53:01.015496Z",
+    "updateTime": "2026-03-13T07:53:01.015496Z",
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKNFYxZFhaRU41VjNReVNIbzFjR05zY3kwNVJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kartik Yadav"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice coffee",
+    "createTime": "2026-03-12T08:58:27.935911Z",
+    "updateTime": "2026-03-12T08:58:27.935911Z",
+    "reviewReply": {
+      "comment": "Thank you! We\u0027re so happy you had a great coffee experience. Can’t wait to have you back - there’s always more to discover!",
+      "updateTime": "2026-03-12T12:03:51.134061Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Sd1RqTmZXV2xUVjFneE9VMWtlV2hqYlU1RGJHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leeza Dutta"
+    },
+    "starRating": "FIVE",
+    "comment": "Love coming here 💕",
+    "createTime": "2026-03-11T08:18:16.779335Z",
+    "updateTime": "2026-03-11T08:18:16.779335Z",
+    "reviewReply": {
+      "comment": "Thank you for the perfect rating! 😊 We\u0027re so glad you had a great experience. Hope to welcome you back soon!",
+      "updateTime": "2026-03-12T12:03:40.381088Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25seU5rUjBTbkZ5UVdkWWRubFRaRkJXZVVodWFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pradeep Verma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-10T13:55:14.154381Z",
+    "updateTime": "2026-03-10T13:55:14.154381Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2026-03-12T12:01:16.570805Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGa2JrVTFWV2RQTWxOc2RsQnBNR3hYVGxCSE9WRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dilip Verma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-08T17:08:14.635156Z",
+    "updateTime": "2026-03-08T17:08:14.635156Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2026-03-09T11:31:22.480869Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VdFUxOWpTV1Z4V1U5TFIwMVlVMlpwWkc5emEzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dilip Verma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-08T15:53:00.359982Z",
+    "updateTime": "2026-03-08T15:53:00.359982Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.\n",
+      "updateTime": "2026-03-09T11:31:15.612489Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CMWQwNXpRbDgwVERFd09UbGtjbVJVTWpkalNFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mihika Gupta"
+    },
+    "starRating": "ONE",
+    "comment": "I really feel you need to level of the staff, specially your marketing team and your manager. They lack on speaking skills when it comes to handling customers. Since the last one week we are trying to conceptualise an event I was approached by your marketing team and we were discussing about an event and nothing has happened so far. It’s been a week. Nobody call back nobody response and then I get a message that the entire staff is busy with the launch in Mumbai, so it is going to take time. Please go ahead and do the event somewhere. This is how people lose on business.",
+    "createTime": "2026-02-25T07:26:15.644288Z",
+    "updateTime": "2026-02-25T07:26:15.644288Z",
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taalluWm1UMGx5VnpCUFIzRjJVVEJaU1Y5dWJYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dev Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Fentestic coffee",
+    "createTime": "2026-02-22T13:33:19.656819Z",
+    "updateTime": "2026-02-22T13:33:19.656819Z",
+    "reviewReply": {
+      "comment": "Thank you! We\u0027re so happy you had a great coffee experience. Can’t wait to have you back - there’s always more to discover!",
+      "updateTime": "2026-02-24T10:41:57.889197Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnemFFbExSelJ0YlRGdFpqVnJaVmQzY25WMlprRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nishita"
+    },
+    "starRating": "FIVE",
+    "comment": "Had the chicken jalapeño melt flatbread and mac and cheese pasta with chocolate milkshake! Perfect pairing! Had a great experience",
+    "createTime": "2026-02-21T11:00:49.802307Z",
+    "updateTime": "2026-02-21T11:00:49.802307Z",
+    "reviewReply": {
+      "comment": "We’re so glad you had a great experience, can’t wait to have you back for your next perfect pairing! ☕✨",
+      "updateTime": "2026-02-24T10:43:18.930483Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5RlNFVnZjelZ5YlhWZmIyd3lVM2sxTkZkVldVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kriti Sachdeva"
+    },
+    "starRating": "FIVE",
+    "comment": "The food and ambiance was amazing. The coffees were my favourite!!",
+    "createTime": "2026-02-21T10:59:40.908735Z",
+    "updateTime": "2026-02-21T10:59:40.908735Z",
+    "reviewReply": {
+      "comment": "We’re so glad you loved the food, the ambiance, and the coffee. \nCan’t wait to have you back for more favourites soon. ☕✨",
+      "updateTime": "2026-02-24T10:41:16.052510Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xBNGQxZGxkMDlvV2xFek5HTjVXa2R1VjBONFdVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Amit Bahuguna"
+    },
+    "starRating": "FIVE",
+    "comment": "I felt like outdending food to served I liked test",
+    "createTime": "2026-02-19T14:07:06.916925Z",
+    "updateTime": "2026-02-19T14:07:06.916925Z",
+    "reviewReply": {
+      "comment": "So happy to hear that! 😊☕ Glad you had a great time! See you again soon! ✨",
+      "updateTime": "2026-02-24T10:40:02.153257Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSYVkwOUVabVIzVkZodlF6aEZSazA0VjJVNWEzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Parveen Rajput"
+    },
+    "starRating": "FIVE",
+    "comment": "Authentic coffee taste and knowledgeable employees ... highly recommended",
+    "createTime": "2026-02-19T13:45:16.586640Z",
+    "updateTime": "2026-02-19T13:45:16.586640Z",
+    "reviewReply": {
+      "comment": "Thank you! We\u0027re so happy you had a great coffee experience. Can’t wait to have you back - there’s always more to discover!",
+      "updateTime": "2026-02-24T10:39:38.145808Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoYVZuWkhhRzVzVEVWMmFEWTFZMk51U0Y5bE1FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Abhinav Nangia (Innovative Concept)"
+    },
+    "starRating": "TWO",
+    "comment": "We came for second and this time with kids, just to have horrible experience.\nAfter waiting for 30min we were told that Asian chicken rice bowl is not available. We ordered hot choclate and at first served iced hazelnut. Ordered 2 portion of toasties and were told in 1 plate 2 toasties mean 2 portion after confrontation we were served 2nd plate.\nDisappointed will not recommend. Also when you pay 1800 you expect order to be served correct and on time.\nWhen all restaurant and cafe\u0027s are full on 14th Feb this one you will find empty. Something is wrong.",
+    "createTime": "2026-02-14T16:48:16.222799Z",
+    "updateTime": "2026-02-14T16:48:16.222799Z",
+    "reviewReply": {
+      "comment": "Dear Abhinav,\n\nWe’re truly sorry to read about your experience, especially since this was your second visit and you were dining with your children. That makes it even more disappointing to hear that we fell short.\n\nWaiting 30 minutes to be informed about item unavailability, confusion around portioning, and delays in serving are not the standards we aim to uphold. We completely understand your frustration, particularly when expectations are higher for a family outing and when you’ve chosen to spend your time and money with us.\n\nYour feedback has been shared with the outlet team for immediate review of service coordination, menu availability communication, and order accuracy. This is not the experience we want any guest to have.\n\nIf you’re open to it, we would really value the opportunity to understand more about your visit and address this personally. Please DM us on Instagram @coffee.island.in or write to us at hello@coffeeisland.in, and our team will connect with you directly.\n\nThank you for taking the time to share this. We are listening.\nTeam Coffee Island",
+      "updateTime": "2026-02-17T07:46:10.411278Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KbmVtOWZlV2xOTVZSRE5Yb3dNMHR1U3pOT2IwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mobile Doctor"
+    },
+    "starRating": "FIVE",
+    "comment": "Good place to visit",
+    "createTime": "2026-02-14T16:26:30.841095Z",
+    "updateTime": "2026-02-14T16:26:30.841095Z",
+    "reviewReply": {
+      "comment": "Thanks a latte for the 5 stars! Your support keeps us brewing our best every day.",
+      "updateTime": "2026-02-17T06:47:54.612334Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xodmRWZG5VSGR4WVc5NFNuRkhZVjkzU0ZWMmVuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anjali Singh"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Amazing\n\n(Original)\nAmezing",
+    "createTime": "2026-02-04T06:19:22.950946Z",
+    "updateTime": "2026-02-04T06:19:22.950946Z",
+    "reviewReply": {
+      "comment": "Five stars and a whole lot of love, grateful for your support!",
+      "updateTime": "2026-02-05T05:44:35.834522Z"
+    },
+    "name": "accounts/100486096577551952970/locations/3281804826075053736/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZelRIWmhOMVphUW5WTmQzWktUbU5KUkVoSloxRRAB"
+  }]
+}

@@ -1,0 +1,171 @@
+{
+  "name": "locations/18251157111954801525",
+  "languageCode": "en-GB",
+  "storeCode": "00246985653055169666",
+  "title": "Coffee Island | TRIBECA",
+  "phoneNumbers": {
+    "primaryPhone": "092117 29506"
+  },
+  "categories": {
+    "primaryCategory": {
+      "name": "categories/gcid:coffee_shop",
+      "displayName": "Coffee shop",
+      "moreHoursTypes": [{
+        "hoursTypeId": "ACCESS",
+        "displayName": "Access",
+        "localizedDisplayName": "Access"
+      }, {
+        "hoursTypeId": "BREAKFAST",
+        "displayName": "Breakfast",
+        "localizedDisplayName": "Breakfast"
+      }, {
+        "hoursTypeId": "BRUNCH",
+        "displayName": "Brunch",
+        "localizedDisplayName": "Brunch"
+      }, {
+        "hoursTypeId": "DELIVERY",
+        "displayName": "Delivery",
+        "localizedDisplayName": "Delivery"
+      }, {
+        "hoursTypeId": "DINNER",
+        "displayName": "Dinner",
+        "localizedDisplayName": "Dinner"
+      }, {
+        "hoursTypeId": "DRIVE_THROUGH",
+        "displayName": "Drive through",
+        "localizedDisplayName": "Drive-through"
+      }, {
+        "hoursTypeId": "HAPPY_HOUR",
+        "displayName": "Happy hours",
+        "localizedDisplayName": "Happy hours"
+      }, {
+        "hoursTypeId": "KITCHEN",
+        "displayName": "Kitchen",
+        "localizedDisplayName": "Kitchen"
+      }, {
+        "hoursTypeId": "LUNCH",
+        "displayName": "Lunch",
+        "localizedDisplayName": "Lunch"
+      }, {
+        "hoursTypeId": "ONLINE_SERVICE_HOURS",
+        "displayName": "Online service hours",
+        "localizedDisplayName": "Online operating hours"
+      }, {
+        "hoursTypeId": "TAKEOUT",
+        "displayName": "Takeout",
+        "localizedDisplayName": "Takeaway"
+      }, {
+        "hoursTypeId": "SENIOR_HOURS",
+        "displayName": "Senior hours",
+        "localizedDisplayName": "Hours for the elderly"
+      }]
+    }
+  },
+  "storefrontAddress": {
+    "regionCode": "IN",
+    "languageCode": "en",
+    "postalCode": "411060",
+    "administrativeArea": "Maharashtra",
+    "locality": "Pune",
+    "addressLines": ["Coffee Island , Shop No 31 , Plaza Floor Survey No 43 \u0026 44, Tribeca High ", "Street, Opp 9 Hils , NIBM Post Office Road , Kondhwa -Pune Maharashtra"]
+  },
+  "websiteUri": "https://coffeeisland.in/",
+  "regularHours": {
+    "periods": [{
+      "openDay": "SUNDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "SUNDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "MONDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "MONDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "TUESDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "TUESDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "WEDNESDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "WEDNESDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "THURSDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "THURSDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "FRIDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "FRIDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }, {
+      "openDay": "SATURDAY",
+      "openTime": {
+        "hours": 11
+      },
+      "closeDay": "SATURDAY",
+      "closeTime": {
+        "hours": 23
+      }
+    }]
+  },
+  "specialHours": {
+  },
+  "serviceArea": {
+    "businessType": "CUSTOMER_AND_BUSINESS_LOCATION",
+    "places": {
+      "placeInfos": [{
+        "placeName": "Kondhwa, Pune, Maharashtra, India",
+        "placeId": "ChIJT-3xdYrqwjsRSvom9OIVYMw"
+      }]
+    },
+    "regionCode": "IN"
+  },
+  "adWordsLocationExtensions": {
+  },
+  "latlng": {
+    "latitude": 18.4753855,
+    "longitude": 73.9080484
+  },
+  "openInfo": {
+    "status": "OPEN",
+    "canReopen": true
+  },
+  "metadata": {
+    "placeId": "ChIJL-g6QV7rwjsRh05lksIDaBs"
+  },
+  "profile": {
+    "description": "No desks, no deadlines - just the best coffee and conversations.\n\n#ComeOnOver to Coffee Island☕"
+  },
+  "relationshipData": {
+    "parentLocation": {
+    }
+  }
+}

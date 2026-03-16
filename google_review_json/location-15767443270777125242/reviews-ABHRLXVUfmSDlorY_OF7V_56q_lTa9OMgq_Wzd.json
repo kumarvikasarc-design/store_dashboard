@@ -1,0 +1,263 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Prateek Lodha"
+    },
+    "starRating": "FIVE",
+    "comment": "Best Cold coffee",
+    "createTime": "2025-03-11T15:51:10.316139Z",
+    "updateTime": "2025-03-11T15:51:10.316139Z",
+    "reviewReply": {
+      "comment": "So glad you enjoyed your coffee! 😊 At Coffee Island, we bring authentic European coffee culture to life with a variety of handcrafted brews. Next time, feel free to ask our team about different styles and flavors—they’d love to guide you through our menu and help you discover something new!",
+      "updateTime": "2025-03-25T09:41:39.850684Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNGN2cW5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Malik Kaiser"
+    },
+    "starRating": "FIVE",
+    "comment": "Coffe was very good and food also good thankyou coffe Island staff",
+    "createTime": "2025-03-11T04:10:13.841352Z",
+    "updateTime": "2025-03-11T04:10:13.841352Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re thrilled you enjoyed the coffee and food. Our team is always happy to serve you—can’t wait to welcome you back soon! ☕✨",
+      "updateTime": "2025-03-25T09:42:36.707317Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURRenQya2l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ansh Adlakha"
+    },
+    "starRating": "FIVE",
+    "comment": "My new favorite spot for coffee ☕",
+    "createTime": "2025-03-09T07:20:40.462980Z",
+    "updateTime": "2025-03-09T07:20:40.462980Z",
+    "reviewReply": {
+      "comment": "That makes us so happy to hear! ☕😊 Welcome to the Coffee Island family—can’t wait to serve you again!",
+      "updateTime": "2025-03-25T09:50:28.255261Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdE1uRDZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Priyaranjan"
+    },
+    "starRating": "FIVE",
+    "comment": "Loved the atmosphere…it’s a bit unique in Gurgaon. And food’s flavour was out of this world. Something new to me.",
+    "createTime": "2025-03-09T04:56:51.902935Z",
+    "updateTime": "2025-03-09T04:56:51.902935Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We’re so glad you enjoyed the unique atmosphere and flavors. Bringing a taste of European coffee culture to Gurugram—can’t wait to have you back! ☕✨",
+      "updateTime": "2025-03-25T10:41:36.015883Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTURRbE5fVGRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pradeep Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Very good trnur",
+    "createTime": "2025-03-08T02:35:27.649620Z",
+    "updateTime": "2025-03-08T02:35:27.649620Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re glad you had a great experience. Hope to see you again soon at Coffee Island! ☕✨",
+      "updateTime": "2025-03-25T09:52:09.085102Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRejVDMHh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dheeraj Yadav"
+    },
+    "starRating": "FIVE",
+    "comment": "Tried Melts. Amazing. Must visit.",
+    "createTime": "2025-03-04T15:12:32.325561Z",
+    "updateTime": "2025-03-04T15:12:32.325561Z",
+    "reviewReply": {
+      "comment": "So glad you loved the Melts! \nA must-visit for sure—can’t wait to serve you again! ☕😊",
+      "updateTime": "2025-03-25T09:54:06.920087Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbnRxenpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Arvind Kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Tasted Smoke cottage cheese wrap.... Extremely\ntasty and recommended...by one staff payal",
+    "createTime": "2025-03-04T10:14:45.997741Z",
+    "updateTime": "2025-03-04T10:29:27.822482Z",
+    "reviewReply": {
+      "comment": "Glad you enjoyed the Smoke Cottage Cheese Wrap! 🌯😊. Hope to serve you again soon! ☕✨",
+      "updateTime": "2025-03-25T10:42:08.618749Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRenZiWC1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ravendra Yadav"
+    },
+    "starRating": "FIVE",
+    "comment": "Freddo cappuccino  unique drink suggested by@payelroy",
+    "createTime": "2025-03-04T09:49:47.430796Z",
+    "updateTime": "2025-03-04T09:51:04.238459Z",
+    "reviewReply": {
+      "comment": "So glad you enjoyed the Freddo Cappuccino! ☕✨ It’s a true taste of European coffee culture. Hope to see you again soon! 😊",
+      "updateTime": "2025-03-25T10:42:31.234266Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRenJTT0NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lipa Rath"
+    },
+    "starRating": "FIVE",
+    "comment": "The “coffee island” coffee is rich, flavorful, and expertly crafted, with a perfect balance of aroma and taste. The ambiance is cozy and inviting, making it a great place to relax and enjoy. The staff is very warm, welcoming, and knowledgeable- always ready with great recommendations based on your taste. Absolutely loved this cafe!",
+    "createTime": "2025-03-03T14:51:18.830437Z",
+    "updateTime": "2025-03-03T14:51:18.830437Z",
+    "reviewReply": {
+      "comment": "Thank you for your wonderful words! ☕✨ We\u0027re thrilled you enjoyed our rich, flavorful coffee and the cozy ambiance. Our team loves sharing the best of European coffee culture and helping you find your perfect cup. Can\u0027t wait to welcome you back! 😊",
+      "updateTime": "2025-03-25T09:56:08.158618Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRaXIzeEh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Prabhash Kumar mandal"
+    },
+    "starRating": "FIVE",
+    "comment": "Amazing food and excellent service .staff was too polite.",
+    "createTime": "2025-03-02T04:41:22.317377Z",
+    "updateTime": "2025-03-02T04:41:22.317377Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re delighted you loved the food and service. Our team is always happy to make your experience special—hope to see you again soon! ☕✨",
+      "updateTime": "2025-03-25T09:59:05.913696Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNU02ZDJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "vipin kumar"
+    },
+    "starRating": "FIVE",
+    "comment": "Every Coffee lover must visit here, Great vibe great coffee and most imp. Superb staff, Abhimanyu \u0026 Anand\nThe Passion of coffee they have and their superb way to explain coffee is just excellent.\n@coffeeisland you must get more guys like these.",
+    "createTime": "2025-03-01T15:46:05.772407Z",
+    "updateTime": "2025-03-01T15:52:59.836299Z",
+    "reviewReply": {
+      "comment": "Thank you for the wonderful words! ☕😊 We\u0027re thrilled you enjoyed the vibe, coffee, and the passion our team brings. Huge shoutout to Anand for making your experience special! We\u0027ll keep brewing great moments for coffee lovers like you. See you again soon!",
+      "updateTime": "2025-03-25T10:43:53.974190Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRNk9MdEd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Somnath Samanta"
+    },
+    "starRating": "FIVE",
+    "comment": "The coffee was exceptional—I\u0027ve never had anything like it before. The atmosphere was wonderful as well. If you\u0027re looking to refresh your mind, you must visit Coffee Island.",
+    "createTime": "2025-02-28T09:16:16.837908Z",
+    "updateTime": "2025-02-28T09:16:16.837908Z",
+    "reviewReply": {
+      "comment": "Thank you for your kind words! ☕😊 We\u0027re so glad you enjoyed the exceptional coffee and inviting atmosphere. Nothing beats a great cup to refresh the mind! Hope to welcome you back soon. ",
+      "updateTime": "2025-03-25T10:07:53.012Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURndDcyMWlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pooja Bisht"
+    },
+    "starRating": "FIVE",
+    "comment": "An amazing coffee, i am highly reccomending this cafe👍and supporting staff, especially Ms. Payal Roy👍Good job guys",
+    "createTime": "2025-02-28T08:29:48.962720Z",
+    "updateTime": "2025-02-28T08:29:48.962720Z",
+    "reviewReply": {
+      "comment": "Thank you for the amazing review! ☕😊 We\u0027re so glad you loved the coffee and service. Hope to see you again soon. 👍✨",
+      "updateTime": "2025-03-25T10:44:30.200907Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURndDZLX3RnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sheetal Prasad"
+    },
+    "starRating": "FIVE",
+    "comment": "Good food good service best in town",
+    "createTime": "2025-02-27T17:36:14.189410Z",
+    "updateTime": "2025-02-27T17:36:14.189410Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so glad you enjoyed the food and service. Bringing the best of European coffee culture to town—hope to see you again soon! ☕✨",
+      "updateTime": "2025-03-25T10:12:44.678198Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURnMjVpM3RBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kashish Gupta"
+    },
+    "starRating": "FIVE",
+    "comment": "Had the best time here! Payel was really sweet with our coffee requests too :’)",
+    "createTime": "2025-02-27T11:26:05.282184Z",
+    "updateTime": "2025-02-27T11:26:05.282184Z",
+    "reviewReply": {
+      "comment": "So happy to hear that! 😊☕ Glad you had a great time! See you again soon! ✨",
+      "updateTime": "2025-03-25T10:44:53.193873Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURnaS1HbF9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kumari Prerna Sinha"
+    },
+    "starRating": "FIVE",
+    "comment": "Great ambience and food. Lovely staff.",
+    "createTime": "2025-02-25T07:17:14.748745Z",
+    "updateTime": "2025-02-25T07:17:14.748745Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re delighted you enjoyed the ambiance, food, and our lovely team. Hope to welcome you back soon! ☕✨",
+      "updateTime": "2025-03-25T10:17:10.785068Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTURnb2NEN2ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jayant Asrani"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice Ambience, mouth watering smell and taste was fabulous",
+    "createTime": "2025-02-25T06:53:01.390323Z",
+    "updateTime": "2025-02-25T06:53:01.390323Z",
+    "reviewReply": {
+      "comment": "Thank you! 😊 We\u0027re so glad you loved the ambiance and the irresistible aroma \u0026 taste of our coffee. Hope to see you again soon! ☕✨",
+      "updateTime": "2025-03-25T10:18:16.611667Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURnd2NQSnhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Radhika Bansal"
+    },
+    "starRating": "FIVE",
+    "comment": "Saurabh and Payal were great - lovely place and amazing coffee!",
+    "createTime": "2025-02-25T04:58:11.842626Z",
+    "updateTime": "2025-02-25T04:58:11.842626Z",
+    "reviewReply": {
+      "comment": "Thank you! ☕😊 We\u0027re thrilled you loved the coffee and had a great experience. Big shoutout to Saurabh \u0026 Payal for making it even better! Hope to see you again soon! ✨",
+      "updateTime": "2025-03-25T10:18:56.855697Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURnZ2NuRjZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Surbhi Jaiswal"
+    },
+    "starRating": "FIVE",
+    "comment": "Coffee Island truly stands out as a coffee lover\u0027s paradise. From the moment you walk in, the warm, inviting ambiance sets the tone for a perfect coffee experience. The staff is incredibly friendly, knowledgeable, and passionate about what they do, ensuring each customer feels welcomed and well-served.",
+    "createTime": "2025-02-24T16:23:00.021804Z",
+    "updateTime": "2025-02-24T16:23:00.021804Z",
+    "reviewReply": {
+      "comment": "Thank you for your wonderful words! ☕😊 We\u0027re delighted that you felt the warmth of our space and the passion behind every cup. Our team loves creating the perfect coffee experience for every guest. Can\u0027t wait to welcome you back!",
+      "updateTime": "2025-03-25T10:20:54.603730Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChZDSUhNMG9nS0VJQ0FnTURnOXZDR2NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "aman khan"
+    },
+    "starRating": "FIVE",
+    "comment": "Great atmosphere, great coffee and most importantly great Staff....\nWould love to recommend this to every coffee lover in Delhi NCR. Also big shoutout to your staff Abhi \u0026 Anand you guys made our visit just awesome",
+    "createTime": "2025-02-23T14:10:54.137899Z",
+    "updateTime": "2025-02-23T14:11:36.961008Z",
+    "reviewReply": {
+      "comment": "Thank you for your kind words! ☕😊 We\u0027re delighted you enjoyed the atmosphere, coffee, and service. Looking forward to welcoming you back soon. ✨",
+      "updateTime": "2025-03-25T10:46:20.724996Z"
+    },
+    "name": "accounts/100486096577551952970/locations/15767443270777125242/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNHFpbTBRRRAB"
+  }]
+}

@@ -1,0 +1,81 @@
+/* =========================================================
+   DASH DatePickerRange – INPUT (TOP BAR)
+   ========================================================= */
+
+/* Keep DatePickerRange on ONE line */
+.DateRangePicker,
+.DateRangePickerInput {
+    display: inline-flex !important;
+    align-items: center !important;
+    white-space: nowrap !important;
+    height: 38px !important;
+}
+
+/* Individual date boxes */
+.DateInput {
+    width: 110px !important;
+    height: 38px !important;
+}
+
+/* Text inside date input */
+.DateInput_input {
+    height: 38px !important;
+    line-height: 38px !important;
+    padding: 0 8px !important;
+    font-size: 14px !important;
+}
+
+/* Arrow between dates */
+.DateRangePickerInput_arrow {
+    margin: 0 6px !important;
+    line-height: 38px !important;
+}
+
+/* =========================================================
+   CALENDAR POPUP (MONTH VIEW) – SAFE TO KEEP
+   ========================================================= */
+
+.DayPicker {
+    min-width: 310px !important;
+}
+
+.CalendarMonth {
+    width: 100% !important;
+}
+
+/* Month title */
+.CalendarMonth_caption {
+    width: 100% !important;
+    text-align: center !important;
+    padding: 25px 0 !important;
+}
+
+.CalendarMonth_caption strong {
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    white-space: nowrap !important;
+}
+
+/* Weekday header */
+.DayPicker_weekHeader_ul {
+    display: grid !important;
+    grid-template-columns: repeat(7, 1fr) !important;
+}
+
+.DayPicker_weekHeader_li {
+    text-align: center !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+}
+
+/* Date cells */
+.CalendarMonth_table tr {
+    display: grid !important;
+    grid-template-columns: repeat(7, 1fr) !important;
+}
+
+.CalendarDay {
+    height: 39px !important;
+    line-height: 20px !important;
+    text-align: center !important;
+}
