@@ -1,15 +1,20 @@
-# Store Dashboard 📊
+# 📊 Store Dashboard
 
 A Python-based analytics dashboard for store operations using SQL Server data.
 
-This project provides insights into sales, inventory, and customer feedback through a simple dashboard interface.
+This project provides insights into **sales, inventory, and customer feedback** through a simple dashboard interface.
 
 ---
 
 ## 🚀 Project Overview
 
-This dashboard helps analyze store operations by integrating SQL data into a Python application.  
-It provides visual insights into sales, stock, and customer feedback.
+This dashboard helps analyze store operations by integrating SQL data into a Python application.
+
+It provides visual insights into:
+
+- Sales performance
+- Inventory levels
+- Customer feedback
 
 ---
 
@@ -30,7 +35,7 @@ It provides visual insights into sales, stock, and customer feedback.
 - SQL Server
 - Pandas
 - SQLAlchemy
-- Streamlit / Tkinter (depending on your UI)
+- Streamlit / Tkinter
 - Git & GitHub
 
 ---
